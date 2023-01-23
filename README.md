@@ -25,9 +25,9 @@ If collection NFT `A` is whitelisted and NFT `B` is created by `A` (`B` is there
 ## How To Contribute
 
 Following steps will get your entries added to the whitelist:
-1. Submit a PR which adds the defined JSON files in the right network and type folder. Make sure that the JSON data is valid and adheres to either the IRC27/IRC30 standards (depending on the type).
+1. Submit a PR which adds the defined JSON file in the right network and type folder. Make sure that the JSON data is valid and adheres to either the IRC27/IRC30 standards (depending on the type).
 1. You must supply an Ed25519 signature within the PR description which signs the JSON data together with the corresponding public key (not the Ed25519 address).
-  If you are submitting multiple JSON files at once, then supply a signature for each of those files. We check the supplied signatures/public keys against the on-chain
+  Do not submit multiple JSON files at once, supply a PR for each entry individually. We check the supplied signatures/public keys against the on-chain
   outputs by examining whether the given foundry or NFT was created through the specified public key bearer.
 1. A group of reviewers will check the signatures and the IRC27/IRC30 data against the on-chain data and for profanity.
 2. Your PR gets merged and our public service will pick up the change to whitelist your tokens/NFTs.

@@ -1,0 +1,6 @@
+{
+  "standard": "IRC30",
+  "name": "TestCoin",
+  "symbol": "TEST",
+  "decimals": 3
+}
