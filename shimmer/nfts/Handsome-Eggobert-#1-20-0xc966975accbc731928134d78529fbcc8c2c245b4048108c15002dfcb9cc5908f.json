@@ -1,0 +1,13 @@
+{
+ "description": "This easter-special shows a little insight into the future of my project.\n\nIf you own an Eggobert you will get:\n\n5% discount on the Handsome Flappy Collection #20-30, where the first 10 will be released on May 1st.\n\n10% discount on the hatched *********** ... Hmm... we'll have to wait for that one..\n\nYou can find out what other advantages you get at https://handsomeflappy.com/",
+ "issuerName": "Soonaverse",
+ "name": "Handsome Eggobert #1-20",
+ "royalties": {
+  "smr1qpg8r75f8szfmdvzgtzwrkv3y33l7pywuqmwzevzxurtd4x5330ncy9pc6p": 0.1
+ },
+ "soonaverseId": "0xc18ddc15c71cdf85baaa0d574362ca03b9d1ca83",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeibpn2fjdgfnxfx6xktd25zrtpll22qpcvwvwtl4zsnuff7htcra7e",
+ "version": "v1.0"
+}

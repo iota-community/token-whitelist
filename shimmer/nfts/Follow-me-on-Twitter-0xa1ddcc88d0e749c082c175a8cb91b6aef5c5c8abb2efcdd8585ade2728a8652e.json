@@ -1,0 +1,10 @@
+{
+ "description": "Follow me on my twitter ApeEgyptianArt",
+ "issuerName": "Soonaverse",
+ "name": "Follow me on Twitter",
+ "soonaverseId": "0x498fe42eef8455d0168c64cd1b29f5b5f6352b96",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeihp3x7pq6byvu7btzqy3xtdljvjpfaj3mmfdqx7qfqltmntp2swry",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "Welcome aboard wanderers",
+ "issuerName": "Soonaverse",
+ "name": "Welcome aboard wanderers",
+ "soonaverseId": "0x0247e572f6a535d06e5c0f684cd950b717c3cec4",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeihgbs5apwqs5vmb52qltdxeipxhixkvybdqbx46b5o666hbg3ywse",
+ "version": "v1.0"
+}

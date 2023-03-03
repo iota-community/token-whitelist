@@ -1,0 +1,10 @@
+{
+ "description": "For MOMOBEAR only",
+ "issuerName": "Soonaverse",
+ "name": "MomoPower",
+ "soonaverseId": "0xc4bf300c66f2c3de67d81873e22eb6ac49fe356a",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreibllluwuegd2vmt5bevrnhxbwgch3ntpvqq4yeacsdaqbir4tzlve",
+ "version": "v1.0"
+}

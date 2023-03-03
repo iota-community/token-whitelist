@@ -1,0 +1,10 @@
+{
+ "description": "SM fan",
+ "issuerName": "Soonaverse",
+ "name": "SM fan",
+ "soonaverseId": "0xcb3ef3ce707bfabcbfd3ce6af71b7b843c02a96a",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "BlackWhite",
+ "issuerName": "Soonaverse",
+ "name": "BlackWhite",
+ "soonaverseId": "0xfb2b8046a2c9e95e78d91b31052706a972d31380",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeibaars6hqutjmldkd2wif3fx5aksskvgsaubw2cv2ucevdvu4qyni",
+ "version": "v1.0"
+}

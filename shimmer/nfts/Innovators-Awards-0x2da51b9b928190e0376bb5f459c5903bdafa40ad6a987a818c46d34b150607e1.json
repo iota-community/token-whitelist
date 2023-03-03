@@ -1,0 +1,10 @@
+{
+ "description": "Badges to introduce new members into the Soonaverse",
+ "issuerName": "Soonaverse",
+ "name": "Innovators Awards",
+ "soonaverseId": "0x44dec22b1c3a445ed51cbaeecbb291035903f3d0",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeid4566ka5s5gnf6ouzy5k7maow4no3cqmoxph5bhzuroyz5rsff5i",
+ "version": "v1.0"
+}

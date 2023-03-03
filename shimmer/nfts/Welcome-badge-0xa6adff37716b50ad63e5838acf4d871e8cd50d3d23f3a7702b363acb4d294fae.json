@@ -1,0 +1,10 @@
+{
+ "description": "",
+ "issuerName": "Soonaverse",
+ "name": "Welcome badge",
+ "soonaverseId": "0x28cc0ab6e049cf5737aca6aaba48b2ca3840dc61",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreibujxmhm3wisoe3wxiaqmmfgoemyiemwzouioyc3zdbm7owty2bnu",
+ "version": "v1.0"
+}

@@ -1,0 +1,13 @@
+{
+ "description": "THE FIRST NFT ART COLLECTION BY DRUNKN CAT!!",
+ "issuerName": "Soonaverse",
+ "name": "ART COLLECTION ONE BY DRUNKN.CAT",
+ "royalties": {
+  "smr1qpmuy5926q8ah548v8jgtrg5g2p43es7dhx98drgcc9nn5zj82272ya4f94": 0.09
+ },
+ "soonaverseId": "0xc72f5f2e803589aa262d4fbee1930a9813ced981",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeignzcanicofay2pg2l3vxrr7k3qxvnjseno237ijk7pu5hyjpbyc4",
+ "version": "v1.0"
+}

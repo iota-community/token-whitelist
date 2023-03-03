@@ -1,0 +1,13 @@
+{
+ "description": "This NFTs special collection is our personal tribute to ΙΟΤΛ and everything that represents it.\n50 elegant, sober and customized items in white ΙΟΤΛ logo. \n\nThis project is not endorsed by the IOTA Foundation ;\nIOTA and the IOTA logo are trademarks of the IOTA Foundation https://www.iota.org/",
+ "issuerName": "Soonaverse",
+ "name": "ΙΟΤΛ Tribute Collection: Unique White",
+ "royalties": {
+  "smr1qrqnyl5qm6ulqung2pt20hpjctygdsluqzjs9jgz42fd09uqf842vtpapnw": 0.05
+ },
+ "soonaverseId": "0x0ecc0c3139d957eb9b7472cce9d899b839a23108",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeififhxmkiozzfdnqe2gkd5uxyxpic5pe24urzykj4jveb6i7xntta",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "In which of the portals of the Temporal Anomaly collection would you enter?\n\nTo obtain the badge you must answer with the name of the destination indicated in the description and its indicator number.\n\nExample: TEMPORALANOMALY#1/Island of Eternal Youth \n\n(You cannot repeat the example or copy the same answer from other participants)",
+ "issuerName": "Soonaverse",
+ "name": "Temporal Anomaly Traveler",
+ "soonaverseId": "0xadf567a7424f888a425e7122e88c0ec8e4f3cf51",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiadhxlk2dpytueo55jn6ezfvaxo2uwyap4r23vjd4etis7oha6ur4",
+ "version": "v1.0"
+}

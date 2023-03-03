@@ -1,0 +1,10 @@
+{
+ "description": "Belgium Award",
+ "issuerName": "Soonaverse",
+ "name": "Belgium Award",
+ "soonaverseId": "0x4e95896b1f1cfd12930d31dc28194d1b19c7b301",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiad7nycwwfepp2upbl3jm2cermkb3m6xrt32nut3grioiqfjfdaxq",
+ "version": "v1.0"
+}

@@ -1,0 +1,13 @@
+{
+ "description": "100 unique designs - Limited Edition\n\nOwning a Castle NFT means that you can use the image however you like, for private or commercial use.\n\nI wish you good luck and a good life. All the love. All the power",
+ "issuerName": "Soonaverse",
+ "name": "100 Castles",
+ "royalties": {
+  "smr1qznk5wvng3ae855sk9faszpc97lnf5rac45cecptx5u3ny7q59lxz32xz4n": 0.04
+ },
+ "soonaverseId": "0x46c0393e091c4fd4966b073355b5376f0342f181",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeid4ziyqynlb4rgyt35di4vudj3ofntytzkxhnbwrcysgdwpvb6mbi",
+ "version": "v1.0"
+}

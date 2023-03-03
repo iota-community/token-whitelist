@@ -1,0 +1,10 @@
+{
+ "description": "Für alle, die den Wert natürlicher Energiequellen schätzen",
+ "issuerName": "Soonaverse",
+ "name": "natural energy",
+ "soonaverseId": "0x8e9915b0fbd3f91014ed8e636bbadb1387fb3d5a",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeidexdjqrvbfx3z4myuooto35tqlaziwqwmwkvb3jiumotgh5kulvm",
+ "version": "v1.0"
+}

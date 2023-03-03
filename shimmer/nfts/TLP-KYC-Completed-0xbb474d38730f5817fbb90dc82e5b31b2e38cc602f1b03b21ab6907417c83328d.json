@@ -1,0 +1,10 @@
+{
+ "description": "This award signifies that the owner has completed the TLP KYC process and has been validated by the official 3rd party vendor.",
+ "issuerName": "Soonaverse",
+ "name": "TLP KYC Completed",
+ "soonaverseId": "0x061823d158d44ddc1703e9844586962e0e34801c",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeid4566ka5s5gnf6ouzy5k7maow4no3cqmoxph5bhzuroyz5rsff5i",
+ "version": "v1.0"
+}

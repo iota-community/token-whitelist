@@ -1,0 +1,10 @@
+{
+ "description": "send a message with a link to a concrete offer to buy a garage/garage yard in Belgium",
+ "issuerName": "Soonaverse",
+ "name": "send a message with a link to a concrete offer to buy a garage in Belgium",
+ "soonaverseId": "0x33315a3180ccdc4caaafbea48be4c4bf31b6b273",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiad7nycwwfepp2upbl3jm2cermkb3m6xrt32nut3grioiqfjfdaxq",
+ "version": "v1.0"
+}

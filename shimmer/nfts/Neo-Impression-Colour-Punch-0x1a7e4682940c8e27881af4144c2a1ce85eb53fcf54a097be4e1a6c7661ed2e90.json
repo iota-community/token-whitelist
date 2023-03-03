@@ -1,0 +1,13 @@
+{
+ "description": "True, living bright colours. 20 unique art printings. Add some real paintings into your collection. Signed by Maji. Buying will give you true ownership of the non-fungible token. Direct from artist to investors. Some of my first digital art creations.",
+ "issuerName": "Soonaverse",
+ "name": "Neo Impression Colour Punch",
+ "royalties": {
+  "smr1qray9ucd8fgdmqj6nnaqme2hfjcz9cq9mhjan62hr7xgn0fkrk54zmld3dz": 0.09
+ },
+ "soonaverseId": "0x8895209675438c59d7f5bfff2deadd20edba7345",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeibtpgn6tyioeu4pwgfz33v6ob4grj6fapi5e3zldop6wuuysbsdqy",
+ "version": "v1.0"
+}

@@ -1,0 +1,13 @@
+{
+ "description": "This is the space designed for the NFT collection ¨Adventures Captured in Picture¨ in which consists of some of my latest adventures and travels to different countries capturing some of the most fascinating moments on each of them. Each NFT is a unique picture that will allow its owner to get a sense of the country where I was in. By buying one of these NFTs you are not only getting a high-quality image taken with a lot of care but also a precious moment of adventure in time captured for you.\n\n\nEach picture has an amazing story behind it.\n\nThis is the first collection of three that will be released in the future. The owners of this collection will have a 25% discount on upcoming collections.\n\nThank you for your interest!\nI´m an entrepreneur located in Panama City, Panama.",
+ "issuerName": "Soonaverse",
+ "name": "1/3 Adventures Captured in Pictures",
+ "royalties": {
+  "smr1qq4xzyephh3g5m4rt6qv7u9s8z8s7z8tnp9ml4h9g6crc2v6ucsay8dlv9d": 0.1
+ },
+ "soonaverseId": "0xf2d77d268756c4eabb5db66fa50a28a3cffc3339",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeihvxf3hpdb4yd26p45asu6cdlpvlyhlrqbsomel2jgc6fcrceotn4",
+ "version": "v1.0"
+}

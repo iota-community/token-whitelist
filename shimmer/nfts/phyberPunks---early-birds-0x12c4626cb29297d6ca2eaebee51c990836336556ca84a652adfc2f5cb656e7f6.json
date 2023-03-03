@@ -1,0 +1,13 @@
+{
+ "description": "10 very rare and limited phyberPunks\n \nonly for members of the phyberPunks space\n \nwith a cypher badge ",
+ "issuerName": "Soonaverse",
+ "name": "phyberPunks - early birds",
+ "royalties": {
+  "smr1qpq5l7pva6562ysu0afj83avq3cp42v55gwhm5nvvknm5zeugzkx2u8ey50": 0.1
+ },
+ "soonaverseId": "0xb68aa9da58aac564870c7a1129eedeb3e0c7ccae",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeibfk7reyhcuuh6nv2zblnzl2xr2ybbozisfg5mh367ekkd67vlpqi",
+ "version": "v1.0"
+}

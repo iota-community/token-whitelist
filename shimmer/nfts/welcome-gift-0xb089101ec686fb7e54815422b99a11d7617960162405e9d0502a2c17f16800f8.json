@@ -1,0 +1,10 @@
+{
+ "description": "welcome gift",
+ "issuerName": "Soonaverse",
+ "name": "welcome gift",
+ "soonaverseId": "0x9a2bf7de4db34187b7f2e8ae89188001d443ebcb",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreicm6omhr255mlovphrhmjn34nypzdvslzekmrhllohhvrtwahbn4e",
+ "version": "v1.0"
+}

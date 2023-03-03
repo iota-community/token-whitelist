@@ -1,0 +1,10 @@
+{
+ "description": "This is a badge to test some smart contract functionalities regarding this space. \nBut it won't be totally useless in the future.\n\nNo further details yet.",
+ "issuerName": "Soonaverse",
+ "name": "Genesis Seedling",
+ "soonaverseId": "0xdd15207ed2065fb283e8b6524f05ab8d5f31cf64",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiexvpjeerimr44ktevlw4lsirjzvucanlixggn63suow7v62mruei",
+ "version": "v1.0"
+}

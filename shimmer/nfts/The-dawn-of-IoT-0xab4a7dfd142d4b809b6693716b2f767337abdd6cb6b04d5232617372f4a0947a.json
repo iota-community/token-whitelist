@@ -1,0 +1,13 @@
+{
+ "description": "Things are coming together and a new universe is rising. The digital oil is on tour building bridges. As a tribute to the IOTA Foundation we release 10 NFTs visualising the impact of crypto as we are heading towards Industry 4.0.",
+ "issuerName": "Soonaverse",
+ "name": "The dawn of IoT",
+ "royalties": {
+  "smr1qrmzq6mr6jnqy2sc7q9p25qfz2gc6haet2e4mle0sha26l7x540p7reezex": 0.1
+ },
+ "soonaverseId": "0x47bf78da3a4a0529b3e49b8047c2b6dd3b2f120b",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeighho3liauorlgvaz33k5d6zdptl7rrwldotmbcpo4fu67ra6nz2m",
+ "version": "v1.0"
+}

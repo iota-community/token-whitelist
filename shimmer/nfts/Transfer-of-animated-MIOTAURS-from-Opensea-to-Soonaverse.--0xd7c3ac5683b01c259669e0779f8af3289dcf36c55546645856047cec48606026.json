@@ -1,0 +1,10 @@
+{
+ "description": "Badge for owners of animated MIOTAURS in Opensea.",
+ "issuerName": "Soonaverse",
+ "name": "Transfer of animated MIOTAURS from Opensea to Soonaverse. ",
+ "soonaverseId": "0x24f399754512f1a04fc89c98125d6140993ca5a5",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeifoytpwu5mzxmomjkjqutuiobzo3xk7mkdte5agqrzjvsk4ldvpry",
+ "version": "v1.0"
+}

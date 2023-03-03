@@ -1,0 +1,10 @@
+{
+ "description": "early, say hello",
+ "issuerName": "Soonaverse",
+ "name": "early, say hello",
+ "soonaverseId": "0xd96b2af883f1d666b7c960c8770805bd00c1438e",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreigi5pqm4jgyht3nipnldm7pedbvizwvyih25h5vl767rtzlkfpxnm",
+ "version": "v1.0"
+}

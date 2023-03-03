@@ -1,0 +1,10 @@
+{
+ "description": "Come in and say hello",
+ "issuerName": "Soonaverse",
+ "name": "Come in and say hello",
+ "soonaverseId": "0x063f3142b2b0530198d01a20307c115371c1967d",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreigi5pqm4jgyht3nipnldm7pedbvizwvyih25h5vl767rtzlkfpxnm",
+ "version": "v1.0"
+}

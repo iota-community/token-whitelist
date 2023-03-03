@@ -1,0 +1,13 @@
+{
+ "description": "The first collection of hoopdance NFT videos in soonaverse",
+ "issuerName": "Soonaverse",
+ "name": "Hoopnotic",
+ "royalties": {
+  "smr1qqp53jg9fc70ep22cty64d0g30yjwdrwhugp0te06suaqmyytsl2kyrvty7": 0.1
+ },
+ "soonaverseId": "0x442d2e6d0ae76990d394da19f99acc2d7019441a",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafkreihlm4wwpn7bxu4lr2ghayz6zvv2lqemq7bxgxmbf2jwmfw2mlycse",
+ "version": "v1.0"
+}

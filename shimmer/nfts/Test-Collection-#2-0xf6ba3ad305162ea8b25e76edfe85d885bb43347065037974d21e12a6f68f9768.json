@@ -1,0 +1,13 @@
+{
+ "description": "Test",
+ "issuerName": "Soonaverse",
+ "name": "Test Collection #2",
+ "royalties": {
+  "smr1qptc0fveek48as2n2kn5pjsep984x0fw99lhd4v9pvz53xg02v4j5pwu0hm": 0.01
+ },
+ "soonaverseId": "0xa266ca6fd5598d9107946cfb7e92cbd17ea02a17",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiauescm22pcvwm3agp2refe24o2mpr6mu6t3qfueyywhsepewhrwy",
+ "version": "v1.0"
+}

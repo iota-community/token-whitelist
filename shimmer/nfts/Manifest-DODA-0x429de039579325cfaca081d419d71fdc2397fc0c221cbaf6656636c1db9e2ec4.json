@@ -1,0 +1,13 @@
+{
+ "description": "TAG LAB's Manifest DODA collection for The Augmented Gallery in Soonaverse. The aim of the collection is to propagate ideas and capitalize funds for the project.\nHolders of the piece, subject to the NFT smart contract, will have full merchandise rights to the piece. By agreement they will cede to The Augmented Gallery the possibility of exhibition. The intellectual property belongs to olias.studio and his project The Augmented Gallery.\n1 unique nft every 20 days for 200 miotas with a discount of 60% for members.\nºººº\n[Esp]  Colección Manifest DODA del TAG LAB para The Augmented Gallery en Soonaverse. El objetivo de la colección es propagar ideas y capitalizar fondos para el proyecto.\nLos tenedores de la pieza, sujeta al contrato inteligente del NFT tendrán todos los derechos de mercadería sobre la misma. Bajo acuerdo cederán a The Augmented Gallery la posibilidad de exhibición. La propiedad intelectual pertenece al olias.studio y a su proyecto The Augmented Gallery\n1 nft único cada 20 días por 200 miotas con un descuento del 60% para miembros\n",
+ "issuerName": "Soonaverse",
+ "name": "Manifest DODA",
+ "royalties": {
+  "smr1qzuheu56z6ed03ysevxj2ca5pwjjey3qyd6q0x9ttf5hre3tk8jq6wxj0q9": 0.1
+ },
+ "soonaverseId": "0xe8cdb665c839c856b665040a528ef8518f267c2e",
+ "standard": "IRC27",
+ "type": "application/octet-stream",
+ "uri": "ipfs://bafybeidqqfljvijb6wfd6jzjg7zznhnnonbhdfe7jq6khz2sumwpctof64",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "We are listing our first collection soon",
+ "issuerName": "Soonaverse",
+ "name": "Our first NFT collection releasing on Sunday",
+ "soonaverseId": "0xb418738ada84fed672e358f5e079b36d40b5bb55",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreihklr76lodk4t3nd64l7wbekdga5lph2sohlalzsw7y76ayjwxd3m",
+ "version": "v1.0"
+}

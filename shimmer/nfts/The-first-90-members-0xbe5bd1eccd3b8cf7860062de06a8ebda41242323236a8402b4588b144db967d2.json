@@ -1,0 +1,10 @@
+{
+ "description": "Space first 90 member recognition badge",
+ "issuerName": "Soonaverse",
+ "name": "The first 90 members",
+ "soonaverseId": "0x8b43aa118aa4060d332a247760f6443a9f86b684",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeidmreveipmffa5rbolxau6dwfu3adb64q7elcrohug32tvj7pev54",
+ "version": "v1.0"
+}

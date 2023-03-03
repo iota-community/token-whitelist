@@ -1,0 +1,13 @@
+{
+ "description": "Welcome back to my **second collection** of beautiful network maps all around the world - this time: **countries**.\n\nThe collection consists of unique **204 states** around the world including states having (un-)disputed sovereignty and states having a special political status. Compiling a list such as this can be a complicated and controversial process, as there is no definition that is binding on all the members of the community of nations concerning the criteria for statehood. I used different sources for the network data and the map backgrounds, so the quality might differ.\n\nAnyway, we are all **humans of one world** and should treat each other with **respect, kindness and** 💙.\n\nThe Shimmer price of each map is based on the respective floor area of the country in sqm, divided by 1 billion. The bigger the country, the more popular the NFT, the higher the price - my thoughts. The price will be at least 1 SMR in regards of IOTA protocol's dust protection mechanism.\n\nI hope to continue soon...",
+ "issuerName": "Soonaverse",
+ "name": "Countries of the World",
+ "royalties": {
+  "smr1qz5s4zlr0s226qad4y97jfmdkx87s9uf4rccs333mjxxepqgcccegq0e7cg": 0.05
+ },
+ "soonaverseId": "0x4f274934f10dcfbacbbd740cafd5ae436bfdccd4",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreicsmv6qqliomflncgwloj5aguekty5yj2k5iusgq7yi5wqkdawecm",
+ "version": "v1.0"
+}

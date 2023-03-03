@@ -1,0 +1,10 @@
+{
+ "description": "Will you be my Flowergirl?\nEach Flowergirl will receive a random NFT out of the first batch of the Classic Edition.",
+ "issuerName": "Soonaverse",
+ "name": "50 Flowergirls",
+ "soonaverseId": "0x1455b62e67ad6590133788fb683be861d143ffbe",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreidkcb67nkbe4szhzwewfbcwrgvtr4k2xlqlwxra552aftv257ifl4",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "mooning",
+ "issuerName": "Soonaverse",
+ "name": "Q1 2022 moon",
+ "soonaverseId": "0xb05ce117111f2db1c469a86522d3e32aef67887e",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreifkmagxmvdjxmdkiga3ouelsv3ikyaunu4c56gz4h2a7pfyzd4jhq",
+ "version": "v1.0"
+}

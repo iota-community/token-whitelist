@@ -1,0 +1,10 @@
+{
+ "description": "Beequeen",
+ "issuerName": "Soonaverse",
+ "name": "Beequeen",
+ "soonaverseId": "0xacbdcf6b18dfed137975b29a0c4c9e2139fbec6f",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeietgwjgimsbutkp2bxerhacbagskqmwvp5kdnffqbyvear3q6clku",
+ "version": "v1.0"
+}

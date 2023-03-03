@@ -1,0 +1,10 @@
+{
+ "description": "Launch of the new EGY token",
+ "issuerName": "Soonaverse",
+ "name": "MINT A NEW TOKEN",
+ "soonaverseId": "0x3d2fe3870227931399a0d43438908d29f78e0635",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeihp3x7pq6byvu7btzqy3xtdljvjpfaj3mmfdqx7qfqltmntp2swry",
+ "version": "v1.0"
+}

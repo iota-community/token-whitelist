@@ -1,0 +1,13 @@
+{
+ "description": "My Name is Fresh Reuter and I am photographer based in Berlin.\n\nMaking pictures is my passion for some time already. Next to my work as a caregiver it helps me to find the balance. Please check out my handpicked collection.",
+ "issuerName": "Soonaverse",
+ "name": "Bird is the Word",
+ "royalties": {
+  "smr1qqlsnv78e8vtrjhzgljuc8xyfddhgv7e8q2rmj5q24dnpfy8wtxrv257mqq": 0.1
+ },
+ "soonaverseId": "0xae5b7a4b75e2c6a912cc5db9cd78c6c976875221",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeidbuluzaawfqngdtrmiqiuybiptj2ykfj5ossbkr2jxnobfkz3n4e",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "For all owners of Looser Valids Scouts.\nThese are the Valids Scouts WITHOUT equipment.\nExample:\nVALID SCOUT #0063\nVALID SCOUT #0093\nVALIDS SCOUT #0650",
+ "issuerName": "Soonaverse",
+ "name": "Owner of Looser Valids",
+ "soonaverseId": "0xd716bd59e17594fcb94bdd0752e9f7e9cf90a1d3",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreienfedi53gler6q6hbjnntf4fblf2wgqa43pgv5iqpk4qno7ge5x4",
+ "version": "v1.0"
+}

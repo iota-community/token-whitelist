@@ -1,0 +1,13 @@
+{
+ "description": "The first collection of \"colorful animal club\". We love colorful lions so much.",
+ "issuerName": "Soonaverse",
+ "name": "colorful lion",
+ "royalties": {
+  "smr1qra7h2pwp3ftcqyg4gc9flvc52wys2wem7jqxs4q3jlkhjruvy9f5tn45l4": 0.05
+ },
+ "soonaverseId": "0x516291294d05353cd6aa9f3afc33a4f9317f2c1d",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeih5jatcuh4tshernp4cctk6cjaagpiqp3kwsyprvsr4gdhotht3xy",
+ "version": "v1.0"
+}

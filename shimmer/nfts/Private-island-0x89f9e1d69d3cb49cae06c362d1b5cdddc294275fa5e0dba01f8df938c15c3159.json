@@ -1,0 +1,10 @@
+{
+ "description": "Enjoy your private island",
+ "issuerName": "Soonaverse",
+ "name": "Private island",
+ "soonaverseId": "0xafe78a5596e5e2a43a8a3d4e50723cf6261838b6",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeifahbj2kr5ktxzxzly6i54zbbvxyt35coqa6pordxbp4g32kijqxi",
+ "version": "v1.0"
+}

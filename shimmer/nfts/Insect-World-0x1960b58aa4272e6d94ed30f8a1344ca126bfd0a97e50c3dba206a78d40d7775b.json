@@ -1,0 +1,13 @@
+{
+ "description": "Welcome to my photo collection from the world of insects.\nThis collection will grow slow and continuously.\n\nSo take the opportunity to stop by again :D",
+ "issuerName": "Soonaverse",
+ "name": "Insect World",
+ "royalties": {
+  "smr1qr5jxzdrek7frud2t8vg4aevyp2jd5xnf5e936k382wn6pld404f5z5fht7": 0.07
+ },
+ "soonaverseId": "0x26cea3e444b57767f7fcf0e9abd0372f7e594d75",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiaknt6qvcxwfvwspaaox4gdt6sm4y47cadhayy5gcgkdcrsfcylya",
+ "version": "v1.0"
+}

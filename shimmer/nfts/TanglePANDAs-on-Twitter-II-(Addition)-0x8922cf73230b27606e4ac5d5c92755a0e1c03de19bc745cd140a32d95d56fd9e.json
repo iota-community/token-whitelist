@@ -1,0 +1,10 @@
+{
+ "description": "Fix for the points (1 point instead of 100 for the badge TanglePANDAs on Twitter II)",
+ "issuerName": "Soonaverse",
+ "name": "TanglePANDAs on Twitter II (Addition)",
+ "soonaverseId": "0x5af7f1fa8355f8febfbce93892c1b0b4ac14e5f1",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiggeoykwfgivlqspp64yp7mi75pblleusbf4zm5i5lh47r5z2mbdy",
+ "version": "v1.0"
+}

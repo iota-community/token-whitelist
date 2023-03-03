@@ -1,0 +1,10 @@
+{
+ "description": "badge for the 100 members of the Art of Creation space",
+ "issuerName": "Soonaverse",
+ "name": "Members Art of Creation space",
+ "soonaverseId": "0x84eb9d0c474132ba80aabfc5ae7368b8a8c35b1c",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiea54yhcnkve27t6mq5tnvj7aetmkuv4opb4wsgqhyjyobuzasqmy",
+ "version": "v1.0"
+}

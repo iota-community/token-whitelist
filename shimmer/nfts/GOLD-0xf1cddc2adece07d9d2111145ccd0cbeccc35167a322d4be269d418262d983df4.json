@@ -1,0 +1,13 @@
+{
+ "description": "The Bivreost Gold Card will be a great addition to the opportunities that open up in our extension! The complete collection includes 300 branded cards. Here are some benefits for our holders.\n\n— Exclusive design.\n— System avatar for web extension.\n— 50% chance to get access to the token pre-sale on the Bivreost launchpad.\n— Binding and synchronization with Telegram contacts.\n\nThe user can hold multiple Bivreost gold cards.",
+ "issuerName": "Soonaverse",
+ "name": "GOLD",
+ "royalties": {
+  "smr1qqj7wm37ltmazaly9fpqnfek6kt6q4s90s8aeed3l8fndtsaq08n50zlzzm": 0.05
+ },
+ "soonaverseId": "0x8c13f9de5ec05815da360a96dc96a078df100bd2",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeifedk6mpgxqh5h5e4vqf47bevhoaxxnai5cytfyjozy7s4eau6fsi",
+ "version": "v1.0"
+}

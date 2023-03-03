@@ -1,0 +1,13 @@
+{
+ "description": "3 very rare and limited phyberPunks\n\nonly for members of the phyberPunks space\n\nwith a cypher badge\n\ncan win this phyberPunk",
+ "issuerName": "Soonaverse",
+ "name": "phyberPunks Giveaway 2",
+ "royalties": {
+  "smr1qpq5l7pva6562ysu0afj83avq3cp42v55gwhm5nvvknm5zeugzkx2u8ey50": 0.1
+ },
+ "soonaverseId": "0x475837449bb04dc27504f8223870bd3ba405559e",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeib4cufcnls37szmuhd4wryq3tjkegrqbgajwbjpzohs2zzuwgb7ru",
+ "version": "v1.0"
+}

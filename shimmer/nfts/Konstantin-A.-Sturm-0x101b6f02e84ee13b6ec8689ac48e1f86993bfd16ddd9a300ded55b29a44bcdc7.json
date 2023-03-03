@@ -1,0 +1,10 @@
+{
+ "description": "First Badge",
+ "issuerName": "Soonaverse",
+ "name": "Konstantin A. Sturm",
+ "soonaverseId": "0x82e41053df38b4aee82b6c47e3bbd512cee41b4b",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreihaj2nf6ud2swgbk22vj6fxtt5m4h5chlkeg6gmekgxcyvn55tlyi",
+ "version": "v1.0"
+}

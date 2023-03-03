@@ -1,0 +1,10 @@
+{
+ "description": "Join, get a badge and Go to bed",
+ "issuerName": "Soonaverse",
+ "name": "Go to bed badge",
+ "soonaverseId": "0x869a8898897fb222ed6e3fa48575247fc9949aef",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeib5xaw7xux33yk7q7fai2tja3zi2t2e7k72ief4cu3mis26kcatmm",
+ "version": "v1.0"
+}

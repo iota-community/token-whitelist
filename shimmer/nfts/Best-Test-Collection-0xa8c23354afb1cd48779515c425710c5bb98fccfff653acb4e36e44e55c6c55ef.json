@@ -1,0 +1,13 @@
+{
+ "description": "Buy me while I am still cheap and unknown",
+ "issuerName": "Soonaverse",
+ "name": "Best Test Collection",
+ "royalties": {
+  "smr1qptc0fveek48as2n2kn5pjsep984x0fw99lhd4v9pvz53xg02v4j5pwu0hm": 0.01
+ },
+ "soonaverseId": "0xf2a4e0006eb57b573006c86f6b58dbd144b0bce9",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreigtqsebvemx3e27e3fxtqizwiqqevpv45p64pfshgluvpikrpxrba",
+ "version": "v1.0"
+}

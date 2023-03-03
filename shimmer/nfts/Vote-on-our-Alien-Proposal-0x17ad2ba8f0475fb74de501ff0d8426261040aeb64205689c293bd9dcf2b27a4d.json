@@ -1,0 +1,10 @@
+{
+ "description": "Please vote on our Alien proposal if you're interested!",
+ "issuerName": "Soonaverse",
+ "name": "Vote on our Alien Proposal",
+ "soonaverseId": "0xd39ee248a91bf2e6378042b0abc273564ad38ec5",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreifstpbvwuf3vjel64ggggx7ao4cvsqmaq42m5g7scq2uqf7cdthdi",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "Spec Channel",
+ "issuerName": "Soonaverse",
+ "name": "Spec Channel",
+ "soonaverseId": "0xe97f22af8d37fd2735df71733a34d04e5d38c5f8",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiguqcvr7xjuuhx76ndsisyvwgxopwqd7q7fpwceagbsedkfaod54m",
+ "version": "v1.0"
+}

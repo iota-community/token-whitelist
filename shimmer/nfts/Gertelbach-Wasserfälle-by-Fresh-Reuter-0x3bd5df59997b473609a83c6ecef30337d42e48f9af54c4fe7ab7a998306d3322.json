@@ -1,0 +1,13 @@
+{
+ "description": "My Name is Fresh Reuter and I am photographer based in Berlin.\n\nMaking pictures is my passion for some time already. Next to my work as a caregiver it helps me to find the balance. Please check out my handpicked collection.",
+ "issuerName": "Soonaverse",
+ "name": "Gertelbach Wasserfälle by Fresh Reuter",
+ "royalties": {
+  "smr1qqlsnv78e8vtrjhzgljuc8xyfddhgv7e8q2rmj5q24dnpfy8wtxrv257mqq": 0.1
+ },
+ "soonaverseId": "0x12a605cc31655312051386f158bca0706f0d5cdd",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeibzlwgfshuqpx6k45y2auvedtt3zw3g5iamrmmzqizpfbftak7a3u",
+ "version": "v1.0"
+}

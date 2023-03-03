@@ -1,0 +1,10 @@
+{
+ "description": "test",
+ "issuerName": "Soonaverse",
+ "name": "denzel",
+ "soonaverseId": "0xd20165781f475d0eb3a805c5a3fee38982858c23",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreia3se6vgu3e2s3huzr6bx7m7mc5d7eqvk57v6ojajcuuivm3qffdy",
+ "version": "v1.0"
+}

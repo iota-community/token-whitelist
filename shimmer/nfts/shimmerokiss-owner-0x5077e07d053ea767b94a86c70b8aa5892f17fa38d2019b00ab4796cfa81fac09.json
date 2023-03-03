@@ -1,0 +1,10 @@
+{
+ "description": "if you have NFT from the shimmerokis collection you can get this badge",
+ "issuerName": "Soonaverse",
+ "name": "shimmerokiss owner",
+ "soonaverseId": "0x27a4e49d2db95e80515a3f7c81655e40f074b251",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreicsu3pihcnputir52zlgukdjdqttl3yorf7ovhbmjqdkqidpckicq",
+ "version": "v1.0"
+}

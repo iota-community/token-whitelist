@@ -1,0 +1,13 @@
+{
+ "description": "Here's the Pixel Won Bank Note! Will it survive the passage of the pixelated future? We'll see if we survive too! Only 8 numbered copies.",
+ "issuerName": "Soonaverse",
+ "name": "Pixel Won Bank Note",
+ "royalties": {
+  "smr1qqt58w88c5eeclldp7tq8shq3t7pgy38j0k9hfx9y86qa6p40zadjy6hkce": 0.1
+ },
+ "soonaverseId": "0xc45688093d6dbb4c53bf71d99c2708df39c7af91",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeigfguzbfa3nhe5wikgf42m5kl5po7ccfntzkynvtce57boqx3q7xm",
+ "version": "v1.0"
+}

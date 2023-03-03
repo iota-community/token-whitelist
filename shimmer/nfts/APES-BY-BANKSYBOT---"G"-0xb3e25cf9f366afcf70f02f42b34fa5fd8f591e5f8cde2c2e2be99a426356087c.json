@@ -1,0 +1,10 @@
+{
+ "description": "Badge required to mint the Ape by banksybot \"G\" design.",
+ "issuerName": "Soonaverse",
+ "name": "APES BY BANKSYBOT - \"G\"",
+ "soonaverseId": "0x6cf025780f6721e0ee8c54352d0164c5fba612c8",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreic33qeklf5dkfqslp4clft5mo6nx4jncupuhladuawtavz5nqwwgu",
+ "version": "v1.0"
+}

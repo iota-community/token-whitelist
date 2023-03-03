@@ -1,0 +1,13 @@
+{
+ "description": "Staking is fun! And with IOTA, Assembly and Shimmer it is extra fun with multiple staking periods and great rewards. With this 3D AI Collection the staking periods are beeing celebrated, going on with this second staking period ( 90 DAY ). Once the next staking period is finished ( also 90 Days = 90 NFTs ) the collection will be expanded with a follow up collection. The maximum amount of NFTs is equal to the amount of staking Days within the next 2 years.\n\nMore details about the idea behind \"PerfectStake\":\n\nImagine you staked 3,574.5 MIOTA. This results in 30,883,669 SMR and 123.534679 ASMB staked per day in the first staking period. After 90 days of staking this results in 11,118.12113 ASMB and 2,779,530,283 SMR. So the received amount of SMR is the exact same value as the total supply of MIOTA, which is also 2,779,530,283. What a great coincidence and what a perfect stake.\n\nEach DAY / NFT comes with rich fictitious metadata: The staked amount of MIOTA, the received amount of ASMB, the received amount of SMR, the DAY ( DAY 0 to 90, where DAY 0 marks the end of pre staking ). The unix timestamp DateTime ( End of each staking DAY ), the Date of the Day, and a special value.\n\n#PFP #Collectible\n\nHappy staking!",
+ "issuerName": "Soonaverse",
+ "name": "PerfectStake 3D - Staking Phase II",
+ "royalties": {
+  "smr1qq5lvhk7yl7sje4sme54rjclhp06jj27j5h593kepuuwl2f6zq76vq9pu5w": 0.05
+ },
+ "soonaverseId": "0xb40be15e17c03b9ce2b66d91d36d3e347d8b0a8a",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeicmup3jjnw6rokgqdi4nkkj5ag6t2ztfvjj7a3fjla4acmm7aycpm",
+ "version": "v1.0"
+}

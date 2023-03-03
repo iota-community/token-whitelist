@@ -1,0 +1,10 @@
+{
+ "description": "Mint a unique IOTA Color Coin - First Edition",
+ "issuerName": "Soonaverse",
+ "name": "Mint a unique IOTA Color Coin - First Edition",
+ "soonaverseId": "0x246d249fa02a62e20d8e73e32c3b09de487972f5",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeihozg5zaxygcp6v7ykgstiz3eusgybkh4zqvxa3kx6epkx544eusm",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "",
+ "issuerName": "Soonaverse",
+ "name": "Nft",
+ "soonaverseId": "0xdc0b1051b34518a908015da8e380d9a3bdfa234b",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreifkmagxmvdjxmdkiga3ouelsv3ikyaunu4c56gz4h2a7pfyzd4jhq",
+ "version": "v1.0"
+}

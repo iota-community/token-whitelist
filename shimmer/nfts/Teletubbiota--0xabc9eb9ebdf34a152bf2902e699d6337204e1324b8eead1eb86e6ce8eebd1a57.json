@@ -1,0 +1,13 @@
+{
+ "description": "only limited to 4",
+ "issuerName": "Soonaverse",
+ "name": "Teletubbiota ",
+ "royalties": {
+  "smr1qray9ucd8fgdmqj6nnaqme2hfjcz9cq9mhjan62hr7xgn0fkrk54zmld3dz": 0.09
+ },
+ "soonaverseId": "0xfe67c3caa564e7803ce8dda71d1d3915536ee440",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeicajfa6ntincmdnsepq5edkiggh7tuinalcbxow2jzs2vvaxap4xe",
+ "version": "v1.0"
+}

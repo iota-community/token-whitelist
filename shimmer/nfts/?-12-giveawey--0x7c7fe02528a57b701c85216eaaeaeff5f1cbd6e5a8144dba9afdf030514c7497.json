@@ -1,0 +1,13 @@
+{
+ "description": "Collection of unique art works made in oil/pencils on canvas.\n\nPicture №10 №11 and №12 are made with pencils, №1 oil. NFT only, no canvas work",
+ "issuerName": "Soonaverse",
+ "name": "?/12 giveawey ",
+ "royalties": {
+  "smr1qpjhaxr02w0kq7fdc49wst297zxjvkck26r392se6p2gy2qm5f3zz8mtn5q": 0.025
+ },
+ "soonaverseId": "0x9fc3b377d7401cd0b3c9c44da22dafb5f97760d3",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeidp3ajbopqv2eb6iivjxqsd7qdmyd5lghjvp2rmsdq73rwsks2ipy",
+ "version": "v1.0"
+}

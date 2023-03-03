@@ -1,0 +1,10 @@
+{
+ "description": "Connect to each other :)",
+ "issuerName": "Soonaverse",
+ "name": "Follow Twitter ",
+ "soonaverseId": "0x4b0cad8d1bce6949beb6c0e50fe69bfefa58091f",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreibrsgajrmvxaxawroauobj57rv7y2pegol7tjveqb3yncx45s5fme",
+ "version": "v1.0"
+}

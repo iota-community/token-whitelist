@@ -1,0 +1,10 @@
+{
+ "description": "For joining our discord server",
+ "issuerName": "Soonaverse",
+ "name": "Join discord",
+ "soonaverseId": "0x8295aaa0e0b3eb800ab736aaf64a567ef1384787",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreib73xttnpnis5aw42vv4b5xt6fzl7nagw37ifddpsri5wi6hrbjy4",
+ "version": "v1.0"
+}

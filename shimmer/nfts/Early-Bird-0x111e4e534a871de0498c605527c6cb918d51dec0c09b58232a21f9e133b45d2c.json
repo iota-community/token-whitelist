@@ -1,0 +1,10 @@
+{
+ "description": "First 10 Early Bird",
+ "issuerName": "Soonaverse",
+ "name": "Early Bird",
+ "soonaverseId": "0x3f807741709867f380672bd9061ddac2860a6e7c",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiererquggde46f6n4bh5utdiooesxio57h7c5fbydgw4r5yipssae",
+ "version": "v1.0"
+}

@@ -1,0 +1,13 @@
+{
+ "description": "I wish you all the luck you need.",
+ "issuerName": "Soonaverse",
+ "name": "Lucky Clover",
+ "royalties": {
+  "smr1qr5jxzdrek7frud2t8vg4aevyp2jd5xnf5e936k382wn6pld404f5z5fht7": 0.07
+ },
+ "soonaverseId": "0xfaa1c30a0ff6f14b8d324b61141e08ddd4ed9502",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeib3vdkb72wtr5cw6sjkmi5stwzzsg5uokuw4cxpc6mhf6u2pb6ova",
+ "version": "v1.0"
+}

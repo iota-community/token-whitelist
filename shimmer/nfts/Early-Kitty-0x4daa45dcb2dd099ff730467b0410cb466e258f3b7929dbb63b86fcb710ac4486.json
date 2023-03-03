@@ -1,0 +1,10 @@
+{
+ "description": "Be an early bird of the IOTA Kitties",
+ "issuerName": "Soonaverse",
+ "name": "Early Kitty",
+ "soonaverseId": "0x5748a13097dae0ebf7ce55bae17fb0b2bc37b7a6",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreigxknsinswfhmv6xrpnxsdslkb2cawqjjvtpsa4ca3whdj62lu6ym",
+ "version": "v1.0"
+}

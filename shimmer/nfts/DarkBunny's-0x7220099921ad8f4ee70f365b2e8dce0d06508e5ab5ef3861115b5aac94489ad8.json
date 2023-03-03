@@ -1,0 +1,13 @@
+{
+ "description": "Don't follow the black rabbit. \n\nOnly 45.",
+ "issuerName": "Soonaverse",
+ "name": "DarkBunny's",
+ "royalties": {
+  "smr1qq9l3p6yjwprqjc96az8y74hr9eyrmupznwll7ku5xj6uqkc0yxagpdqmjk": 0.15
+ },
+ "soonaverseId": "0xf47456b7ef4d3f86a414b24c43baed9c6ef4c2b8",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreihdkwsnu3nreq7zgcfhqzcghc5zw434dgz3wyy2q7cbfb27nah364",
+ "version": "v1.0"
+}

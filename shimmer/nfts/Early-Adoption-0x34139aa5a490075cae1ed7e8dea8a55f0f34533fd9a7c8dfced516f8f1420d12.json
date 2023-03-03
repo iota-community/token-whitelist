@@ -1,0 +1,10 @@
+{
+ "description": "Be one of the first to adopt an IOTA Kitty",
+ "issuerName": "Soonaverse",
+ "name": "Early Adoption",
+ "soonaverseId": "0x5a47ba16398bb27e4c93abc2b773753aab79375c",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreigxknsinswfhmv6xrpnxsdslkb2cawqjjvtpsa4ca3whdj62lu6ym",
+ "version": "v1.0"
+}

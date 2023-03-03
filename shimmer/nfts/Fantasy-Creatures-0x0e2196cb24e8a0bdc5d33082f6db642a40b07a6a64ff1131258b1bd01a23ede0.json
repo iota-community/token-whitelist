@@ -1,0 +1,13 @@
+{
+ "description": "Fantasy Creatures , digital art , with the help of AI",
+ "issuerName": "Soonaverse",
+ "name": "Fantasy Creatures",
+ "royalties": {
+  "smr1qqnmk6x4lww4d6m200r3pew0f5278qcsrfrfmlaa2g4k3ktnhhhu6k8y62r": 0.05
+ },
+ "soonaverseId": "0x4b984097eb8f88483ae9c7d4579c152d3cded2d8",
+ "standard": "IRC27",
+ "type": "application/octet-stream",
+ "uri": "",
+ "version": "v1.0"
+}

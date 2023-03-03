@@ -1,0 +1,10 @@
+{
+ "description": "Testing the award system.",
+ "issuerName": "Soonaverse",
+ "name": "Alpha Founders Badge Award",
+ "soonaverseId": "0x364f260cdf004051cdac60e63e568cb7ec8ea68f",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreigcp7ijacnw5oghrnbjjavgyxg3idpu36hdm226suka7dd2yo2b3q",
+ "version": "v1.0"
+}

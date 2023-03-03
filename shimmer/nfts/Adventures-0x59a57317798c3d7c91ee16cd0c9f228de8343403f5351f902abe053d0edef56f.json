@@ -1,0 +1,10 @@
+{
+ "description": "adventure",
+ "issuerName": "Soonaverse",
+ "name": "Adventures",
+ "soonaverseId": "0x73698e00383d31dc520dd3829a1a7ea3b86650e8",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeihvxf3hpdb4yd26p45asu6cdlpvlyhlrqbsomel2jgc6fcrceotn4",
+ "version": "v1.0"
+}

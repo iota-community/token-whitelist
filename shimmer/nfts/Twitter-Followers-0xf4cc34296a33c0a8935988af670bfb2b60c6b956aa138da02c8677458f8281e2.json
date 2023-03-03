@@ -1,0 +1,10 @@
+{
+ "description": "A badge for the twitter followers of @BankPixel.",
+ "issuerName": "Soonaverse",
+ "name": "Twitter Followers",
+ "soonaverseId": "0x8c18604828a4ca9db9ee98295a2776b70e507e9c",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreihnv7wslwr44i2w3wkjhvrmlr4cfx2dd6tt2ubqmifrthwa72qkb4",
+ "version": "v1.0"
+}

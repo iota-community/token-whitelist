@@ -1,0 +1,13 @@
+{
+ "description": "#The Punk Ape Collection is a limited collection of 579 NFTs, made with nothing but love. Every NFT is unique. When you buy a NFT from #The Punk Ape Collection you are not only buying an individual art piece, you are also buying yourself into a project which is part of the IOTA NFT ecosystem. The base are three Ape created with the support and consent of Soonaverse Space \"Iota Tangle Beasts\". Each Ape gets its own distinctive punk hairstyle, 8 different \"IotaPunk\" logos on the hoodie and many different colors of glasses. Each NFT has different attributes, and some are rarer than others. Simply put, the rarer an item, the higher its value. Rarity: 552 basic, 24 rare, 3 super rare. The complete collection consists of ; public-mint 386 ; non public-mint 193 ;",
+ "issuerName": "Soonaverse",
+ "name": "#The Punk Ape Collection (non public-mint)",
+ "royalties": {
+  "smr1qr6gpxddlfxyp65tc74vdu92w7ft4qx8786permnhwjcgc0gl80qwujzwjz": 0.08
+ },
+ "soonaverseId": "0x4ac5eabf3dfcf1eae607b20ce5236abbf7cc6cb3",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiayohhaa5wbhlbk6v4pupw3phrwobpuif3uprzfemwwwruqsqemnu",
+ "version": "v1.0"
+}

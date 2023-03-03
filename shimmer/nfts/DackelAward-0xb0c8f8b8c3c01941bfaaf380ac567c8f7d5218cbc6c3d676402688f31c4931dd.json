@@ -1,0 +1,10 @@
+{
+ "description": "der erste LaserDackel Award!",
+ "issuerName": "Soonaverse",
+ "name": "DackelAward",
+ "soonaverseId": "0x57c52b74105ae56bf9215d251b9f77f08fe1068e",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreid6eqbyp5dg3nghr5pw3mek65j4chpk7l2u7iovqcwesnnrltlnde",
+ "version": "v1.0"
+}

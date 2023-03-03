@@ -1,0 +1,13 @@
+{
+ "description": "AuditOne Community NFT",
+ "issuerName": "Soonaverse",
+ "name": "White Hat Harry ",
+ "royalties": {
+  "smr1qp8wt3cxa8re9gla9p6tjez7vgn5arycuu2zdxrkk82vxmhqwke5ctguw58": 0
+ },
+ "soonaverseId": "0x0be14781be8d707eb7d7e08cee39895c1c569459",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiazhh3kz4uusxtgk2uuvwuoxwlwvb4dao6orfwx73enhfcdbtt4ma",
+ "version": "v1.0"
+}

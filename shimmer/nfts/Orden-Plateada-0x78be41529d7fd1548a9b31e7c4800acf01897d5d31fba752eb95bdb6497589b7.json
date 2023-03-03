@@ -1,0 +1,10 @@
+{
+ "description": "Condecoración de zafiro y plata",
+ "issuerName": "Soonaverse",
+ "name": "Orden Plateada",
+ "soonaverseId": "0xeb11d790e0c24a9db590b3d0c6d9fb89e27e0bba",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiakvm5ldplhyrgmihwmjtlpkhifxe24rwsrfymuixprhbghqszdd4",
+ "version": "v1.0"
+}

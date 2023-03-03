@@ -1,0 +1,10 @@
+{
+ "description": "Enter our space, look at the collections and answer which one is your favourite.",
+ "issuerName": "Soonaverse",
+ "name": "Collectible taster",
+ "soonaverseId": "0xa6172d84c7ccb1b0dd8c46700588a50fff91db57",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiadhxlk2dpytueo55jn6ezfvaxo2uwyap4r23vjd4etis7oha6ur4",
+ "version": "v1.0"
+}

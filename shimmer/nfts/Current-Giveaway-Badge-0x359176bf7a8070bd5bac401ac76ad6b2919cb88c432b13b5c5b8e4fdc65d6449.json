@@ -1,0 +1,10 @@
+{
+ "description": "This is the Badge for the Current Giveaway. If you win, you get it. After the transaction, I take it back.",
+ "issuerName": "Soonaverse",
+ "name": "Current Giveaway Badge",
+ "soonaverseId": "0x183052873a2631c46c9d4dc467fa6f95e7ce7113",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreictgg2ir3gjh2u7yxd4megud7m7jihyrq56yn6bhe6nnaiooaxydq",
+ "version": "v1.0"
+}

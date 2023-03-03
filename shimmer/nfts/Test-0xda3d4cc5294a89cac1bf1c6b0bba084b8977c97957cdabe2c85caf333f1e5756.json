@@ -1,0 +1,10 @@
+{
+ "description": "Just for fun",
+ "issuerName": "Soonaverse",
+ "name": "Test",
+ "soonaverseId": "0xd8c167e4f51b13591d36ddfe0c5918f9f3c704a5",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "",
+ "version": "v1.0"
+}

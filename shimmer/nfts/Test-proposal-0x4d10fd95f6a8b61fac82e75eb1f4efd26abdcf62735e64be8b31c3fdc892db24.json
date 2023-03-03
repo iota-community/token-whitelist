@@ -1,0 +1,10 @@
+{
+ "description": "Test proposal",
+ "issuerName": "Soonaverse",
+ "name": "Test proposal",
+ "soonaverseId": "0x49a872fdb5dd57c195c750ddc3421a7f1a3ab2c3",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "",
+ "version": "v1.0"
+}

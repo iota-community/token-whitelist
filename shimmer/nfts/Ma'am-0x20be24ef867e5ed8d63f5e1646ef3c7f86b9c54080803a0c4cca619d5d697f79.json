@@ -1,0 +1,13 @@
+{
+ "description": "Add style and elegance to your NFT collection with Ma'am, our unique and rare antique stamps. Each Ma'am is a special and unique piece, depicting a stylish and elegant woman dressed in blue. Why are they dressed in blue? It's a mystery that we have yet to solve!\n\nOnly 44",
+ "issuerName": "Soonaverse",
+ "name": "Ma'am",
+ "royalties": {
+  "smr1qq9l3p6yjwprqjc96az8y74hr9eyrmupznwll7ku5xj6uqkc0yxagpdqmjk": 0.2
+ },
+ "soonaverseId": "0x3e1cfbad1c55810cbaa3dc427ff5a2e4db2070cf",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreidfa7awvki5nxdlknlougfv5vozlzvhf3t7ftpaik5u7sde3gwq7i",
+ "version": "v1.0"
+}

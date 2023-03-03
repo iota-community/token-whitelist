@@ -1,0 +1,10 @@
+{
+ "description": "free badge",
+ "issuerName": "Soonaverse",
+ "name": "free badge",
+ "soonaverseId": "0xf65641765100c78396492f3737105a9770d3d877",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "",
+ "version": "v1.0"
+}

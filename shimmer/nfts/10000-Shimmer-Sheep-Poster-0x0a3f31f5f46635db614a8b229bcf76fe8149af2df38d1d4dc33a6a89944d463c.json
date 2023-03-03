@@ -1,0 +1,13 @@
+{
+ "description": " A gift to every sheep owner, this poster shows all the 10000 Shimmer Sheep ever created. ",
+ "issuerName": "Soonaverse",
+ "name": "10000 Shimmer Sheep Poster",
+ "royalties": {
+  "smr1qq7dgz02jpkf4nd3wvcnlsudkplsz8thpmn9fnpyklatnd6mddgrwqf3zp2": 0.08
+ },
+ "soonaverseId": "0xcbc9277ccc387e481ca8324a3f88adcd10ae1ed5",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeigbq4nzm55ejrmkroqnu4v66p7rrg4juj2o57iepjxv72zyhygpzu",
+ "version": "v1.0"
+}

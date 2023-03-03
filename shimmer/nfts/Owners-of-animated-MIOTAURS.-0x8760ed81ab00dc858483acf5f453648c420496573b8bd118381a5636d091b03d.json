@@ -1,0 +1,10 @@
+{
+ "description": "Badge for owners of animated Miotaurs only.",
+ "issuerName": "Soonaverse",
+ "name": "Owners of animated MIOTAURS.",
+ "soonaverseId": "0x4b253a4db4bc788292617b73cf63861c06079c37",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeifoytpwu5mzxmomjkjqutuiobzo3xk7mkdte5agqrzjvsk4ldvpry",
+ "version": "v1.0"
+}

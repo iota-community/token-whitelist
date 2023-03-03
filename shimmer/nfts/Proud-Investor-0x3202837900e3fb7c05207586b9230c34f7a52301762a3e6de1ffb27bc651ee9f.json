@@ -1,0 +1,10 @@
+{
+ "description": "This award is granted to everyone owning an iNanofarm NFT.\nWe'll plan on adding utility to this award in the future (Voting, Whitelisting etc.,)",
+ "issuerName": "Soonaverse",
+ "name": "Proud Investor",
+ "soonaverseId": "0x370fb033ec296bf69aae5bdd35d02878c50cee8f",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeibzfhdmtcesrta3mouowweaajh7p65tp6iy7jw6k4ereukeabnm4u",
+ "version": "v1.0"
+}

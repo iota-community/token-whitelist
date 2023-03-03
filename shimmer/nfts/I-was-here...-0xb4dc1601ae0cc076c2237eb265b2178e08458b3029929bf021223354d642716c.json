@@ -1,0 +1,10 @@
+{
+ "description": "Claim your first badge in the TangleTelegraph-space, and show the world that you were among the first to support the TangleTelegraph project.",
+ "issuerName": "Soonaverse",
+ "name": "I was here...",
+ "soonaverseId": "0x86e125462adedcc78fb81273b49665d83c48bdd0",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreibe2zslyphftgfpegf7x2ewgzjge57vcrpncy532jwt2i4g4nqmwi",
+ "version": "v1.0"
+}

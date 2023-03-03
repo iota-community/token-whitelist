@@ -1,0 +1,10 @@
+{
+ "description": "Character name and film.\nFull answers only.",
+ "issuerName": "Soonaverse",
+ "name": "Who said it?",
+ "soonaverseId": "0x8641dd0c131979a45fa621156e96e8b5fc5b1195",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreihs6qiwme4yvdkvmsdf5g7rxhw6y7nb2y6ivfpcwstgqeoullr4g4",
+ "version": "v1.0"
+}

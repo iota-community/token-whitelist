@@ -1,0 +1,10 @@
+{
+ "description": "This award is granted to everyone owning a pNanofarm NFT, as a symbol of our gratitude.\nWe'll also plan on adding utility to this award in the future (Voting, Whitelisting, NFT drops etc.,)",
+ "issuerName": "Soonaverse",
+ "name": "Generous Patron",
+ "soonaverseId": "0x92f942e9f7038839aa659ac9ac73dc3c3f76f736",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeibzfhdmtcesrta3mouowweaajh7p65tp6iy7jw6k4ereukeabnm4u",
+ "version": "v1.0"
+}

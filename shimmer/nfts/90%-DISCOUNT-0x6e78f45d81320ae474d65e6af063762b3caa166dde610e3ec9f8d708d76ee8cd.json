@@ -1,0 +1,10 @@
+{
+ "description": "Get 90% Discount",
+ "issuerName": "Soonaverse",
+ "name": "90% DISCOUNT",
+ "soonaverseId": "0xefbb67bfedd3d33f2ee758a3613630441ca90af1",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreicrt5wolln5zsurdj6bmxp56ybmuoli6jejqfkxhysnvwfsohj76i",
+ "version": "v1.0"
+}

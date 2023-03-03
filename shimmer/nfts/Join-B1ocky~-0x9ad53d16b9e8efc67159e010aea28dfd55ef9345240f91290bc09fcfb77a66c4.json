@@ -1,0 +1,10 @@
+{
+ "description": "Join the B1ocky space!",
+ "issuerName": "Soonaverse",
+ "name": "Join B1ocky~",
+ "soonaverseId": "0xf3022f73f3a342427c259c762d58de9c90f024ef",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeibqp4mzla7u3bao5xlm7ndhbnh7bwurxdm2veuxpq2bzflucfpfoa",
+ "version": "v1.0"
+}

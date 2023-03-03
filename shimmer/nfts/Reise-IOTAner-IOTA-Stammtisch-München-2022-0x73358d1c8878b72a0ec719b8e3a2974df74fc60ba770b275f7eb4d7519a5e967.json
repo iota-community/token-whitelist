@@ -1,0 +1,10 @@
+{
+ "description": "Wer dieses Badge hat, war beim IOTA Stammtisch München derjenige der die weiteste Anreise hatte.",
+ "issuerName": "Soonaverse",
+ "name": "Reise IOTAner IOTA Stammtisch München 2022",
+ "soonaverseId": "0x01adcc12b6a4a08d10692e06d16a589f9b6d68d0",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiangdoma3lreg4x2rhntbwqkf3gg6nckemw7wfpn5tolicsoocfom",
+ "version": "v1.0"
+}

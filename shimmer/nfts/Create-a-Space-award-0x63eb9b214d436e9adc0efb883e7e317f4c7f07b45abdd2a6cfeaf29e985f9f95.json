@@ -1,0 +1,10 @@
+{
+ "description": "Join to create your own Space",
+ "issuerName": "Soonaverse",
+ "name": "Create a Space award",
+ "soonaverseId": "0x8de812b851ccd4e1f88904c29f2a5f849070e0bf",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiheaplmmpzvdi247anpudk4lep77vcsdyvdfwhboswj7xrvouixyi",
+ "version": "v1.0"
+}

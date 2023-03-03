@@ -1,0 +1,10 @@
+{
+ "description": "Get your Reward",
+ "issuerName": "Soonaverse",
+ "name": "Luxembourg Reward",
+ "soonaverseId": "0xdfc07b9ee0d9f6a1bd09deacd1a26f4ca6c0428d",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiad7nycwwfepp2upbl3jm2cermkb3m6xrt32nut3grioiqfjfdaxq",
+ "version": "v1.0"
+}

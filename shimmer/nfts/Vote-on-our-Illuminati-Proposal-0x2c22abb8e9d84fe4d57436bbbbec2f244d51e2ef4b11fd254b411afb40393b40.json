@@ -1,0 +1,10 @@
+{
+ "description": "Please vote on our Illuminati proposal if you're interested!",
+ "issuerName": "Soonaverse",
+ "name": "Vote on our Illuminati Proposal",
+ "soonaverseId": "0xc224cacdc5cade670261fe89dfaea20560a30ef1",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreifstpbvwuf3vjel64ggggx7ao4cvsqmaq42m5g7scq2uqf7cdthdi",
+ "version": "v1.0"
+}

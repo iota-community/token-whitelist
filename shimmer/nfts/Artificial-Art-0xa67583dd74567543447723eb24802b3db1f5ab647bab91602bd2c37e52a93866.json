@@ -1,0 +1,13 @@
+{
+ "description": "Artificial Art by Heiartwork for the Soonaverse. Collection of 10 - 1/1 Generative pieces.\n\n(Airdrop for the first 10 fastest OOTF Badge holders)",
+ "issuerName": "Soonaverse",
+ "name": "Artificial Art",
+ "royalties": {
+  "smr1qqnmk6x4lww4d6m200r3pew0f5278qcsrfrfmlaa2g4k3ktnhhhu6k8y62r": 0.1
+ },
+ "soonaverseId": "0xa7996fb1ac6df0efb709b0fb4caa29e5026e1d1d",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeih65tdxdupyrspmuxxynzvgso5mhs3dm5d5dcrhggsz7a6k2yrldm",
+ "version": "v1.0"
+}

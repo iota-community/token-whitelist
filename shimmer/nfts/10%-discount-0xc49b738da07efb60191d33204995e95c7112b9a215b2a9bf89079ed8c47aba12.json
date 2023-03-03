@@ -1,0 +1,10 @@
+{
+ "description": "Get 10% discount with this award.",
+ "issuerName": "Soonaverse",
+ "name": "10% discount",
+ "soonaverseId": "0x48c2e0f36f69d64078e24ae1fe60cf55710c7356",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeic2aw64u3col7gd4aeaejnbyoc4mzmih4gny3mxqsb3xmcye7uf7a",
+ "version": "v1.0"
+}

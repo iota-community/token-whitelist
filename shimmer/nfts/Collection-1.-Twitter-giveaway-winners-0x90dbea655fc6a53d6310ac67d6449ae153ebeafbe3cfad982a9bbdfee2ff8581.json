@@ -1,0 +1,10 @@
+{
+ "description": "Award is claimable by the winners of the Twitter giveaways and allows the owner to claim a free NFT from the first LDF collection. 80 MIOTA is added to the trading pot on behalf of each winner.\nVisit https://twitter.com/OhNOhWan to take part.",
+ "issuerName": "Soonaverse",
+ "name": "Collection 1. Twitter giveaway winners",
+ "soonaverseId": "0x43411775f6ac60c71676049e3b51bda226508bba",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreibdjvecknmuk5ouwtd5ev5sf2q3prbeaqzdmwpfioj2eypt3lphwa",
+ "version": "v1.0"
+}

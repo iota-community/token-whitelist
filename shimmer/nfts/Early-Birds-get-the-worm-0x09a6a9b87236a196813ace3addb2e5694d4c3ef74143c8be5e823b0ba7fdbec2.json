@@ -1,0 +1,10 @@
+{
+ "description": "Early bird who gets the badge will get a free IOTA bird NFT.",
+ "issuerName": "Soonaverse",
+ "name": "Early Birds get the worm",
+ "soonaverseId": "0x8c1d0d74b8fc8f4b388a3387cb4483e77b479a76",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeicpd6tmsniczluypiyhfpeu3u2njc5xxhyhkdxcjfdjcnhllsverm",
+ "version": "v1.0"
+}

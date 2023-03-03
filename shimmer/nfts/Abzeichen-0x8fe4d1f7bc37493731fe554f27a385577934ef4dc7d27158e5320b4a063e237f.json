@@ -1,0 +1,10 @@
+{
+ "description": "Abzeichen Test",
+ "issuerName": "Soonaverse",
+ "name": "Abzeichen",
+ "soonaverseId": "0xe8c25e798ef341ad86fe18ebd717062355b9ff52",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiebqdaiosommnvaav56azvmtiasau6qqtn44nmkmlmb2rczo76yie",
+ "version": "v1.0"
+}

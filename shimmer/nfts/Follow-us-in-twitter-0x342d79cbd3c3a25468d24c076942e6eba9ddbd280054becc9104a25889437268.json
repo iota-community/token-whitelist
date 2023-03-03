@@ -1,0 +1,10 @@
+{
+ "description": "https://twitter.com/IotaElements",
+ "issuerName": "Soonaverse",
+ "name": "Follow us in twitter",
+ "soonaverseId": "0x44dd8743c4324a67b65f62eeba4b463ed555c44b",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeibpdzzuyitwnlqlqofkjwix3xmmpjek66iuwcegjozcv24j7vdrv4",
+ "version": "v1.0"
+}

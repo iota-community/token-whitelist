@@ -1,0 +1,13 @@
+{
+ "description": "little jewels",
+ "issuerName": "Soonaverse",
+ "name": "relics",
+ "royalties": {
+  "smr1qrx6l999fjtmm9ew4d45nc73fd8h46jzje8vmtg0claqwc3pge8tygmctns": 0.03
+ },
+ "soonaverseId": "0x648b7d9fd608c3be107b923c0edf93ab119f8c55",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafkreihy5xqy4v6h3ehw4ko7eajpup4v6xqmweee3ajiflp7c4if5wecyy",
+ "version": "v1.0"
+}

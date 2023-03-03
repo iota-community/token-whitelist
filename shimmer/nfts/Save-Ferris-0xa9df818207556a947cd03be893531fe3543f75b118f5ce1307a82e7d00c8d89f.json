@@ -1,0 +1,10 @@
+{
+ "description": "A new vote to allow people that just joined to experience voting -  a workaround for a known existing bug.",
+ "issuerName": "Soonaverse",
+ "name": "Save Ferris",
+ "soonaverseId": "0x8028071a14d22b034b1aef49d78d1f55b6279de5",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreicts6lomwbggdxfnhd3l2t76tzv4jrxgvlij2mzowpngelg6c5yte",
+ "version": "v1.0"
+}

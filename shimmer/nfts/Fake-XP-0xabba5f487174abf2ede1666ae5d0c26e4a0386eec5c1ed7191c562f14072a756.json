@@ -1,0 +1,10 @@
+{
+ "description": "Fake XP",
+ "issuerName": "Soonaverse",
+ "name": "Fake XP",
+ "soonaverseId": "0x879de60a9975209ac683f8cbb40ea6c4d3e611a1",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiagcygkftgbxriz7xe7suwwwy37xjb6fw5pfjalw5d3k5udsbvy3a",
+ "version": "v1.0"
+}

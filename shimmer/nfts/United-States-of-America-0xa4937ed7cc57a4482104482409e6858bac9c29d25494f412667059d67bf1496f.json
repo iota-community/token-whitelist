@@ -1,0 +1,13 @@
+{
+ "description": "Wow! Already my **third collection**! This time, I present to you the **United States of America**.\n\nThere are 50 states, consisting of the 48 adjoining U.S. states and the only two non-contiguous states, Alaska and Hawaii. I did not include other offshore insular areas, such as American Samoa, Guam, the Northern Mariana Islands, Puerto Rico, U.S. Virgin Islands, nor the federal District of Columbia, as it is not a state.\n\nAgain, the Shimmer price of each map is based on the respective floor area of the state in sqm, divided by 1 billion. The bigger the state, the more popular the NFT, the higher the price. The price will be at least 1 SMR in regards of IOTA protocol's dust protection mechanism.\n\nHave fun and thank you for your support! 💜",
+ "issuerName": "Soonaverse",
+ "name": "United States of America",
+ "royalties": {
+  "smr1qz5s4zlr0s226qad4y97jfmdkx87s9uf4rccs333mjxxepqgcccegq0e7cg": 0.05
+ },
+ "soonaverseId": "0xfa092b6cf87f0bcba414d2f90951da613b1729f0",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreibpkzidf32cj7ii2wxwx2fp5q3by2pe3aaj6y3oo5za2fop3g7y2m",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "A badge for the first 500 who join this space!",
+ "issuerName": "Soonaverse",
+ "name": "First 500",
+ "soonaverseId": "0x7ebe90b2abb18d3006c6cb60ace394e7ab969cea",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreic6htad2obt7wsoqj536gcq3mc6punx6kodrwody6aeksu3l5xoku",
+ "version": "v1.0"
+}

@@ -1,0 +1,13 @@
+{
+ "description": "This NFT has come all the way from planet Vegeta to support the Probably Nothing channel with its power over 9000. With the purchase you support the project and ensure that further episodes.\n\nProbably Nothing: https://www.youtube.com/channel/UCwWv39h0e84XUsNXKqullCw",
+ "issuerName": "Soonaverse",
+ "name": "Super Saiyalum",
+ "royalties": {
+  "smr1qzqcjml9pjcskducy3790gsfjzf9e3dgcqfkfp8qlytt8kgfpng6zj87mad": 0.05
+ },
+ "soonaverseId": "0xe11d36bfd9d672ec31da864c6cd4cd522ec15105",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeibbcoztfsxsywhijazow2lc3xxysjapdpgrmxjcyqyiwlax64fxxq",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "This award is given to anyone who follows me on twitter.",
+ "issuerName": "Soonaverse",
+ "name": "Follow me on twitter",
+ "soonaverseId": "0x27d3dc470b59e01d511f366c0941813955ff26d9",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreidoceyplrcfxhqhvlfaqbz33tqzxm5n2vq6yllh7rmspmllvqrw4u",
+ "version": "v1.0"
+}

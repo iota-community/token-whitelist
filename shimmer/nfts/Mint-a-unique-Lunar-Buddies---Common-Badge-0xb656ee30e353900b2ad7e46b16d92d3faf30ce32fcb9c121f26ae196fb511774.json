@@ -1,0 +1,10 @@
+{
+ "description": "Lunar Buddies - Common Badge",
+ "issuerName": "Soonaverse",
+ "name": "Mint a unique Lunar Buddies - Common Badge",
+ "soonaverseId": "0x0a7dca3edc47fcc530de7deb421fed6219daa709",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiewleimldmyrab7s3akftbbj2txwmhbh4ukznlgqsamtqbjwsfryq",
+ "version": "v1.0"
+}

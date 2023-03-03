@@ -1,0 +1,10 @@
+{
+ "description": "Gives a XP boost.",
+ "issuerName": "Soonaverse",
+ "name": "Energy Drink",
+ "soonaverseId": "0xfa33c1c2bc7c653b4f589a29b4c0ce8052ccc834",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreigyfz5ws3v4kmayljwj7it56skwfnrbcfc2lmopctcshuvngder3u",
+ "version": "v1.0"
+}

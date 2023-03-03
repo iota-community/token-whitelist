@@ -1,0 +1,13 @@
+{
+ "description": "My Name is Fresh Reuter and I am photographer based in Berlin.\n\nMaking pictures is my passion for some time already. Next to my work as a caregiver it helps me to find the balance. Please check out my handpicked collection.",
+ "issuerName": "Soonaverse",
+ "name": "Torfgräben by Fresh Reuter",
+ "royalties": {
+  "smr1qqlsnv78e8vtrjhzgljuc8xyfddhgv7e8q2rmj5q24dnpfy8wtxrv257mqq": 0.1
+ },
+ "soonaverseId": "0xcfa8b1572f25b6a08a95e74801515a7ff18724b7",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeibozin2ssxms6cm7f6duaer3464mxng62yt6rjwsammxvp73u4x24",
+ "version": "v1.0"
+}

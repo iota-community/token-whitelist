@@ -1,0 +1,10 @@
+{
+ "description": "Space Owner Badge",
+ "issuerName": "Soonaverse",
+ "name": "The Boss",
+ "soonaverseId": "0xed4f80074a3a45306d1645330234f2e3f3be8753",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreigu7dnziwtpnsucdgxrh44rr77kmpnbedd6lqvwuhfuhsrjy3xx2y",
+ "version": "v1.0"
+}

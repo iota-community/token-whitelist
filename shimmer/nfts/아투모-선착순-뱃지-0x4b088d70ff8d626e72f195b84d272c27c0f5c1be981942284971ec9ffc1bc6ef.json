@@ -1,0 +1,10 @@
+{
+ "description": "아투모 선착순 뱃지",
+ "issuerName": "Soonaverse",
+ "name": "아투모 선착순 뱃지",
+ "soonaverseId": "0xbdd26a7662c79d9a1242a975f61829df56f634ad",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "",
+ "version": "v1.0"
+}

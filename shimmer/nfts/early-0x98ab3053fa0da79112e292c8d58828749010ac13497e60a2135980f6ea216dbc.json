@@ -1,0 +1,10 @@
+{
+ "description": "early member",
+ "issuerName": "Soonaverse",
+ "name": "early",
+ "soonaverseId": "0x23ae936470faaba14f1ffbdefea098b88291e5b2",
+ "standard": "IRC27",
+ "type": "application/octet-stream",
+ "uri": "ipfs://bafkreicqhbua7qstppkxqlq5pkgwvwlgbrq7f57f2obkywizt6lbl2chs4",
+ "version": "v1.0"
+}

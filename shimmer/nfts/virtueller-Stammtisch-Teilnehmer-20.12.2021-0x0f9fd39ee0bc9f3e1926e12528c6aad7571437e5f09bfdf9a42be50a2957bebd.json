@@ -1,0 +1,10 @@
+{
+ "description": "Jeder der das Passwort kennt, das im Stammtisch gesagt wurde, bekommt den Stammtisch Teilnehmer Award.\nOb der jemals etwas Wert sein wird, keine Ahnung... ;-)\nAlso, bitte das Passwort hinschreiben, wenn ihr beim Award partizipiert.",
+ "issuerName": "Soonaverse",
+ "name": "virtueller Stammtisch Teilnehmer 20.12.2021",
+ "soonaverseId": "0x75720322c40d7a029291a95547f112468313a391",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreidzy2idlc2qvhyplo76l53q6lxxsxnv2ctg3gl4em22rymafiqlpa",
+ "version": "v1.0"
+}

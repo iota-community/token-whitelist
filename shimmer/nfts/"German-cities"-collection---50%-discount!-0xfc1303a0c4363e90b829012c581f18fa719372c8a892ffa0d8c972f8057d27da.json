@@ -1,0 +1,10 @@
+{
+ "description": "Get a 50% discount for the German Cities Collection",
+ "issuerName": "Soonaverse",
+ "name": "\"German cities\" collection - 50% discount!",
+ "soonaverseId": "0xd25aaf022279424cf6702ae5a3fd6d8b5cc0619a",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreihb6yk27374elk43cotp523z46wnr5drdrlteexyybwe2jmknnh7e",
+ "version": "v1.0"
+}

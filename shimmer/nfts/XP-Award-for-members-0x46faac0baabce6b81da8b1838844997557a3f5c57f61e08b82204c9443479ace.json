@@ -1,0 +1,10 @@
+{
+ "description": "We would like to reward our Space members with the XP Token.",
+ "issuerName": "Soonaverse",
+ "name": "XP Award for members",
+ "soonaverseId": "0x4976363a78363d76af8e8ba971e09f59fa3c3c63",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeieqxcesdnvubw6oyshfn7qp7ewwsrw47yd6c5rcju2nalg5eixw4m",
+ "version": "v1.0"
+}

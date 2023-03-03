@@ -1,0 +1,10 @@
+{
+ "description": "Please provide your Telegram user name and Twitter account.\nYou will get the badge after guardian's verification.\nDo not forget to set up your iota address on soonaverse for the airdrop.",
+ "issuerName": "Soonaverse",
+ "name": "參加獎與認親大會",
+ "soonaverseId": "0xc35a3851b694274a2da979db474170418aa82c15",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiftrq3kmnlrn7ge2yxr3meeqpsxp2nsezebmsp5jg25c2lc3in5h4",
+ "version": "v1.0"
+}

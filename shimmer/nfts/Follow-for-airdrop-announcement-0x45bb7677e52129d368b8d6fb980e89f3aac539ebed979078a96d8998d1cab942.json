@@ -1,0 +1,10 @@
+{
+ "description": "Go on Twitter and follow \n@cryptofunk_NFT and get informations about free airdrops of our Pixelart CryptoFunk collection! Have fun✌🏽",
+ "issuerName": "Soonaverse",
+ "name": "Follow for airdrop announcement",
+ "soonaverseId": "0x9673f918aea8dc7e14a290ab354d0f6987c3a8f5",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreigu4afuagh6bt6q5ywztp6zbq3vgcyeubglonuvvacvow6b5r23oy",
+ "version": "v1.0"
+}

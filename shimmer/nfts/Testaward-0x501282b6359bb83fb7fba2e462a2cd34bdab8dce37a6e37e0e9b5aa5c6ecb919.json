@@ -1,0 +1,10 @@
+{
+ "description": "Testing somthin",
+ "issuerName": "Soonaverse",
+ "name": "Testaward",
+ "soonaverseId": "0x7cacdc3980e91838d7d287cbc2f7f52b921f9e4e",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiaa3v37a6el2nhrl67x5v3ot6rfbsgroous5ajbbwrorjzkwni7am",
+ "version": "v1.0"
+}

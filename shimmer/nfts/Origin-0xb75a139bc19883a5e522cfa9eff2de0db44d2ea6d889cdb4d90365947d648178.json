@@ -1,0 +1,13 @@
+{
+ "description": "This animation is intended to represent how far the IOTA ecosystem and its community can grow. \nWhoever gets one will have benefits in future NFTs.\n",
+ "issuerName": "Soonaverse",
+ "name": "Origin",
+ "royalties": {
+  "smr1qrdh0kun9ksnc9vcadvzn2jnqf9gctzps3fxx83d6ysrffudx2tzca7ss8w": 0.05
+ },
+ "soonaverseId": "0x738ede6daa96398046ac93054d52c087d3846ded",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeienfye2coxajz7b456ke6jkffibp7pky5kicpbu7dbyle26s3a76m",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "just draw a cat and post on twitter / share the link",
+ "issuerName": "Soonaverse",
+ "name": "draw a cat",
+ "soonaverseId": "0xf03739807302a598b7a12528782bca6a776f4435",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreicts6lomwbggdxfnhd3l2t76tzv4jrxgvlij2mzowpngelg6c5yte",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "Send a message with a link to an official offer to buy an garage somewhere in Luxembourg",
+ "issuerName": "Soonaverse",
+ "name": "Official offer to buy an garage in Luxembourg",
+ "soonaverseId": "0xff80b09a929acd34843dd4a81ddd5db0cad471f2",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiad7nycwwfepp2upbl3jm2cermkb3m6xrt32nut3grioiqfjfdaxq",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "Initial Iota Award",
+ "issuerName": "Soonaverse",
+ "name": "Initial Iota Award",
+ "soonaverseId": "0x5f68faabcf186bcf60a4ce8e2219a599fcfbd16e",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreicts6lomwbggdxfnhd3l2t76tzv4jrxgvlij2mzowpngelg6c5yte",
+ "version": "v1.0"
+}

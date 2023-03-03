@@ -1,0 +1,10 @@
+{
+ "description": "something in the vote leave confirmation",
+ "issuerName": "Soonaverse",
+ "name": "something in the vote leave confirmation",
+ "soonaverseId": "0x6e30b3f179ba6144cedcbf2a26958aa5b0a7112b",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiervmld52mwiczubbvzbbl55rjwjj7eddoikw7dfwzbw7s2wqqv5e",
+ "version": "v1.0"
+}

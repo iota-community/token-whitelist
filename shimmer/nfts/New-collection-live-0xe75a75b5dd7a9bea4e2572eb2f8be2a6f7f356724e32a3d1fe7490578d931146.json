@@ -1,0 +1,10 @@
+{
+ "description": "Check out our new NFT collection",
+ "issuerName": "Soonaverse",
+ "name": "New collection live",
+ "soonaverseId": "0xf97843ef0058c6b00606c8a2f7e0822683ced194",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreifkmagxmvdjxmdkiga3ouelsv3ikyaunu4c56gz4h2a7pfyzd4jhq",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "Member appearance ",
+ "issuerName": "Soonaverse",
+ "name": "Member Badge",
+ "soonaverseId": "0x1910e5a7f502bd14f52751e3bc80d4c20e94f8d0",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreigu4afuagh6bt6q5ywztp6zbq3vgcyeubglonuvvacvow6b5r23oy",
+ "version": "v1.0"
+}

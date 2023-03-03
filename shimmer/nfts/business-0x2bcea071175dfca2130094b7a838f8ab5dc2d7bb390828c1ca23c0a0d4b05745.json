@@ -1,0 +1,10 @@
+{
+ "description": "business",
+ "issuerName": "Soonaverse",
+ "name": "business",
+ "soonaverseId": "0x29aefef0546fdfb557fd8dc453d6fc6218124783",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "",
+ "version": "v1.0"
+}

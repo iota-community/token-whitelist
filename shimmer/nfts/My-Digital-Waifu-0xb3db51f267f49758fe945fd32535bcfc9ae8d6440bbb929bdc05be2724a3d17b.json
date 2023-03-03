@@ -1,0 +1,13 @@
+{
+ "description": "My Digital Waifu - Drop for the Fantasy Creatures Holders , Digital art with the help of AI",
+ "issuerName": "Soonaverse",
+ "name": "My Digital Waifu",
+ "royalties": {
+  "smr1qqnmk6x4lww4d6m200r3pew0f5278qcsrfrfmlaa2g4k3ktnhhhu6k8y62r": 0.05
+ },
+ "soonaverseId": "0x117fa61509145d19c188352d13d3c579988208a7",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreicmazmha52dyiudbkestxd7iojom2be2ajpms35ufk2k6kkevpldy",
+ "version": "v1.0"
+}

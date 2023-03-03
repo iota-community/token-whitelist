@@ -1,0 +1,13 @@
+{
+ "description": "This is the PIXEL POO COIN for the lucky winners of the give away with @BankPixel on Twitter, and it's NOW. Indispensable currency in the pixelated future?\nOnly 7 copies.",
+ "issuerName": "Soonaverse",
+ "name": " Pixel Poo Coin",
+ "royalties": {
+  "smr1qqt58w88c5eeclldp7tq8shq3t7pgy38j0k9hfx9y86qa6p40zadjy6hkce": 0.1
+ },
+ "soonaverseId": "0xbd14b9dde28ba9697a46b0c2f5c87c2fc66b76f1",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeig3qok2wg77nogbxvqswa2aobrpi7s6znsm3nkqdasb4d5gl7fc2q",
+ "version": "v1.0"
+}

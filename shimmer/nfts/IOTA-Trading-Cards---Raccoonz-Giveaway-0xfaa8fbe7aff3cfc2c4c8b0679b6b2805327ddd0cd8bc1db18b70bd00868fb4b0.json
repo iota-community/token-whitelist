@@ -1,0 +1,13 @@
+{
+ "description": "This Collection is only for the Partner Giveaway. \n\nOnly one NFT exist. ",
+ "issuerName": "Soonaverse",
+ "name": "IOTA Trading Cards - Raccoonz Giveaway",
+ "royalties": {
+  "smr1qp9haq8szufd3wyqmtp392vkxfd77j5ancdf7h65qyc8uh8pawaj5qvqp90": 0.05
+ },
+ "soonaverseId": "0x8e6f1ce29791d6833db91789150745619ec9e624",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiamxeqlumcefgyyviuphupw44cjgnxjyrdezxl2xq66kuc7drcjei",
+ "version": "v1.0"
+}

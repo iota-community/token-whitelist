@@ -1,0 +1,10 @@
+{
+ "description": "for test",
+ "issuerName": "Soonaverse",
+ "name": "IOTA KOREA Early Bird",
+ "soonaverseId": "0xaa186e9ad3077c59444a1045c8fa972fca61b02c",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreibr2k4jan2cefgd2j45hbwt3vx2kuvq2ux4haeue5gw46wzf6bwcq",
+ "version": "v1.0"
+}

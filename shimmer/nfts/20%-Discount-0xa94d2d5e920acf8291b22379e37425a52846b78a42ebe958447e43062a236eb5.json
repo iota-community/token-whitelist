@@ -1,0 +1,10 @@
+{
+ "description": "You will get a 20% discount on my NFT collection with this Award.",
+ "issuerName": "Soonaverse",
+ "name": "20% Discount",
+ "soonaverseId": "0x0a619776b79ab4d12cd38b9b88a319a87a35d8c9",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeigde6tkgzi6k5bbutr5qv2ii4julwtufemdg3tjpzhqvjpyzgs7nq",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "Have you minted some of the first 1000 iotaholics? Then pick up your badge and the xp!",
+ "issuerName": "Soonaverse",
+ "name": "Mint a IOTAHOLIC",
+ "soonaverseId": "0x26c4a555662d90bb43b2080f7b4307f672b177ef",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeienqvsuxstg3qdeg4urifua2zkpareqpkvueopzugjeey45m6tqmm",
+ "version": "v1.0"
+}

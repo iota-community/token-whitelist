@@ -1,0 +1,10 @@
+{
+ "description": "Check it out, another big award!",
+ "issuerName": "Soonaverse",
+ "name": "Award #3",
+ "soonaverseId": "0x13c8d20619343c68c605c1ca9771b9ec7cae500d",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiatzfjyipqmf2egkcux2tgjbyv5uu7guvwva4kzc5tsf5p6fc7wdy",
+ "version": "v1.0"
+}

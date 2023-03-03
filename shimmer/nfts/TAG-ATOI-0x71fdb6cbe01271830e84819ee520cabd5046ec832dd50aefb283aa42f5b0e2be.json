@@ -1,0 +1,13 @@
+{
+ "description": "Buy or get NFT airdrop?!!?\n\nYou can pay 10 miotas or join our DAO and save 100%. \n--20 exclusive Generated NFTs stamped with the TAG Lab DAO's brand name + 1 no branded to promote our experimental DAO, find collaborators and attract followers and collectors.\nº\nTAG Lab is an experimental art gallery laboratory that aims at the avant-garde, linking the physical world of art objects with their virtual continuation in an expansive, data-enriched metaverse. Together with geolocated or remote art exhibition services, and the speculative experimentation of art extended over Augmented Reality, we aim to provide a tokenization service of physical artworks through their 3d digitization.\nº\n[Esp] Puedes pagar 10 miotas o unirte a nuestra DAO y ahorrar 100% \n–-20 NFTs Generated exclusivos con el sello de nuestra marca para promocionar TAG Lab, nuestra DAO experimental, encontrar colaboradores y atraer seguidores y coleccionistas.–– \nTAG Lab es un laboratorio galería de arte experimental que apunta a la vanguardia, uniendo el mundo físico de los objetos artísticos con su continuación virtual en un expansivo metaverso enriquecido de data. Unidos a los servicios de exhibición geolocalizada o en remoto, y a la experimentación especulativa del arte extendido sobre la Realidad Aumentada, queremos dar servicio de tokenización de obras de arte físicas a través de su digitalización 3d.",
+ "issuerName": "Soonaverse",
+ "name": "TAG ATOI",
+ "royalties": {
+  "smr1qzuheu56z6ed03ysevxj2ca5pwjjey3qyd6q0x9ttf5hre3tk8jq6wxj0q9": 0.3
+ },
+ "soonaverseId": "0x1aeb5f4074552fd28c651937707834ea48d44ca4",
+ "standard": "IRC27",
+ "type": "application/octet-stream",
+ "uri": "ipfs://bafybeigrrvi3u6vgcjap5ynx2d5mp7njhmbfpnasvvtd3byllyry35ofme",
+ "version": "v1.0"
+}

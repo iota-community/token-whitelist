@@ -1,0 +1,13 @@
+{
+ "description": "Icerberg Legends is the NFT powered by TanglePay and the Tangle Rally.\n\nReward level: Hero, a reward level of 3-5. Elite, a reward level of 4-8. Epic, a reward level of 7-15. \nAny 3 Iceberg can be added up to become the Legendary with a 20% reward level bonus. \nThere is a Hidden Legend with higher airdrop reward level.\n\nThis batch contains nine legends, Ashe, Yun, Naga, Shogun, Akako, Karl, Alister, Athena and Hanuman (1.41%).\n\nMore information: https://nft.tanglepay.com",
+ "issuerName": "Soonaverse",
+ "name": "TanglePay Iceberg Legends (Epic) Tier3",
+ "royalties": {
+  "smr1qpjgq2g49ucxxs6v6zpswq7jk2csftfyax4c27htglwf3v43nq33v4peza2": 0.05
+ },
+ "soonaverseId": "0xe7f442bb33b7a68b3bea2d5f4e10f7b88cfe86d5",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeihvczm3p4bynpazucljlfi25scfyeaw5r3fg24fl777h4ufrpde4e",
+ "version": "v1.0"
+}

@@ -1,0 +1,13 @@
+{
+ "description": "Alfons Trekner - Fine Art\n\nThis is art. This is satire.\n\nThis is one of the first \"Art Satire\" - Projects in the Cryptospace.\n\nI believe this is ART.",
+ "issuerName": "Soonaverse",
+ "name": "ALFONS TREKNER - Fine Art",
+ "royalties": {
+  "smr1qr3je96rk2fsk765gj6qm799d5d22l5qrgq93qhs3j5jqchaqqew2r7lf04": 0.15
+ },
+ "soonaverseId": "0x74939064db334a78d71764e406649c0bf8ff4f59",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeihb5smpbec4rykthgfwpudticifwectta4dbeoveqmg34zg5u7kyy",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "The first 200 people, who joined the discord community will receive this award and various surprises.\nTo get a badge, write your account name in the appropriate channel on Discord.",
+ "issuerName": "Soonaverse",
+ "name": "Discord trailblazer",
+ "soonaverseId": "0xecb7a4b18d235024e968a29a1134ec27540ed29e",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreih3ids6ochfaw2nmh3tcxlppnhabyemry3vdiugk67badiamw7fpm",
+ "version": "v1.0"
+}

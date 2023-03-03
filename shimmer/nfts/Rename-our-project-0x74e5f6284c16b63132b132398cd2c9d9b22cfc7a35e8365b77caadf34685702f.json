@@ -1,0 +1,10 @@
+{
+ "description": "Suggest a new name for our project",
+ "issuerName": "Soonaverse",
+ "name": "Rename our project",
+ "soonaverseId": "0x95a362e1157148e961b7484e88d5c5fcec28eb47",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreicqmig3ftp2qtogd2d7iv63wubbd4uhlen5vvqfcnzarmijffcyly",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "We got feedback on price being to high, so we are dropping the price! ",
+ "issuerName": "Soonaverse",
+ "name": "Lower price (down to 50mi each) ",
+ "soonaverseId": "0x2c7d36b7d7900fcd021bac415f64b0a4a3d5248d",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiemazb32nbhb3uvrzk6jubak3rjy5boqjmzozvzwxp5zrmayauu2y",
+ "version": "v1.0"
+}

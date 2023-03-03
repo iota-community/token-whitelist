@@ -1,0 +1,10 @@
+{
+ "description": "Every time the number of likes in the DarkBunny's collection goes up, the participants in order of entry will get the reward.\n\nSo leave your like in the DarkBunny's collection and participate!\n\nExample: if there are 10 participants and there are only 5 likes, only the first 5 participants get the reward. As the likes go up, more members will be able to have their reward. ",
+ "issuerName": "Soonaverse",
+ "name": "¡¡Random Roulette!!",
+ "soonaverseId": "0xb40b53b0586d17296fe589984ad8137121586a2b",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiadhxlk2dpytueo55jn6ezfvaxo2uwyap4r23vjd4etis7oha6ur4",
+ "version": "v1.0"
+}

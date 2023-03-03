@@ -1,0 +1,10 @@
+{
+ "description": "Do you love PFP? Then gets this badge!",
+ "issuerName": "Soonaverse",
+ "name": "We love PFP",
+ "soonaverseId": "0xd5e86ff8e31d4e39e194e3389e4f706f74e94e11",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiducp662zoiimmmzel32byzhaa53thn4sydtk32fcdkq3fyp5dbca",
+ "version": "v1.0"
+}

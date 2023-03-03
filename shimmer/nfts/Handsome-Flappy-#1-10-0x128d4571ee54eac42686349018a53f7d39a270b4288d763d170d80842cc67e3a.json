@@ -1,0 +1,13 @@
+{
+ "description": "By buying a Handsome Flappy x Steinschleudi NFT you get this for \"free\". 1 Mi must be collected, but these will also be donated.\n\nFind out what is behind my project https://HandsomeFlappy.com\n\n\nSale starts -\u003e 17:00 MEZ",
+ "issuerName": "Soonaverse",
+ "name": "Handsome Flappy #1-10",
+ "royalties": {
+  "smr1qpg8r75f8szfmdvzgtzwrkv3y33l7pywuqmwzevzxurtd4x5330ncy9pc6p": 0.2
+ },
+ "soonaverseId": "0xafd7568a9115cd288c57d050c4708567aa327637",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeie6ezhl5k6nfveihxfbe2bxwndc5dumhbtvbs3sc7klpyalyklvne",
+ "version": "v1.0"
+}

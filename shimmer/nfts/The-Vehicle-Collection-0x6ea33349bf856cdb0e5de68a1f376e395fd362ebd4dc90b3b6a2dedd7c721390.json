@@ -1,0 +1,13 @@
+{
+ "description": "My Name is Fresh Reuter and I am photographer based in Berlin.\n\nMaking pictures is my passion for some time already. Next to my work as a caregiver it helps me to find the balance. Please check out my handpicked collection.",
+ "issuerName": "Soonaverse",
+ "name": "The Vehicle Collection",
+ "royalties": {
+  "smr1qqlsnv78e8vtrjhzgljuc8xyfddhgv7e8q2rmj5q24dnpfy8wtxrv257mqq": 0.1
+ },
+ "soonaverseId": "0x0d0433b4ca19a40a881e709dab96b6737159c580",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeifq3mnnt5lshjqitkvgffwlyz6jxx7gnqjlfubn24qbnq6cm3pfkm",
+ "version": "v1.0"
+}

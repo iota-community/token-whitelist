@@ -1,0 +1,10 @@
+{
+ "description": "Unfortunately we are only able to create 3 discount levels. Our plan was to create 5 levels (one per element).\nNew plan: The first 100 OG's get 10% discount.",
+ "issuerName": "Soonaverse",
+ "name": "Discount for the first 100 OG's",
+ "soonaverseId": "0x2e368cb28b7af7bbae9c35f9d3836dd7499716a3",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreigzn4qedx2uzlqccwf3ecy3psrfdm2hcijiefvnktetzmhgwkmmi4",
+ "version": "v1.0"
+}

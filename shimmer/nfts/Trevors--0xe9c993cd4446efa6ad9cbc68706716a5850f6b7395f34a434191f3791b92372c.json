@@ -1,0 +1,13 @@
+{
+ "description": "Trevors is an NFT project being made exclusively for the Shimmer Network (soon). Creation and management is done via Soonaverse.\n\nTrevors is a drawing character with elements of the monster draw technique. Strong colors and color compositions are used. The collection is regularly supplemented with new Trevors.\nThe graphic figures exist solely as an NFT concept. Each drawing is unique. The artist Trevor is anonymous and free. Long live art. Long live freedom. Long live happiness and good mood!\n\nA license fee of 6% is paid to the artist for each transaction (included in the price).",
+ "issuerName": "Soonaverse",
+ "name": "Trevors ",
+ "royalties": {
+  "smr1qr79pj4cl9ghj4d8a4h5fcp0px3fwf25j72um44h06vnadh7xk5ljq8v7de": 0.06
+ },
+ "soonaverseId": "0xad4b9dee4959766fc3e7a15ce4f22c8f579ce435",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreie34c3jn64qatzpymajwo3kye2haexdufkv5p72a5hlbqpgfzte2u",
+ "version": "v1.0"
+}

@@ -1,0 +1,13 @@
+{
+ "description": "Target The Moon is a series of 20 unique and exclusive designs that are meant to be worn the moment IOTA reaches the Moon again! The moment is coming, will you be waiting for others to show off their NFT \"Target The Moon\" while you think that one of them could have been yours?",
+ "issuerName": "Soonaverse",
+ "name": "Target The Moon",
+ "royalties": {
+  "smr1qr9jqtp7au390204p6c6h3849a5h4f9qmm32pjgksjnh3hx8fyytjm455qj": 0.05
+ },
+ "soonaverseId": "0x254a04a28a22137f9e12bdd7ccfd806aca127664",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiez3x5kmffbnyp4gdilutult3iwhicysmtl6mdoryjnmcog4s3kai",
+ "version": "v1.0"
+}

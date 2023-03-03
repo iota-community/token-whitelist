@@ -1,0 +1,10 @@
+{
+ "description": "Join our Space.",
+ "issuerName": "Soonaverse",
+ "name": "Join Space",
+ "soonaverseId": "0x56644b649f072ab2f81084dcb813875c253ad045",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiblzqwcfy6qjrijtclrvogttwrq5q6saazbuuy6o27euxc6arfuu4",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "Please vote on our Moon Landing proposal if you're interested!",
+ "issuerName": "Soonaverse",
+ "name": "Vote on our Moon Landing Proposal",
+ "soonaverseId": "0xe135d8d0dff5372366dedc93e14b777953c891fe",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreifstpbvwuf3vjel64ggggx7ao4cvsqmaq42m5g7scq2uqf7cdthdi",
+ "version": "v1.0"
+}

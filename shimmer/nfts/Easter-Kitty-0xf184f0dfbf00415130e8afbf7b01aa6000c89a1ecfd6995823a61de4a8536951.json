@@ -1,0 +1,10 @@
+{
+ "description": "Be part of the IOTA Kitty Easter Celebration",
+ "issuerName": "Soonaverse",
+ "name": "Easter Kitty",
+ "soonaverseId": "0x6fd93f38e39ef7664fdd70e8e9b5c707d64afd43",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreigxknsinswfhmv6xrpnxsdslkb2cawqjjvtpsa4ca3whdj62lu6ym",
+ "version": "v1.0"
+}

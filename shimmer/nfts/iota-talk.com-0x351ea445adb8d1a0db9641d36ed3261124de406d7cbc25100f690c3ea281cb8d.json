@@ -1,0 +1,10 @@
+{
+ "description": "iota-talk.com is the largest German forum about IOTA. Here you can find support, from hodlers, and always the latest news about IOTA's development and applications.",
+ "issuerName": "Soonaverse",
+ "name": "iota-talk.com",
+ "soonaverseId": "0x26542cb6d2982badf0a85035a3e1e1b3745a582d",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreicts6lomwbggdxfnhd3l2t76tzv4jrxgvlij2mzowpngelg6c5yte",
+ "version": "v1.0"
+}

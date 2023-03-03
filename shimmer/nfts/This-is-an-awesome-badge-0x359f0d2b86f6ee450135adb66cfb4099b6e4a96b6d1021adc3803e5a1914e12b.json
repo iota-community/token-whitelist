@@ -1,0 +1,10 @@
+{
+ "description": "This is gonna be awesome!",
+ "issuerName": "Soonaverse",
+ "name": "This is an awesome badge",
+ "soonaverseId": "0x8ee48ba806f7baae514e6d56eac5f3e13d418e3f",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreigymrph4qanl6cx2f3asakcb4uswvxqikejtdeaaqfxxozqhkmk5u",
+ "version": "v1.0"
+}

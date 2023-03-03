@@ -1,0 +1,13 @@
+{
+ "description": "ç",
+ "issuerName": "Soonaverse",
+ "name": "Art",
+ "royalties": {
+  "smr1qrx6l999fjtmm9ew4d45nc73fd8h46jzje8vmtg0claqwc3pge8tygmctns": 0
+ },
+ "soonaverseId": "0x9f931e311dcd06d5742ede28623285652acfc787",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafkreietb7j7uk6vm33mjwxtyuudgtsgrdtzbpta4ofyh5yf57xxmkgidq",
+ "version": "v1.0"
+}

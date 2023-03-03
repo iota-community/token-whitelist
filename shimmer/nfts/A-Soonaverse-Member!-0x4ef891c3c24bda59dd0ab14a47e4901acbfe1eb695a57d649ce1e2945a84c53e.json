@@ -1,0 +1,10 @@
+{
+ "description": "Soonaverse!",
+ "issuerName": "Soonaverse",
+ "name": "A Soonaverse Member!",
+ "soonaverseId": "0x426d58988fe361d037b90d3ac0333a5a914f3ba3",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreicts6lomwbggdxfnhd3l2t76tzv4jrxgvlij2mzowpngelg6c5yte",
+ "version": "v1.0"
+}

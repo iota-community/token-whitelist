@@ -1,0 +1,10 @@
+{
+ "description": "The big boss of the club",
+ "issuerName": "Soonaverse",
+ "name": "Big Boss",
+ "soonaverseId": "0x1591be5a160ef8ad4a1449029ecc4417344e02e8",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiavkootfvmi6jsuyo35uen245oti44vgz6ow427n62d6nld3cnufe",
+ "version": "v1.0"
+}

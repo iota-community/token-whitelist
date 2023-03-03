@@ -1,0 +1,10 @@
+{
+ "description": "Join the Space and get the award :)",
+ "issuerName": "Soonaverse",
+ "name": "New Member Award",
+ "soonaverseId": "0xba1e388d64ab2b833732d10c942fd86fd6d0a2a3",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeibgocf7svktvzofgpiyzqlpraqw5p62vzqaqgkrhe3x53a4wney4y",
+ "version": "v1.0"
+}

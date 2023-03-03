@@ -1,0 +1,13 @@
+{
+ "description": "IOTA CUBE is a NFT based community project that deals with the matter of free NFT based on the Tangle technology.\n\nTo manifest the community idea it was decided to offer the IOTA CUBES for free and to give them away to the participants of the IOTA community through various raffles.\n\nOnly the owners of the IOTA CUBE Award are able to acquire this NFT.\n\nIf you look closely you will see that the selling price is 5mi. This is not due to any fees incurred in the creation of the NFT's but is due to the Dust protection. To be able to offer IOTA CUBES for free, the 5mi will be paid back.",
+ "issuerName": "Soonaverse",
+ "name": "IOTA CUBES",
+ "royalties": {
+  "smr1qpy9zpm80x7uwyrjfarrp5tjfntaucaeta07d3ns3lflkhpg75r8cl7fdku": 0.1
+ },
+ "soonaverseId": "0x2db6c2a068e0118ad36bb7e07e1c04b95816129c",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeifzpw5ps237gtkhrfgfcybfmnc5ok6hqdldk63gf75dcmu2udbw2q",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "Join the Club and get a badge ",
+ "issuerName": "Soonaverse",
+ "name": "Join the Club ",
+ "soonaverseId": "0x4a3153004617a2c89098eb03bec6bb6a768c1410",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreibzb3srpxwqck5natk2bqlwzb5x2elwxqzx46doxcgjzdtj7uozoi",
+ "version": "v1.0"
+}

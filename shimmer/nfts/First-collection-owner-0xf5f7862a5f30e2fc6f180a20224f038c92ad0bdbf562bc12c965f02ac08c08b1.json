@@ -1,0 +1,10 @@
+{
+ "description": "Become an NFT holder and get a 20% discount on upcoming collections",
+ "issuerName": "Soonaverse",
+ "name": "First collection owner",
+ "soonaverseId": "0x3d0fb48e6beabf693321f040c429fd10f06c9547",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeifw4l7622awjrjdolj2xphlmsfdttnihpqmaqsx7z4ffiiopacovu",
+ "version": "v1.0"
+}

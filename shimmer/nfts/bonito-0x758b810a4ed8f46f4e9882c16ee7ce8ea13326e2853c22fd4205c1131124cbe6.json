@@ -1,0 +1,13 @@
+{
+ "description": "simple",
+ "issuerName": "Soonaverse",
+ "name": "bonito",
+ "royalties": {
+  "smr1qrx6l999fjtmm9ew4d45nc73fd8h46jzje8vmtg0claqwc3pge8tygmctns": 0
+ },
+ "soonaverseId": "0x8d168b34cb4c4e04cbea8faed3bc16c81b2bdb14",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafkreids7q3kj7nzovjj7zhybwpn4eksntjhc3lb7zgcc3g5ebrmk4m3wq",
+ "version": "v1.0"
+}

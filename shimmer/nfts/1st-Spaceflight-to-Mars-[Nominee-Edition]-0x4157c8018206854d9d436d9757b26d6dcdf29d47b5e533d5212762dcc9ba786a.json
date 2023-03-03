@@ -1,0 +1,13 @@
+{
+ "description": "This collection is only accessible for our Nominees! Find our Public Sale here: https://soonaverse.com/nft/0x432107c85abd26cf298e9bcaa109045c49d7765a\n***\nIt's no longer about the question WEN MOON? - It's about the question WEN MARS?",
+ "issuerName": "Soonaverse",
+ "name": "1st Spaceflight to Mars [Nominee Edition]",
+ "royalties": {
+  "smr1qryual0lr5y4ed3d2hlmz9z3sra3eny0ghc8d868kslmx8k85ydxk3y7vj6": 0
+ },
+ "soonaverseId": "0x9f89f9324ed4f9e22da1fda2165fec54beb91ed0",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeicf2rf62g54652h6jxejvpgs3ujcll3hrkpoovqbzeamdm7xxj7g4",
+ "version": "v1.0"
+}

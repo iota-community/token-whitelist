@@ -1,0 +1,10 @@
+{
+ "description": "MoonSoon",
+ "issuerName": "Soonaverse",
+ "name": "MoonSoon",
+ "soonaverseId": "0x31f739f6d45f08d1617e71644495baa2d0f5fb48",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreicts6lomwbggdxfnhd3l2t76tzv4jrxgvlij2mzowpngelg6c5yte",
+ "version": "v1.0"
+}

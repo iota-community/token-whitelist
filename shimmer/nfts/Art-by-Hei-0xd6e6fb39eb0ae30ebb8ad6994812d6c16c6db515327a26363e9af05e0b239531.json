@@ -1,0 +1,13 @@
+{
+ "description": "Art by Hei - the main collection",
+ "issuerName": "Soonaverse",
+ "name": "Art by Hei",
+ "royalties": {
+  "smr1qqnmk6x4lww4d6m200r3pew0f5278qcsrfrfmlaa2g4k3ktnhhhu6k8y62r": 0.05
+ },
+ "soonaverseId": "0xcb6fefb243d3b0fc393088736155062d91e905e2",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeig77k766brdvfin5zn522bej6fe6y5yyhzixqecncoio25wcxifde",
+ "version": "v1.0"
+}

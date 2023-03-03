@@ -1,0 +1,10 @@
+{
+ "description": "Second",
+ "issuerName": "Soonaverse",
+ "name": "Second",
+ "soonaverseId": "0x836b70bd87e7d1764e7630e8ba3169f76aad700f",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "",
+ "version": "v1.0"
+}

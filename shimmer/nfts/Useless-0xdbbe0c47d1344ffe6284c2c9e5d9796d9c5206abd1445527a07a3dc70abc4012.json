@@ -1,0 +1,10 @@
+{
+ "description": "Useless award, just testing",
+ "issuerName": "Soonaverse",
+ "name": "Useless",
+ "soonaverseId": "0x085a4075d2fbddb43e6c00b44fc281e3a9ea3a7e",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "",
+ "version": "v1.0"
+}

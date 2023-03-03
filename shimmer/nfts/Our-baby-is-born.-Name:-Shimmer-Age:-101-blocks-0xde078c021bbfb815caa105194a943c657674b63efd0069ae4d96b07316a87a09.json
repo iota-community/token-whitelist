@@ -1,0 +1,13 @@
+{
+ "description": "In celebration of the Stardust Upgrade on 18.07.2022 16:00 CEST.",
+ "issuerName": "Soonaverse",
+ "name": "Our baby is born. Name: Shimmer Age: 101 blocks",
+ "royalties": {
+  "smr1qptfh48h9mqx9gmmvhz8w8ntjhkmzqfzmencrrxw4hq6vprdf9aj2njmj5q": 0.1
+ },
+ "soonaverseId": "0x25b0ab6c289a242bc205043269065fdf99088752",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeiakdq7xdqa6l7kzpgxkfhtyfogl7szntklukrqc45cu7x455q6try",
+ "version": "v1.0"
+}

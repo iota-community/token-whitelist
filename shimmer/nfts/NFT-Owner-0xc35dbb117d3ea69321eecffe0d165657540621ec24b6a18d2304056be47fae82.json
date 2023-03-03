@@ -1,0 +1,10 @@
+{
+ "description": "Buy a Crypto-Gin NFT of the Basic Collection and get 5 XP which results in 5% discount for further unsold NFTs of our Basic Collection.",
+ "issuerName": "Soonaverse",
+ "name": "NFT Owner",
+ "soonaverseId": "0x080fe04b92ed18f09ad0a8d69f36007008781b89",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeibovq5xeidymsfvbh2yu2gd3ck5vilmfbmgacue2ia4lcwdfcllwu",
+ "version": "v1.0"
+}

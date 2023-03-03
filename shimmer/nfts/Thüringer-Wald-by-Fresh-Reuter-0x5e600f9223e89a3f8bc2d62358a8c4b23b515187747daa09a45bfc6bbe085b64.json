@@ -1,0 +1,13 @@
+{
+ "description": "My Name is Fresh Reuter and I am photographer based in Berlin.\n\nMaking pictures is my passion for some time already. Next to my work as a caregiver it helps me to find the balance. Please check out my handpicked collection.",
+ "issuerName": "Soonaverse",
+ "name": "Thüringer Wald by Fresh Reuter",
+ "royalties": {
+  "smr1qqlsnv78e8vtrjhzgljuc8xyfddhgv7e8q2rmj5q24dnpfy8wtxrv257mqq": 0.1
+ },
+ "soonaverseId": "0x5c82a2ba5942a3b0080dfcfc8ecba4df9867b2c1",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeiebr5gwqxoyco5dboarqhfsnfmlk5kgij6svsv2ftsyftzgrjn6zy",
+ "version": "v1.0"
+}

@@ -1,0 +1,13 @@
+{
+ "description": "A gift to every whale owner, this poster shows all the 2779 IOTA Whales ever created.",
+ "issuerName": "Soonaverse",
+ "name": "2779 IOTA Whales Poster",
+ "royalties": {
+  "smr1qq7dgz02jpkf4nd3wvcnlsudkplsz8thpmn9fnpyklatnd6mddgrwqf3zp2": 0.08
+ },
+ "soonaverseId": "0xc80127c043d533a44ac5ef36c9aa81b8a8464b71",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeibpr2lmdg7qq5gpoi542mzk6znxwn5gaj4nhv6u3urlwic3djzepu",
+ "version": "v1.0"
+}

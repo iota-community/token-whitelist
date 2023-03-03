@@ -1,0 +1,10 @@
+{
+ "description": "1. Retweet: https://twitter.com/gamer_granpa/status/1515085290691756032\n2. Drop your Twitter name.\n\nIf the tweet url is not working anymore just retweet one tweet of @gamer_granpa",
+ "issuerName": "Soonaverse",
+ "name": "Retweet",
+ "soonaverseId": "0x99aa28c82904846c78a5836a4d39c96d6c2e09c2",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreigwkh7wjfncchnfo7ocrqy7m4nx66mfopeoge3lfi2sxakqy3ko34",
+ "version": "v1.0"
+}

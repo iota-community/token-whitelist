@@ -1,0 +1,10 @@
+{
+ "description": "Follow the TanglePANDAs on Twitter and retweet the following pinned post:\nhttps://twitter.com/TanglePANDAs/status/1511823483583488002?s=20\u0026t=zoPNgTSMKuuQ1Pxb5G3CEw\n\nIMPORTANT: Only with your Twitter name in the participation field for the reward can this be granted to increase your basic discount.",
+ "issuerName": "Soonaverse",
+ "name": "TanglePANDAs on Twitter",
+ "soonaverseId": "0x464e703a32a5cf9e897ac469498a3d2a675caf18",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiggeoykwfgivlqspp64yp7mi75pblleusbf4zm5i5lh47r5z2mbdy",
+ "version": "v1.0"
+}

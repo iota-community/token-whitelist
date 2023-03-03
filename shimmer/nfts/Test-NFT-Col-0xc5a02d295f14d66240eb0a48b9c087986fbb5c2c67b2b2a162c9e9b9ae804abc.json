@@ -1,0 +1,13 @@
+{
+ "description": "FDS",
+ "issuerName": "Soonaverse",
+ "name": "Test NFT Col",
+ "royalties": {
+  "smr1qqcf59gn8yf4y4w9pyctp7s7qtxx84er5p2820tausxx4phq4jcnsf27p75": 0.05
+ },
+ "soonaverseId": "0x1748aa20ed26d8850d9f7f75067a004f537815bf",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeie5v44qki3hm6ah24qh473oorh3jgb7cq6ckwd24zajg5ykswduza",
+ "version": "v1.0"
+}

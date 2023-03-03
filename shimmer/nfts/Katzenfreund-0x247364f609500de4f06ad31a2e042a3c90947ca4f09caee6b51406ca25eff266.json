@@ -1,0 +1,10 @@
+{
+ "description": "Katzenfreund",
+ "issuerName": "Soonaverse",
+ "name": "Katzenfreund",
+ "soonaverseId": "0x0f866706019700af730634ea2ac99312e4a7a0e6",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreibqc4pt7glhhojmjs2yokik4lmwab5wt2qvakxekqg6wcbdd4w6zi",
+ "version": "v1.0"
+}

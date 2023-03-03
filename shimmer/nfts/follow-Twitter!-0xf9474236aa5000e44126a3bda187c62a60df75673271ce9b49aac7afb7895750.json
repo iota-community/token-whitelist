@@ -1,0 +1,10 @@
+{
+ "description": "https://twitter.com/mothfly_studio",
+ "issuerName": "Soonaverse",
+ "name": "follow Twitter!",
+ "soonaverseId": "0xaff682372dbfea260190de70b7a8dfd56612c76e",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiap6ueop3qqroj4qj3yugvfikehzfjc2zuqtcpa7wirf7fmribs5e",
+ "version": "v1.0"
+}

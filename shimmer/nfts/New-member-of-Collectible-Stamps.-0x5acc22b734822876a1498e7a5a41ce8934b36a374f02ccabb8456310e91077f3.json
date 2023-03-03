@@ -1,0 +1,10 @@
+{
+ "description": "First 100 members will get the first level.",
+ "issuerName": "Soonaverse",
+ "name": "New member of Collectible Stamps.",
+ "soonaverseId": "0xdbf036b20484462c3fb2e2ed462cd210237b905f",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiadhxlk2dpytueo55jn6ezfvaxo2uwyap4r23vjd4etis7oha6ur4",
+ "version": "v1.0"
+}

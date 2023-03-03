@@ -1,0 +1,10 @@
+{
+ "description": "Get a 10% discount when you collect this badge on the genesis sale.",
+ "issuerName": "Soonaverse",
+ "name": "10% discount",
+ "soonaverseId": "0xebea1dfa10896ea79410cb64f94c3b35ea4cacb5",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiapghqtwq7vhb4jvhb4jwxashputjk3n7ji222yj5dhsb6g6clbcm",
+ "version": "v1.0"
+}

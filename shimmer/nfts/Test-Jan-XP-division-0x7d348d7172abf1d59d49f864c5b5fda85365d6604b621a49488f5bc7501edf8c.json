@@ -1,0 +1,10 @@
+{
+ "description": "Validation failed: [{\"message\":\"Error code \\\"Your total XP must be dividable without decimals\\\" is not defined, your custom type is missing the correct messages definition\",\"path\":[\"badge\"],\"type\":\"Your total XP must be dividable without decimals\",\"context\":{\"label\":\"badge\",\"value\":{\"description\":null,\"name\":\"Sternn\",\"xp\":2,\"count\":10,\"image\":{\"metadata\":true,\"fileName\":\"6910\",\"original\":true,\"avatar\":true}},\"key\":\"badge\"}}]",
+ "issuerName": "Soonaverse",
+ "name": "Test Jan XP division",
+ "soonaverseId": "0xa5f639712f550e56c1a5db7bd95cb7bda4e7714c",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "",
+ "version": "v1.0"
+}

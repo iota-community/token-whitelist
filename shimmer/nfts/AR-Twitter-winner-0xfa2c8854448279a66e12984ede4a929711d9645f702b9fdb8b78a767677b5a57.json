@@ -1,0 +1,10 @@
+{
+ "description": "Tipe in the number we sent you on twitter to get your price :)",
+ "issuerName": "Soonaverse",
+ "name": "AR Twitter winner",
+ "soonaverseId": "0xc5ae030681ab04c25fd03446c25dcfa71e7df720",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeib53o2jyfdiwxy63utkfaffbnzatmdaf3yb4t4wwzrcdfi2ijqpuq",
+ "version": "v1.0"
+}

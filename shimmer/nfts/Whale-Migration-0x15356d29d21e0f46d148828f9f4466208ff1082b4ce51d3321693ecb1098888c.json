@@ -1,0 +1,13 @@
+{
+ "description": "For the migration of early giveaway whales from Opensea back to Soonaverse.",
+ "issuerName": "Soonaverse",
+ "name": "Whale Migration",
+ "royalties": {
+  "smr1qq7dgz02jpkf4nd3wvcnlsudkplsz8thpmn9fnpyklatnd6mddgrwqf3zp2": 0.08
+ },
+ "soonaverseId": "0x00033fa13230119587902f90d213b8d3d4890296",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeifx56tzj5vnidtachvdaoek6kh5y7ktbmyjdkxetjf52wt7wvycze",
+ "version": "v1.0"
+}

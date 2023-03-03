@@ -1,0 +1,13 @@
+{
+ "description": "Collection of 300 unique Lunar Buddies trying to reach their Lunar base. Each Lunar Buddy has an unique set of different rarities and colors.\n\n4 different head assets with the crown at only 10 % rarity\n7 different backgrounds, with orange/purple at only 10% rarity\n3 different coins on belt, with gold at only 10% rarity\n7 different moons, with 2 color moon at only 10% rarity\n4 different IOTA logo on helmet, with diamond at only 10% rarity",
+ "issuerName": "Soonaverse",
+ "name": "IOTA Lunar Buddies - First Wave",
+ "royalties": {
+  "smr1qp5gfx97e2p3rvduqcvfup7m6mjt70h9e7g3csxc7m59acq2a3f7c7y49wn": 0.01
+ },
+ "soonaverseId": "0x8168934f4c5b09882d0ede47d2caf8b356c6f728",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeicbf7eiwfsnhtheygespy44e4grf4dxkhbxa47ntz7nda4ropndo4",
+ "version": "v1.0"
+}

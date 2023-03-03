@@ -1,0 +1,10 @@
+{
+ "description": "This award for the #1 IOTA supporter",
+ "issuerName": "Soonaverse",
+ "name": "IOTA Supporter",
+ "soonaverseId": "0x6ddb58bd4e8db08757748dd28a54ff2de46837f3",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiaefohkrtkbj46ckpprulnexj4r7plythj35rjlbl452t5ek3p42m",
+ "version": "v1.0"
+}

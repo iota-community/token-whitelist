@@ -1,0 +1,13 @@
+{
+ "description": "Collection of 24 unique Christmas Lunar Buddies.",
+ "issuerName": "Soonaverse",
+ "name": "Lunar Buddies - Christmas Edition",
+ "royalties": {
+  "smr1qp5gfx97e2p3rvduqcvfup7m6mjt70h9e7g3csxc7m59acq2a3f7c7y49wn": 0.01
+ },
+ "soonaverseId": "0xcea0221ce8e4fb02e709da405942e118b2468192",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeich3aoirzdcfhhqkdgwfmhk35e23e2um3vqscx44t4vfldhg3hcge",
+ "version": "v1.0"
+}

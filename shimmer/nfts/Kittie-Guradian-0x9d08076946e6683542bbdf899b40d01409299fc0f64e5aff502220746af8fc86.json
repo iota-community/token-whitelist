@@ -1,0 +1,10 @@
+{
+ "description": "Approve new Members",
+ "issuerName": "Soonaverse",
+ "name": "Kittie Guradian",
+ "soonaverseId": "0x74dfa100968ef00384b88edb9acd9ebe83cdc6b2",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreig5yhrjpekansot4gq3rqanskd3bft4de2wtya2aib3yi5s5phcx4",
+ "version": "v1.0"
+}

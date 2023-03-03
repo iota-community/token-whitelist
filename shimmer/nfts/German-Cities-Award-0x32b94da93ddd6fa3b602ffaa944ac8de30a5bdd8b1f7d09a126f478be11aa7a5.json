@@ -1,0 +1,10 @@
+{
+ "description": "Get a discount for the German Cities Collection",
+ "issuerName": "Soonaverse",
+ "name": "German Cities Award",
+ "soonaverseId": "0x1d37423ebdf89f30527e9f6e138bf5d031ae6445",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreihb6yk27374elk43cotp523z46wnr5drdrlteexyybwe2jmknnh7e",
+ "version": "v1.0"
+}

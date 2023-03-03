@@ -1,0 +1,10 @@
+{
+ "description": "Annetaan Tamperelaisille todisteita vastaan.",
+ "issuerName": "Soonaverse",
+ "name": "Tampesterilainen",
+ "soonaverseId": "0x0e55bb6a6bd65460b20255017d7614ff93d25fa5",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreihnutskuejodnqamf4zla6uat732qcvr2523j6sxibt7ax5p4b7su",
+ "version": "v1.0"
+}

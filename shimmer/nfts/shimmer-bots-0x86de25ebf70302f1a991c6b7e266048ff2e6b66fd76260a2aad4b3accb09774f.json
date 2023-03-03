@@ -1,0 +1,13 @@
+{
+ "description": "is a unique 15pcs of shimmer bots collection, each NFT is unique and there will be no more.NFT can also be used for commercial purposes.Thank you for the purchase. \n",
+ "issuerName": "Soonaverse",
+ "name": "shimmer bots",
+ "royalties": {
+  "smr1qrwtlaes60hjdq0rra2fs7svdjyqh2thhffwm73xx7zehs2k6zx6509zhwx": 0.1
+ },
+ "soonaverseId": "0xdd07d64763154631a5e1138bd7b7a90a78f5ac8b",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeibbvywxfkkgcz7veldrb5nz2wtq4qbgg4vvpkmag22cbt2y2my7cq",
+ "version": "v1.0"
+}

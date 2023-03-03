@@ -1,0 +1,10 @@
+{
+ "description": "Recompensa a los 200 primeras inscripciones en el espacio firefly",
+ "issuerName": "Soonaverse",
+ "name": "Arte firefly",
+ "soonaverseId": "0x9628d16ab43d395def6b73a06c290e8ecd4afdc2",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiaxl4foqfa5njxihcrgutjpzn5r3spcdop755c7t2wjkc6d4cximm",
+ "version": "v1.0"
+}

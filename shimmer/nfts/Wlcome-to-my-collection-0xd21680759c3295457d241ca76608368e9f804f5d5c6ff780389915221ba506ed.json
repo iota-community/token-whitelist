@@ -1,0 +1,10 @@
+{
+ "description": "Collector",
+ "issuerName": "Soonaverse",
+ "name": "Wlcome to my collection",
+ "soonaverseId": "0x5c9aee1f4693ed34cf7dd69f0fbd2206eba2231d",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreibkvcvirtckti5zjjeanjotymt5xnswcfnt6uyaim646d47wz44yy",
+ "version": "v1.0"
+}

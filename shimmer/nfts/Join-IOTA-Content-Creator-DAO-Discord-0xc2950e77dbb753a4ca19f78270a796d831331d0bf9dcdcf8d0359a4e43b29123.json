@@ -1,0 +1,10 @@
+{
+ "description": "Award Description\nJoin IOTA Content Creators DAO Discord and contact the guardians (Linus (smooth brain = no sad)#5313 or Pathin#0001 ), in order to get a voting-right badge for the upcoming \"Vision-statement\" election.\nVision-statement voting-right Badge Description\n",
+ "issuerName": "Soonaverse",
+ "name": "Join IOTA Content Creator DAO Discord",
+ "soonaverseId": "0x44d3626b2b3a082dbcc2b8261e8695df085b1b91",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiasqszohunzs3pt653i2l7fxwgqdarxbwct2dnzu6v4iqkzsv2qz4",
+ "version": "v1.0"
+}

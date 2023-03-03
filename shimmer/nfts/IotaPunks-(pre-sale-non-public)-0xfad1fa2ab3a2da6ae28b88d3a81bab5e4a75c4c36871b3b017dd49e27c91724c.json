@@ -1,0 +1,13 @@
+{
+ "description": "IotaPunks (genesis pre-sale/non public) - the OG pixelart collection. IotaPunks is a collection of 15,555 NFTs, made with nothing but love. Every IotaPunks is unique. When you buy a IotaPunks you are not only buying an individual art piece, you are also buying yourself into a project which is part of the IOTA NFT ecosystem. The IotaPunks are 32x32 pixel art images, generated algorithmically. Each IotaPunk has different attributes, and some are rarer than others. Simply put, the rarer an item, the higher its value. The complete collection consists of ; Air-Drop 55 ; Genesis-Presale 500 (450 public / 50 non public) ; Public-Mint 15000 (12500 public \"split into - Punkathon #1-5\") / 2500 non public);",
+ "issuerName": "Soonaverse",
+ "name": "IotaPunks (pre-sale/non public)",
+ "royalties": {
+  "smr1qr6gpxddlfxyp65tc74vdu92w7ft4qx8786permnhwjcgc0gl80qwujzwjz": 0.05
+ },
+ "soonaverseId": "0xdd1e445db7d2a5c1bba6b6031f03ef87ce6a5ea2",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeid7yi7idutwnklcxs4kstcbou7vuollnpqglrromg7q2kp23os7fm",
+ "version": "v1.0"
+}

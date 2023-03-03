@@ -1,0 +1,13 @@
+{
+ "description": "If you won one of the Twitter competitions you can claim your NFT here! (Winners Badge required)",
+ "issuerName": "Soonaverse",
+ "name": "Collection 1: Twitter Competition Winners",
+ "royalties": {
+  "smr1qp03e3v58gqvqmed8eh5w42qwgyq7sldw42vvn70jle0lsuyd9g27wmm2t5": 0.25
+ },
+ "soonaverseId": "0x9440ffcfad5a65791de5d083a5f6f0518e316d87",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeiak7433h7krq2w5vmhi6gekigdzhc7h2kt7dhr3u2pvdmwebgcxpi",
+ "version": "v1.0"
+}

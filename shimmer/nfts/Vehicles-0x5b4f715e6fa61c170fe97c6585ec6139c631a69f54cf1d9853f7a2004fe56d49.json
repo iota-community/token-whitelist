@@ -1,0 +1,13 @@
+{
+ "description": "100 unique designs - Limited Edition",
+ "issuerName": "Soonaverse",
+ "name": "Vehicles",
+ "royalties": {
+  "smr1qznk5wvng3ae855sk9faszpc97lnf5rac45cecptx5u3ny7q59lxz32xz4n": 0.04
+ },
+ "soonaverseId": "0x3aa1fcc008611f1640799d8b90a07df290659ac1",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeidxk25znh2ieuxqvy42cdhvucetrruprtqom26kmng7jdred3qbxu",
+ "version": "v1.0"
+}

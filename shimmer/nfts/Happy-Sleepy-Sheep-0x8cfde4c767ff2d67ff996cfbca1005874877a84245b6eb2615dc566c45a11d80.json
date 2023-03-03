@@ -1,0 +1,13 @@
+{
+ "description": "Cute little sheep with their eyes closed experiencing dream land. An unknowing sheep is a happy sheep. Sheep everywhere! A 2022 Collection.",
+ "issuerName": "Soonaverse",
+ "name": "Happy Sleepy Sheep",
+ "royalties": {
+  "smr1qray9ucd8fgdmqj6nnaqme2hfjcz9cq9mhjan62hr7xgn0fkrk54zmld3dz": 0.05
+ },
+ "soonaverseId": "0x5c05958bfec5669ca3f422c352070da142ab9f1e",
+ "standard": "IRC27",
+ "type": "application/octet-stream",
+ "uri": "ipfs://bafybeiaykv5jwai2jpwyl2lgwcgrmb5dh3dof6eadtwkpula7p4j53qv5u",
+ "version": "v1.0"
+}

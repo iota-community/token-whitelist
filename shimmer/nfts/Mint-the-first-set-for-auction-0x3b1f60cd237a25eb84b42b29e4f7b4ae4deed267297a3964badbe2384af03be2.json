@@ -1,0 +1,10 @@
+{
+ "description": "Mint the first set for auction",
+ "issuerName": "Soonaverse",
+ "name": "Mint the first set for auction",
+ "soonaverseId": "0xe418a461ee0f1d1d5bd5d6a6d311e45e582bb654",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiae4acmx7fyxmnepzm5nvh3cfnr4u22s7mtmfz3crfmcbft3ff42y",
+ "version": "v1.0"
+}

@@ -1,0 +1,13 @@
+{
+ "description": "You are going to purchase a png.file with an attached IPFS-link. To view your house in 3D file rename it and save it as .glb! Your house also is useable in #PAVIA! ( viewer.pavia.io )\n\nVous êtes sur le point d'acheter un fichier PNG au moyen d'un lien vous menant au protocole IPFS. Veuillez, pour la visualisation de votre maison en 3D, renommer et sauvegarder le fichier dans le format de fichier .glb ! Vous pouvez maintenant habiter, vivre et travailler dans votre maison dans #PAVIA ! ( viewer.pavia.io )\n\n\nStai per acquistare un file PNG con collegamento al protocollo IPFS. Si prega di rinominare e salvare il file nel formato .glb per poter visualizzare la casa in 3D! Adesso puoi vivere e lavorare nella tua casa nel #PAVIA! ( viewer.pavia.io )\n \nFrench/Italien translation by:\n carmen.sortino#1060 (discord)",
+ "issuerName": "Soonaverse",
+ "name": "second collection",
+ "royalties": {
+  "smr1qprrdztekmtsyxsnqdfqxj77xgful5zwxqpn4wh95z65drcceh0q6c4g724": 0.13
+ },
+ "soonaverseId": "0x54a70aae045cd73fc2fa9c63b0f954bda378375d",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreigeudj33yugh3wl3lvxv4othbxyav7ygmr3p3577o7q2wxelww6am",
+ "version": "v1.0"
+}

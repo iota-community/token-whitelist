@@ -1,0 +1,13 @@
+{
+ "description": "tester",
+ "issuerName": "Soonaverse",
+ "name": "SFT test",
+ "royalties": {
+  "smr1qrmyfvmw4h9dujvlkelpsue4e3knak64mg73lhx97a207clqq02uw2x7ax4": null
+ },
+ "soonaverseId": "0xd991ecac0366fb8cda5572737e9325bec7a78e6c",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeienqxd55bounojxfgwoevrm7jc26izzlvq2hhd3hlxyex5j3nutli",
+ "version": "v1.0"
+}

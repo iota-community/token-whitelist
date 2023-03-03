@@ -1,0 +1,10 @@
+{
+ "description": "This award allows for owner to mint from all collections from $mall Batch only 1mi! ",
+ "issuerName": "Soonaverse",
+ "name": "Free NFT",
+ "soonaverseId": "0xf346a3596e26ca29ab8a309cd112c16dc0f6610e",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiemazb32nbhb3uvrzk6jubak3rjy5boqjmzozvzwxp5zrmayauu2y",
+ "version": "v1.0"
+}

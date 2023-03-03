@@ -1,0 +1,13 @@
+{
+ "description": "Find your personal favorite TanglePANDAs. \n\nSeries A - Discount levels for members on the basic price: 70% - XP \u003e 50 points, 80% - XP \u003e 100 points (subject to change).",
+ "issuerName": "Soonaverse",
+ "name": "TanglePANDAs - First Edition (Series A)",
+ "royalties": {
+  "smr1qr4dpkzmddxts4qseak9rxam90x6gmemzxc8f2z07e0aent0alkykf2pnaq": 0.1
+ },
+ "soonaverseId": "0xbf1be31d82c599bfcaf439d8c0c43b4fda01c1da",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeihth35se66ougkve2tps27ngnp5woglxgxn4mydii2hmtvdqusfjy",
+ "version": "v1.0"
+}

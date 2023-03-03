@@ -1,0 +1,10 @@
+{
+ "description": "if you hold at least 1 nft, you can apply",
+ "issuerName": "Soonaverse",
+ "name": "NFT holder",
+ "soonaverseId": "0x96a97cd39b8ef7b70e29fd3bbd2a5139c5849fe6",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreicsu3pihcnputir52zlgukdjdqttl3yorf7ovhbmjqdkqidpckicq",
+ "version": "v1.0"
+}

@@ -1,0 +1,13 @@
+{
+ "description": "The Soonanaut NFT is a part of the SoonLabs Soonaverse NF3 OG Set. Owners benefit from an array of features infused into the NFT: Membership to the Soonaverse Hub, airdrops, category-specific (Soonanauts, Artifacts, and Aliens) airdrops, “members only” offers, future Soonaverse platform capabilities such as editing features, digital twins, sets, builders, staking and P2E compatibility. All membership rights and features transfer with the sale/ownership of the NFT…AND, if you purchase 1 NFT from each category the designs “interlock” into a unique image. We call it the NF3. NF3 owners receive 2x bonuses on airdrops, VIP Access to special edition NF3 only sales events, and free access to Soonaverse Services Team. If 4 of your NFTs' attributes match (Fauna, Water, Planets, and Backgrounds) your NF3 goes ULTRA giving you 5x bonuses on airdrops. If ALL of your NFTs' attributes match then your NF3 goes MEGA ULTRA and you get 50x bonuses on airdrops!!! There are only 10 of those in existence, so happy hunting!",
+ "issuerName": "Soonaverse",
+ "name": "Soonanaut NFT (NF3)",
+ "royalties": {
+  "smr1qzu2y7ylzgve7f0fzpk73sz95wysr46s5acv7s8k2r74wzz9g4k4kh4hmy6": 0.05
+ },
+ "soonaverseId": "0xcbe28532602d67eec7c937c0037509d426f38223",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeicg6rwutyp4kdijzb7r3bpohzl6ka6xthdkwoncjemtcvcahjp7s4",
+ "version": "v1.0"
+}

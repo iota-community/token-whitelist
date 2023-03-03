@@ -1,0 +1,10 @@
+{
+ "description": "Here is your first coin generously donated after opening an account in our bank.",
+ "issuerName": "Soonaverse",
+ "name": "Here's some nice money for you Pinocchio...",
+ "soonaverseId": "0x07ce4b52aa9eeb306e79f2784dbbb9a507ee0a77",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreihnv7wslwr44i2w3wkjhvrmlr4cfx2dd6tt2ubqmifrthwa72qkb4",
+ "version": "v1.0"
+}

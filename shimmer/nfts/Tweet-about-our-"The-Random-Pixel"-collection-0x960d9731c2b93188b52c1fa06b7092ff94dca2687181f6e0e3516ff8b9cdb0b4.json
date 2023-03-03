@@ -1,0 +1,10 @@
+{
+ "description": "Receive a marketplace discount for all our collections",
+ "issuerName": "Soonaverse",
+ "name": "Tweet about our \"The Random Pixel\" collection",
+ "soonaverseId": "0xdfb57606a0c1440b776b322357bcb8c58382c3d3",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreieosszysbrzoejvuisa55tckgd4efinbnuzsqm45lalvje4xx64a4",
+ "version": "v1.0"
+}

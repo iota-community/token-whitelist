@@ -1,0 +1,13 @@
+{
+ "description": "perspective",
+ "issuerName": "Soonaverse",
+ "name": "space",
+ "royalties": {
+  "smr1qrx6l999fjtmm9ew4d45nc73fd8h46jzje8vmtg0claqwc3pge8tygmctns": 0.05
+ },
+ "soonaverseId": "0x5fc2833f36ee5285f630e4ef48cdc246b747019a",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafkreicrf5jslmaynmtspdbculr3py3diebolahnl3vmawlnldjod7zmhq",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "Simply for the badge",
+ "issuerName": "Soonaverse",
+ "name": "First person to interact with this space",
+ "soonaverseId": "0x45025326b657c13525bce9a4f79bb39c7479fcc1",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreibmeg5h3yc57zzrrahps7shprah4lsuydgwtzdtt5ghtk5hi7jq2a",
+ "version": "v1.0"
+}

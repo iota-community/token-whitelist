@@ -1,0 +1,10 @@
+{
+ "description": "Soonaverse  1st NFT Buyer",
+ "issuerName": "Soonaverse",
+ "name": "Soonaverse NFT Awards",
+ "soonaverseId": "0x028e717938a9c40b38b1b8fe96f2d5eed3bb85c3",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiblzbfea6kgbhkcol33yatvedngjlrninnybhn27sywqicns7hswu",
+ "version": "v1.0"
+}

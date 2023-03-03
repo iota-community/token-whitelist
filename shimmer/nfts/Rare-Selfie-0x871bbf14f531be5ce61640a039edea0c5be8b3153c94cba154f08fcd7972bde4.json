@@ -1,0 +1,13 @@
+{
+ "description": "Collectible Stamps presents drawings of a set of self-portraits taken at different moments in space-time from different dimensions. (Only 13)",
+ "issuerName": "Soonaverse",
+ "name": "Rare Selfie",
+ "royalties": {
+  "smr1qq9l3p6yjwprqjc96az8y74hr9eyrmupznwll7ku5xj6uqkc0yxagpdqmjk": 0.2
+ },
+ "soonaverseId": "0x5d7459930811765d78cd3bcdf6c1a84c00d203f5",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreidohhzwapc6fkyxc62wxqfiu2ngko6rfoq6h4rlocfibq2mwesy2m",
+ "version": "v1.0"
+}

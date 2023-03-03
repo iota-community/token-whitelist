@@ -1,0 +1,13 @@
+{
+ "description": "vivo",
+ "issuerName": "Soonaverse",
+ "name": "color",
+ "royalties": {
+  "smr1qrx6l999fjtmm9ew4d45nc73fd8h46jzje8vmtg0claqwc3pge8tygmctns": 0
+ },
+ "soonaverseId": "0x40beeea67c596bd0eebaa5cdab80dbc5dfd1b65d",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafkreienmal42cqqiql5tcaha22bviwultdombo6ipeko4fa6ju3mmd6ha",
+ "version": "v1.0"
+}

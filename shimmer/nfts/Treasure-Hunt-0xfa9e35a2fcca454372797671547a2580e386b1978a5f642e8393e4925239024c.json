@@ -1,0 +1,13 @@
+{
+ "description": "Treasure Hunt is designed to bring “Realworld Adoption” to all NFT hunters!\nNFT´s of this collection can only be unlocked with a code, which you can find on a sticker that we stick somewhere. Send us the code via our Twitter account. When word reaches us, we will issue the badge which allows you to purchase an NFT of the treasure hunt collection. You can find the stickers by following our Twitter account and following the hints we post on our account. Or you just stumble over one of our stickers. It is important that you have a Sonnaverse account with which you can secure the NFT and have a Fireflywallet with which the unmodified transaction is carried out.\u2028Have fun hunting! ",
+ "issuerName": "Soonaverse",
+ "name": "Treasure Hunt",
+ "royalties": {
+  "smr1qqef92uag9f4gxvwxcsdftw2aerj3hqu3tfeylha4rdaypzsd25as9ffg60": 0.05
+ },
+ "soonaverseId": "0x3aaa2ac9445aa2556351d2d9d60512a70ef9f11c",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeifjnsyzjjxzmnhxynif7auueuuwtbpultta2tviteonx7h62vaqbq",
+ "version": "v1.0"
+}

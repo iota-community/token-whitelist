@@ -1,0 +1,10 @@
+{
+ "description": "Visit my blog :\n\nhttps://kwontik.com/blog",
+ "issuerName": "Soonaverse",
+ "name": "Visit my blog",
+ "soonaverseId": "0x9bfe8f4d140059c519424adde735971d6149b753",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiebhplf5bukysoswcuonmfixk4a5qztkcbpqrq2wfhtngksvhwsam",
+ "version": "v1.0"
+}

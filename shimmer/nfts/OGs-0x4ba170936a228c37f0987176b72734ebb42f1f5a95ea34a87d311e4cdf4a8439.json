@@ -1,0 +1,10 @@
+{
+ "description": "All our OGs",
+ "issuerName": "Soonaverse",
+ "name": "OGs",
+ "soonaverseId": "0x5ccf157bb0a78274d1cf1cd4c70edb4f3d503b42",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiazhh3kz4uusxtgk2uuvwuoxwlwvb4dao6orfwx73enhfcdbtt4ma",
+ "version": "v1.0"
+}

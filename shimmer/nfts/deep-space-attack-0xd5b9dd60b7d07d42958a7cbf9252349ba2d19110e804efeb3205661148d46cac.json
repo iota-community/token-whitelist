@@ -1,0 +1,13 @@
+{
+ "description": "There was an attack from deep space. People have to defend themselves. Will we win? This NFT collection is limited and on the shimmer network. Each image is unique.",
+ "issuerName": "Soonaverse",
+ "name": "deep space attack",
+ "royalties": {
+  "smr1qrddlass97w9zvffhef475jkz0zjh8fz3gvy3pnv6sjltvzzdknsgpfsut8": 0.05
+ },
+ "soonaverseId": "0xf352ac6b78ef8dc34be3bf5e5a20dd4b1c06068f",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeiavon4xtq4zttqlohn5cdfcewebcnd46q2mf4d6fg4if5vscfuaie",
+ "version": "v1.0"
+}

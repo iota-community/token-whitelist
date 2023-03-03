@@ -1,0 +1,10 @@
+{
+ "description": "Congratulations! You were here early! This award will give special features in the future.",
+ "issuerName": "Soonaverse",
+ "name": "Early philanthropist award",
+ "soonaverseId": "0x942bc61f130870c6b71c91797b58aed008ed09b0",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiaaiaxrbl5wvz7s7bby3q2dqfilhrt5eg4d7akvhigmdza6ss74cm",
+ "version": "v1.0"
+}

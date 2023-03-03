@@ -1,0 +1,10 @@
+{
+ "description": "",
+ "issuerName": "Soonaverse",
+ "name": "Santa Award",
+ "soonaverseId": "0x6ebbe63984cc72770f54b36974865e1995d81845",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreigusgsyczu67nlyihri5nsaelkwph533okjnqbvufgk7hfzo4qw5i",
+ "version": "v1.0"
+}

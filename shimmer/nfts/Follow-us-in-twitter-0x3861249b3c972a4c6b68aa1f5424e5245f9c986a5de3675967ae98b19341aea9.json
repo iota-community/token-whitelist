@@ -1,0 +1,10 @@
+{
+ "description": "https://twitter.com/SMRCloudService",
+ "issuerName": "Soonaverse",
+ "name": "Follow us in twitter",
+ "soonaverseId": "0x40f7c235a2e3ab858f42a1e4a9fe0fe3d46a84df",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreidybvciajx7voivtljuzdnh7n2ulbf3z3wloni7xn52nsnvh4h7ja",
+ "version": "v1.0"
+}

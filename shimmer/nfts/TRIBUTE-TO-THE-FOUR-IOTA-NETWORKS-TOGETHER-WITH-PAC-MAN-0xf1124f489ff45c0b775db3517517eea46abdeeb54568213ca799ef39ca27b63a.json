@@ -1,0 +1,13 @@
+{
+ "description": "NebulaTangle's arcade machines pay homage to the legendary arcade game Pac-Man",
+ "issuerName": "Soonaverse",
+ "name": "TRIBUTE TO THE FOUR IOTA NETWORKS TOGETHER WITH PAC-MAN",
+ "royalties": {
+  "smr1qzvrxtnysmz2707j5e4hv0kyy406sktkx3ulgf42lgms6fvzvrvg62vert9": 0.1
+ },
+ "soonaverseId": "0x3c790e8634876f4f1f066ee784fc793d1c169d5c",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeifaazqlwk5ath64u2vwzoyj45hpoa44gistkykrjcigh3tnowoctu",
+ "version": "v1.0"
+}

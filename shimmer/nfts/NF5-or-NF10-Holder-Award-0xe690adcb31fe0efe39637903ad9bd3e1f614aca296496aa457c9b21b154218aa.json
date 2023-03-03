@@ -1,0 +1,10 @@
+{
+ "description": "You need this badge, if you want a NFT from the Special Edition.\nEach NF5 or NF10 holder can participate and will received the bagde.\n",
+ "issuerName": "Soonaverse",
+ "name": "NF5 or NF10 Holder Award",
+ "soonaverseId": "0x698e09abf2113b4515fc01bb975fdeedd9bf2c65",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeif5hodii3dxphzm7eu72yd3l6pnfns5rjrysmrerowokm2fj7uate",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "Anyone who finds and reports a bug will receive a Soonaverse Bug Bounty badge in return.\n\nIf you have found an issue, submit it here https://github.com/soonlabs/soonaverse-dao/issues\n\nDon't forget to add a github link to your participation note!",
+ "issuerName": "Soonaverse",
+ "name": "Soonaverse December Bug Bounty",
+ "soonaverseId": "0x2d435d7966cb28ab3a81e16e20122465a3b74b18",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreievstvp7b7ezd5poejbkjgdi4n76jjiii4z7otleyav4f37jev5fe",
+ "version": "v1.0"
+}

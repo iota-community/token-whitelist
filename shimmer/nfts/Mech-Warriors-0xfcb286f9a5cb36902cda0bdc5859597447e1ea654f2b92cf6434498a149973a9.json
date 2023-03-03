@@ -1,0 +1,13 @@
+{
+ "description": "200 unique designs - 100 Units of each design. No more units will be ever created.\n\nOwning 1/200 Mech Warrior NFT means that you can use the image however you like, for private or commercial use.\n\nIf you want all rights reserved exclusively, you must get all units of each design.\n\nI wish you good luck and a good life. All the love. All the power",
+ "issuerName": "Soonaverse",
+ "name": "Mech Warriors",
+ "royalties": {
+  "smr1qznk5wvng3ae855sk9faszpc97lnf5rac45cecptx5u3ny7q59lxz32xz4n": 0.04
+ },
+ "soonaverseId": "0x3ae92bd924c575f29a440190e49cd86cf125b8b9",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiaamaxv2nvm6gh2x2bvzzmostbjs3lqhrwzeyeoka7r64qtby6udy",
+ "version": "v1.0"
+}

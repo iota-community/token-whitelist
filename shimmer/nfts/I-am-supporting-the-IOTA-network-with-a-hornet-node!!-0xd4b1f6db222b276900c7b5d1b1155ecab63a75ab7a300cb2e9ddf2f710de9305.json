@@ -1,0 +1,10 @@
+{
+ "description": "I support the IOTA-network by running my own Hornet Fullnode. Powered by the software of Raspihive.",
+ "issuerName": "Soonaverse",
+ "name": "I am supporting the IOTA-network with a hornet node!!",
+ "soonaverseId": "0x26fc4b107c73dacf547f959cfb704998dd443b73",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiaw4f3os3zyea76yifx2j6et3aaklr6b4utsfar7ta5qixiuowzha",
+ "version": "v1.0"
+}

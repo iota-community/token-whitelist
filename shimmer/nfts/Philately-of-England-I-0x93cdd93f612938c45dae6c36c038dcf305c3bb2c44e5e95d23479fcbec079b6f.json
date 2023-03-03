@@ -1,0 +1,13 @@
+{
+ "description": "The philately collection of England is very extensive, so we will separate it into several collections. This is the first part.",
+ "issuerName": "Soonaverse",
+ "name": "Philately of England I",
+ "royalties": {
+  "smr1qr75lhh2wltnla0hurecmu00yj3qeeyjvsc5pxgkzwfc0tlhmdadz62nkx7": 0.05
+ },
+ "soonaverseId": "0x89280983509fcaf6e15d9773696ba79ba8781512",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeigpqnfan3un4dn3f7lq7n2un4htq43qis25ck7s4o3ai3d4ge47aq",
+ "version": "v1.0"
+}

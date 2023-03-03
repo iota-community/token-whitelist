@@ -1,0 +1,10 @@
+{
+ "description": "Join our Space and get your first badge + 100xp!\n\n100 badges available!!",
+ "issuerName": "Soonaverse",
+ "name": "Space membership badge",
+ "soonaverseId": "0x960c45022334b7de5d078d9dc136d3346ae82057",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiatidrixjhoj635phgulehw547xfvvvek4dftotsgnnktngepixpe",
+ "version": "v1.0"
+}

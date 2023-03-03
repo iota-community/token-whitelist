@@ -1,0 +1,13 @@
+{
+ "description": "100 unique designs - Limited Edition",
+ "issuerName": "Soonaverse",
+ "name": "Emotions",
+ "royalties": {
+  "smr1qznk5wvng3ae855sk9faszpc97lnf5rac45cecptx5u3ny7q59lxz32xz4n": 0.04
+ },
+ "soonaverseId": "0x3323f2b85f95f028e553688ecfdb237d86d1e555",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeihvd7t6d5x45oui7xzyg4ogn4okwtsusqyfdvpanfkv4kzjdq2fte",
+ "version": "v1.0"
+}

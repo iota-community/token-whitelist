@@ -1,0 +1,10 @@
+{
+ "description": "First buyer 30% discount",
+ "issuerName": "Soonaverse",
+ "name": "First buyer 30% discount",
+ "soonaverseId": "0x14f46b927e9ef6b06c237226089a99437b3f28a8",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeictjwd4xjjcq4g2qsg6fx4yqqbkta7ghnay32g4i7r5t5tj3ot4qy",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "Get some XP for discount!",
+ "issuerName": "Soonaverse",
+ "name": "Get some XP for discount!",
+ "soonaverseId": "0x5eca822674a69e696bab9d11e0877702944ef06d",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreigu4afuagh6bt6q5ywztp6zbq3vgcyeubglonuvvacvow6b5r23oy",
+ "version": "v1.0"
+}

@@ -1,0 +1,13 @@
+{
+ "description": "Digital art by Hei\n(with the help of ai)",
+ "issuerName": "Soonaverse",
+ "name": "D/A",
+ "royalties": {
+  "smr1qqnmk6x4lww4d6m200r3pew0f5278qcsrfrfmlaa2g4k3ktnhhhu6k8y62r": 0.05
+ },
+ "soonaverseId": "0xc33d41297b1efd23b1188cf5a69c11ac59de54fd",
+ "standard": "IRC27",
+ "type": "application/octet-stream",
+ "uri": "ipfs://bafybeihlsfxlipbh3cg5wzv3u34ewukw6l4lnaifhv3lvdtxam47m4jq5a",
+ "version": "v1.0"
+}

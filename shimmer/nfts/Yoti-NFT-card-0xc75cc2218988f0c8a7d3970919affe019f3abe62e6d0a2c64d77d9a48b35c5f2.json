@@ -1,0 +1,10 @@
+{
+ "description": "You received a Yoti card with an unique code on it? Lucky you! Let us know the code and you'll get a badge that lets you mint one of 180 unique Yotis from the official Yoti collection.",
+ "issuerName": "Soonaverse",
+ "name": "Yoti NFT card",
+ "soonaverseId": "0x1a2adc7bfbb35ee34e6e586b75a87a8604ae44db",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiauktvyguutsciamg7zoyfdhvaudfh4sajz7baq3rpmlf44ajoc54",
+ "version": "v1.0"
+}

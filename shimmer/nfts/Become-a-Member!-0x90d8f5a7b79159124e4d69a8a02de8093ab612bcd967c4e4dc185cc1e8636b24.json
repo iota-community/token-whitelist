@@ -1,0 +1,10 @@
+{
+ "description": "Get the badge and be a proud IOTA Giraffe Space Member :)",
+ "issuerName": "Soonaverse",
+ "name": "Become a Member!",
+ "soonaverseId": "0x65671280d76b7e9bf981dac62fd8bd2943c59fd5",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeibtmv7fkqlgqslij5zvshaikwxwbzaswlkwivbycexnrihkdbnsfi",
+ "version": "v1.0"
+}

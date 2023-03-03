@@ -1,0 +1,10 @@
+{
+ "description": "\"I won a giveaway on Twitter\"",
+ "issuerName": "Soonaverse",
+ "name": "Giveaway Winner",
+ "soonaverseId": "0x989bd9c1d278f33e40ea1d83303428802f8ca524",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreibsl3cfkchof6nwgr2crx23kgv2zyxdqjyo2dhv3g2gu46x3mhp34",
+ "version": "v1.0"
+}

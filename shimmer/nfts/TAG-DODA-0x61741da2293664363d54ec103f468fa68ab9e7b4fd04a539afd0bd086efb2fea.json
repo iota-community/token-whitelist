@@ -1,0 +1,13 @@
+{
+ "description": "Special series for collectors. Original design no TAG Lab branding. \nThese flashy pictures wanted to introduce The Augmented Gallery through their experimental DAO TAG Lab in Soonaverse\n ",
+ "issuerName": "Soonaverse",
+ "name": "TAG DODA",
+ "royalties": {
+  "smr1qzuheu56z6ed03ysevxj2ca5pwjjey3qyd6q0x9ttf5hre3tk8jq6wxj0q9": 0.09
+ },
+ "soonaverseId": "0x73aa1a95c54d69de7bf9bad34fea35eb608eba6e",
+ "standard": "IRC27",
+ "type": "application/octet-stream",
+ "uri": "ipfs://bafybeiauanljw5s2jvuiczdvf5dnz6bgjz46spyaqjify4uoxlliwuphnm",
+ "version": "v1.0"
+}

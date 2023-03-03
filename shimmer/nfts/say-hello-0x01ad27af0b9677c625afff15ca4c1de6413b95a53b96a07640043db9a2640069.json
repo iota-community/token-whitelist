@@ -1,0 +1,10 @@
+{
+ "description": "next test 4",
+ "issuerName": "Soonaverse",
+ "name": "say hello",
+ "soonaverseId": "0xf27e41176003cc0a2d775cffd9d93c742263ef96",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreigi5pqm4jgyht3nipnldm7pedbvizwvyih25h5vl767rtzlkfpxnm",
+ "version": "v1.0"
+}

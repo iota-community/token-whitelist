@@ -1,0 +1,10 @@
+{
+ "description": "Hinterlasse ein Hallo in meinem Raum.",
+ "issuerName": "Soonaverse",
+ "name": "Freundschaft",
+ "soonaverseId": "0xd947bd0fe34e9a7ac77f4896eea04d7a66cbe464",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreibzwug7eoc6unekjzes3f356dpy53cp5bxjfnmb4gutvxdyywgv6i",
+ "version": "v1.0"
+}

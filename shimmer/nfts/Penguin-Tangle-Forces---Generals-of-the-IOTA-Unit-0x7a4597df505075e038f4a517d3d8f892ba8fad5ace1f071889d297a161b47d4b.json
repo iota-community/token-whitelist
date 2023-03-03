@@ -1,0 +1,13 @@
+{
+ "description": "This is a special collection that contains only generals who are part of the IOTA unit (dark blue beret and IOTA symbol). ",
+ "issuerName": "Soonaverse",
+ "name": "Penguin Tangle Forces - Generals of the IOTA Unit",
+ "royalties": {
+  "smr1qqc9ppu9raa0kw93pzkgvljjmts48yeka80395sfzm052umh53gksjj8jp0": 0.05
+ },
+ "soonaverseId": "0xcadfcaec24457ed3d3de5be50ef91414e3c129db",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeig3ixreaaetzpufobqhmadbgqnqki6f4wfim3abor4xqmklgzy7du",
+ "version": "v1.0"
+}

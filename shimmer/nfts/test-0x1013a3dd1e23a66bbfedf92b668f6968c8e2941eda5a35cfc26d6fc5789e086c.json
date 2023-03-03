@@ -1,0 +1,10 @@
+{
+ "description": "ed gets a badge",
+ "issuerName": "Soonaverse",
+ "name": "test",
+ "soonaverseId": "0x04dc394e582fffc780a8642e071d4092f57a5423",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeif2a5zfaamos2rublksefcbjfkhb2ngfjeuiqmneuiw3sakjrprtu",
+ "version": "v1.0"
+}

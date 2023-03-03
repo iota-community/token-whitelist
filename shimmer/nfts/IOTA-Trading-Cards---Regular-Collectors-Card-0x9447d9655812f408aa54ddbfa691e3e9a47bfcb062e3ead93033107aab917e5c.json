@@ -1,0 +1,13 @@
+{
+ "description": "## The Regular Collectors Card\n\nThe Regular Collectors Card can get by the first 20 Collectors who collect a full Regular Card Deck. This means that you have to own all cards min. once. \n\n#\nThe Regular Card Deck consists of 100 different cards. The Card limitation is not relevant for this Collectors Card. You only have to collect all 100 cards AND be under the first 20 Collectors who participate the Regular Collectors Award on Soonaverse. \n\n#\nIf you have participated please let me some time to check if everything is correct and you collect all cards. Definitely you will get it if everything is correct. First comes, first serve for sure.\n\n#\nAfter you get your Regular Collectors Award you can come back and get your Regular Collectors Card for free (1Mi for dust protection). \n\n#\n\n\n## Limited to 20 Cards which never will be sold by iotatradingcards.com",
+ "issuerName": "Soonaverse",
+ "name": "IOTA Trading Cards - Regular Collectors Card",
+ "royalties": {
+  "smr1qp9haq8szufd3wyqmtp392vkxfd77j5ancdf7h65qyc8uh8pawaj5qvqp90": 0.05
+ },
+ "soonaverseId": "0x17b942791ade24b4faa08aa593f58d17cec654d9",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafkreifunsfgjnxp7j24dluumotngsgoe5atx6davypghs2pvccj23lwn4",
+ "version": "v1.0"
+}

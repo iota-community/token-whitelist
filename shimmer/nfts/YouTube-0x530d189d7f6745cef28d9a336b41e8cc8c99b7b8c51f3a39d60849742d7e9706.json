@@ -1,0 +1,10 @@
+{
+ "description": "Follow us on YouTube\n\nhttps://www.youtube.com/c/MuscleMusic030",
+ "issuerName": "Soonaverse",
+ "name": "YouTube",
+ "soonaverseId": "0x0001effc4c05f972bd73a865545ad52b7e625d38",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiblzqwcfy6qjrijtclrvogttwrq5q6saazbuuy6o27euxc6arfuu4",
+ "version": "v1.0"
+}

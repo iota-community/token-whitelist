@@ -1,0 +1,10 @@
+{
+ "description": "Tell me about something you like to do one the weekend!",
+ "issuerName": "Soonaverse",
+ "name": "What's something you like to do on the weekend?",
+ "soonaverseId": "0x7e600db222e96a43b77321deeb257b2f9eaeb430",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreifstpbvwuf3vjel64ggggx7ao4cvsqmaq42m5g7scq2uqf7cdthdi",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "rich",
+ "issuerName": "Soonaverse",
+ "name": "rich",
+ "soonaverseId": "0x9928e061b9471bbeaa73b059dd62c4a0feeed400",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "",
+ "version": "v1.0"
+}

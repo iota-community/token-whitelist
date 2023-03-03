@@ -1,0 +1,10 @@
+{
+ "description": "To give a thing that only Hong Kongers know in your reply to earn free xp and badge",
+ "issuerName": "Soonaverse",
+ "name": "Free XP and Badge for Hong Kongers",
+ "soonaverseId": "0x24588881e8cce88cf8f71ba0ed3122fef778e11a",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeihjfzrcjsolf6hshlrh7bnkkndl5byrfjcwqyuisusbzxpptastga",
+ "version": "v1.0"
+}

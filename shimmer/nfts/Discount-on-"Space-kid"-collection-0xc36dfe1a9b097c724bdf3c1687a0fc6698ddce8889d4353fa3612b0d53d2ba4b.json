@@ -1,0 +1,10 @@
+{
+ "description": "Limited-time discount on Space kid NFTs\n25 spots available",
+ "issuerName": "Soonaverse",
+ "name": "Discount on \"Space kid\" collection",
+ "soonaverseId": "0xb1f643a311020e69b3854a7a75cfd730d17ca535",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreifkmagxmvdjxmdkiga3ouelsv3ikyaunu4c56gz4h2a7pfyzd4jhq",
+ "version": "v1.0"
+}

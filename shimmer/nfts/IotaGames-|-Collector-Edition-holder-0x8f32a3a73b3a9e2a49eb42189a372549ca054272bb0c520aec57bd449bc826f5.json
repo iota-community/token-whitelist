@@ -1,0 +1,10 @@
+{
+ "description": "This award can be claimed by anyone who owns a special IotaGames Collector Edition game disk.",
+ "issuerName": "Soonaverse",
+ "name": "IotaGames | Collector Edition holder",
+ "soonaverseId": "0x34accd0659aae2ed12e205eb51180e2b332957bc",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreicyzigf7ahg52glq6xoekwclfksvptaogoatc65dk7msky7dvhy7q",
+ "version": "v1.0"
+}

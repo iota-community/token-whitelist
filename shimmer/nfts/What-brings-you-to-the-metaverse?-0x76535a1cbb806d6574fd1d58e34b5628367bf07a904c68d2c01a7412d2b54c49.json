@@ -1,0 +1,10 @@
+{
+ "description": "Briefly describe what interests you about the metaverse.",
+ "issuerName": "Soonaverse",
+ "name": "What brings you to the metaverse?",
+ "soonaverseId": "0x5428d27a56226426bb6ba7803b852864221050b0",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiagajcjvg3icqnntbkz2lkh43ktuoucmhijjgqk6w7bamxlkx7zye",
+ "version": "v1.0"
+}

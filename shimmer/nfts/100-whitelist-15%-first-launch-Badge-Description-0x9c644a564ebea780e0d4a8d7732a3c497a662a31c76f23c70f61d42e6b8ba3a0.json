@@ -1,0 +1,10 @@
+{
+ "description": "The first 100 people to sign up will get 15% off their Pengiotas.\n\n",
+ "issuerName": "Soonaverse",
+ "name": "100 whitelist 15% first launch Badge Description",
+ "soonaverseId": "0xcc22a0f69a32446b8320c38738072939a7a9a980",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeifq2phyqda5lmkf4rbsr3f7y4kva3j5uswbzdu32siybrxbwuxn7u",
+ "version": "v1.0"
+}

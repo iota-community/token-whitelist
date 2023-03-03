@@ -1,0 +1,13 @@
+{
+ "description": "Sam the Poodle \n\"Beauty is in the eye of the beholder“",
+ "issuerName": "Soonaverse",
+ "name": "Samiota",
+ "royalties": {
+  "smr1qru3uhhd0lwlmhtaxeuwfyy0u3t2saup6mup6auszxpadlcuzelscjnngdf": 0.1
+ },
+ "soonaverseId": "0xa5ebaee82650f1ed60e5803b71004b398fca6791",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafkreieaej2dqzh5jxstczbzgmiwuu5b6pjvcvs2lykowamw2ky4p5lzry",
+ "version": "v1.0"
+}

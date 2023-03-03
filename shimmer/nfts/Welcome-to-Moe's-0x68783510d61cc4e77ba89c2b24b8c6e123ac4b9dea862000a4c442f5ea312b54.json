@@ -1,0 +1,10 @@
+{
+ "description": "Welcome to Moe's. What do you drink?",
+ "issuerName": "Soonaverse",
+ "name": "Welcome to Moe's",
+ "soonaverseId": "0x0dad8e337828209e6b24c166bb04cfb3ec3d279c",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreih6mlclm2l5w5f2blinngkfdahn5wkanuak3xjpct6uhisf7dhsky",
+ "version": "v1.0"
+}

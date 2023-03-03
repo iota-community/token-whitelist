@@ -1,0 +1,13 @@
+{
+ "description": "Colecction of the first dogs to travel to space.",
+ "issuerName": "Soonaverse",
+ "name": "Astronaut dogs",
+ "royalties": {
+  "smr1qpjhe7sz4me4yxfczm4gf2wey4tau63r6zctet97y5fwpk0mcf66wehgfm5": 0.1
+ },
+ "soonaverseId": "0x2b42fa62b5ad9c2ca9f6500637013dbabbbd2ac5",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeifsmx7z5kfzm7uf7h72sta4apvcamtugvhew5q3eoiydr2vgyzhgi",
+ "version": "v1.0"
+}

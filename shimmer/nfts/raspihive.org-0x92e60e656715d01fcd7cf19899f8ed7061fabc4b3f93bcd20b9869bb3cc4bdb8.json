@@ -1,0 +1,10 @@
+{
+ "description": "Its simply created for the users, by the users. There are no highly paid developers or poorly paid support personnel on the phones ready to take your call. There are only users who have seen a problem and done their best to fix it.\n\nThe goal is, to provide a complete ready-to-go Linux image to install (for best experience with a Raspberry Pi and a touchscreen). This image provides (depending on the stage of the project) different options to install an IOTA Node, security, Dashboards, and make it accessible.\n\nCheckout their webpage.\n\n**** What line comes right before the \"What is IOTA?\" paragraph. it ends \"... \"all-in-one solution!\" ?****",
+ "issuerName": "Soonaverse",
+ "name": "raspihive.org",
+ "soonaverseId": "0xe9e385dfb6d83f92b40ca945992040abbe6a73b2",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreicts6lomwbggdxfnhd3l2t76tzv4jrxgvlij2mzowpngelg6c5yte",
+ "version": "v1.0"
+}

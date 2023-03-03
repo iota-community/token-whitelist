@@ -1,0 +1,10 @@
+{
+ "description": "Auction",
+ "issuerName": "Soonaverse",
+ "name": "Auction",
+ "soonaverseId": "0x536261ee4896c1f0cbe524a8f390b3375f445f3f",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreidnczmswzk2ksvkpintny4fk4l2hfzvsrep374n7iczeh2zgeayoq",
+ "version": "v1.0"
+}

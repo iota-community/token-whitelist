@@ -1,0 +1,10 @@
+{
+ "description": "Claim this award if you won one of the Gilded Sword first collection giveaways",
+ "issuerName": "Soonaverse",
+ "name": "Gilded Sword Collection 1a: Giveaway Winner",
+ "soonaverseId": "0xe72bab55e63c2f3585bac875d70327de13339efd",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreicjlytyevh5eq37amclck3uzlmfdjq2roxw4qrvqfuzen2r2eeuyi",
+ "version": "v1.0"
+}

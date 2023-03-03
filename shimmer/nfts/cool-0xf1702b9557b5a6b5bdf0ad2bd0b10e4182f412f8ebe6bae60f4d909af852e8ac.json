@@ -1,0 +1,13 @@
+{
+ "description": "calidos",
+ "issuerName": "Soonaverse",
+ "name": "cool",
+ "royalties": {
+  "smr1qrx6l999fjtmm9ew4d45nc73fd8h46jzje8vmtg0claqwc3pge8tygmctns": 0
+ },
+ "soonaverseId": "0x76df3996a8f876ba2e81dedbdd39c0eda8dad84b",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafkreigrrg623d3x3qt6nmlvqnut7q5xnkk74iv7cbbkbgz7fezcwto3qu",
+ "version": "v1.0"
+}

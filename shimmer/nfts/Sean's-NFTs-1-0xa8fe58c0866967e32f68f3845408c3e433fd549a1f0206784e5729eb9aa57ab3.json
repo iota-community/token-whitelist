@@ -1,0 +1,13 @@
+{
+ "description": "Just memes.",
+ "issuerName": "Soonaverse",
+ "name": "Sean's NFTs 1",
+ "royalties": {
+  "smr1qrmyfvmw4h9dujvlkelpsue4e3knak64mg73lhx97a207clqq02uw2x7ax4": 0.01
+ },
+ "soonaverseId": "0x5ec61e240f312f1fd7a58536732a464889f6d279",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeibgb3zfvrorzsaaxdhg3h7y5jjp7iiuqxwie3gzyawcb3na57nt3a",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "Do you follow me on Twitter?\nWrite your Twitter name to get the batch",
+ "issuerName": "Soonaverse",
+ "name": "One of the first 1000",
+ "soonaverseId": "0x9c6d5c3d687a2c4a7570af21784b4eaaf5bae2a1",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiatllkeoqgybgbgdefpxs6nnwftby57nmvasn44ssehdcoyjw7wte",
+ "version": "v1.0"
+}

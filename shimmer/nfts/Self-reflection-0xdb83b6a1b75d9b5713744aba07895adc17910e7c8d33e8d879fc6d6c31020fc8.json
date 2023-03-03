@@ -1,0 +1,10 @@
+{
+ "description": "Solve the problem of self-reflection: Everything I tell is a lie.\nIf this is true, than it must be a lie. If it is a lie, than it is true.",
+ "issuerName": "Soonaverse",
+ "name": "Self-reflection",
+ "soonaverseId": "0x4cfd6a24a95ef703fd032429c02b8f22f62c7906",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "",
+ "version": "v1.0"
+}

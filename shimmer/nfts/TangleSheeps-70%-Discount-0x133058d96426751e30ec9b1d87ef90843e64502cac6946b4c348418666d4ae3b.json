@@ -1,0 +1,10 @@
+{
+ "description": "Claim your award and get your 70% discount !",
+ "issuerName": "Soonaverse",
+ "name": "TangleSheeps 70% Discount",
+ "soonaverseId": "0xd3174ced221240ede86733740dc787cec3896ba7",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeib3gvwv3cwssa4v4ieqs5svvo7kkhoxlbweyvwpgf5x4moapowhd4",
+ "version": "v1.0"
+}

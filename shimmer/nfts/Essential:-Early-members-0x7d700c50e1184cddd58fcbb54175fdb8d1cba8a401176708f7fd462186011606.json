@@ -1,0 +1,13 @@
+{
+ "description": "This NFT is an opportunity for the first collaborators in the project. This image aims to represent how far the IOTA ecosystem and its community can grow.\nFor public sale, an animation of this same image will be released.",
+ "issuerName": "Soonaverse",
+ "name": "Essential: Early members",
+ "royalties": {
+  "smr1qrdh0kun9ksnc9vcadvzn2jnqf9gctzps3fxx83d6ysrffudx2tzca7ss8w": 0.05
+ },
+ "soonaverseId": "0x1cc951a57ee795ed9e79d76f9ca0745775c0d35a",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeic2dryayi5o2r3awzfo4qvl3vsbf3zkiz3xi73vhewr7hg4rwa47a",
+ "version": "v1.0"
+}

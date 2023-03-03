@@ -1,0 +1,10 @@
+{
+ "description": "https://twitter.com/iotapian",
+ "issuerName": "Soonaverse",
+ "name": "Follow us on Twitter to get Award",
+ "soonaverseId": "0x8d8ab3b62f5040e1ed33cd2a489b1c377072b328",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiaunridvqenverptju4u6wfjfiqwpzncaiarjbn7hmqf3odm3k2oi",
+ "version": "v1.0"
+}

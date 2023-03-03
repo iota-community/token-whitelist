@@ -1,0 +1,13 @@
+{
+ "description": "Test Collection Crypto",
+ "issuerName": "Soonaverse",
+ "name": "Test Collection Crypto",
+ "royalties": {
+  "smr1qptc0fveek48as2n2kn5pjsep984x0fw99lhd4v9pvz53xg02v4j5pwu0hm": 0.1
+ },
+ "soonaverseId": "0x1849810d9b29b363653626dc3c6fe1f56d9e5018",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreihkb4p34lppm3gyf47o7yvvildmve6i76b45ity6e23mzfct3zbay",
+ "version": "v1.0"
+}

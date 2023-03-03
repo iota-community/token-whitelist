@@ -1,0 +1,10 @@
+{
+ "description": "AdminBadge",
+ "issuerName": "Soonaverse",
+ "name": "Crittles",
+ "soonaverseId": "0xc1cabe4831993abfdb3cddb9d394d0dae71f8a37",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreihy5lkv3s4owcjiot7u4sdmoa2arlgffrf6yteqh4izpt6n7xbbae",
+ "version": "v1.0"
+}

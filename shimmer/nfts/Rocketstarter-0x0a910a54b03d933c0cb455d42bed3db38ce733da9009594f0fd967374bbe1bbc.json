@@ -1,0 +1,10 @@
+{
+ "description": "Start the rocket - be a node host",
+ "issuerName": "Soonaverse",
+ "name": "Rocketstarter",
+ "soonaverseId": "0x80ab1621c7c05e3b7f4fc6d51d7ee8c3c04298c8",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreigfut32m2c2hny7fwtm3mdh3pip7eapqtjrnmltzayjcjjkqi2x5m",
+ "version": "v1.0"
+}

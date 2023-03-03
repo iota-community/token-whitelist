@@ -1,0 +1,10 @@
+{
+ "description": "create an new proposal in this space and get your reward",
+ "issuerName": "Soonaverse",
+ "name": "Create an proposal",
+ "soonaverseId": "0x16da2fcb51877e568ef9cff10cd4f953602f974b",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiad7nycwwfepp2upbl3jm2cermkb3m6xrt32nut3grioiqfjfdaxq",
+ "version": "v1.0"
+}

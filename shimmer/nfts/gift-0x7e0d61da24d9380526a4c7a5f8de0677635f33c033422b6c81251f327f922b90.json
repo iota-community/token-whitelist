@@ -1,0 +1,10 @@
+{
+ "description": "gift",
+ "issuerName": "Soonaverse",
+ "name": "gift",
+ "soonaverseId": "0x509a6b526be1d478cfcd31488148621f60e5eb53",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "",
+ "version": "v1.0"
+}

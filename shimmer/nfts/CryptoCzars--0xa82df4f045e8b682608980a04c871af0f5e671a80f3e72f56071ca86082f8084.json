@@ -1,0 +1,13 @@
+{
+ "description": "#### The last 7 Czars that Ruled Mother Russia.\n\n\n\n[![ ](https://ipfs.io/ipfs/bafybeiefkwiwwfvbyaeatvfsxznags5nfzkm3mhk4t4ehbf7ns44zdtt44/CryptoCzars.webp)](https://ipfs.io)",
+ "issuerName": "Soonaverse",
+ "name": "CryptoCzars ",
+ "royalties": {
+  "smr1qp0zs6ywaq9qv0plgh4g0ju6lkmuh92s7ctkzgk9e6y6dtdyrfuas0v3egw": 0.05
+ },
+ "soonaverseId": "0xa9a82cf549a2ff58f8ed481113e90e8e79507adb",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiafb2ugj7yxilmrol5naxmqldeduqrqhvaqpkmrke2v46szfxfc6e",
+ "version": "v1.0"
+}

@@ -1,0 +1,13 @@
+{
+ "description": "The second phase will be drawing of material NFT, target to start around mid Dec for one week. Every players are recommended to draw 4 material NFT. Material NFT will slowly supplemented periodically within this phase, to make sure all players could participate. Beware that to build a final TIME NFT, you just need exactly 4 material NFT plus the toolkit, having extra material NFT will cause you cannot build it! ^o^\nFor the details of the whole game, feel free to have a check in https://snuonn-schmaorst-tsourry.yolasite.com/",
+ "issuerName": "Soonaverse",
+ "name": "NFT Buidler Game (Second Phase)",
+ "royalties": {
+  "smr1qptc3m44caq4gmq0qqf7zpshz4d5w9s97yuhgvrf48hxmvw3xpr7spzlr75": 0.1
+ },
+ "soonaverseId": "0xc319522bf49802f04127834b3d69846cee7f2846",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafkreihh3v5uq3pdalywgjrmgwd2k5z6wanab5pjryvbvyg5nhkq7tac5q",
+ "version": "v1.0"
+}

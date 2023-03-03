@@ -1,0 +1,13 @@
+{
+ "description": "Home of the \"Shimmions\" collection... rare stuff is coming :). \nBatch One...",
+ "issuerName": "Soonaverse",
+ "name": "Shimmions - Batch One",
+ "royalties": {
+  "smr1qzs3j42762ms82rv3343k2skq3ruat50m8kq07ducykukru8qkpr2dk56j6": 0.1
+ },
+ "soonaverseId": "0x3e2fe91b799bc51a27b205eaf91bfe7c39096896",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeibtstes7dr3fccqtmekizmf7spz6tgmwx3q7mpnpmcflzwiwzskva",
+ "version": "v1.0"
+}

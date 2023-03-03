@@ -1,0 +1,10 @@
+{
+ "description": "freeworld",
+ "issuerName": "Soonaverse",
+ "name": "freeworld",
+ "soonaverseId": "0x9ebc340f57cbeb72611b5c10c32f4c35bcfa6a11",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "",
+ "version": "v1.0"
+}

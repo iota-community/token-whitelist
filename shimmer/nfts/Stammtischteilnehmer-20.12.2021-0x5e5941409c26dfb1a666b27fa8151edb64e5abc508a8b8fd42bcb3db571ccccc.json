@@ -1,0 +1,10 @@
+{
+ "description": "Wenn du noch das Passwort kennst, das gestern gegen 21 Uhr gesagt wurde, dann bekommst du ein Badge",
+ "issuerName": "Soonaverse",
+ "name": "Stammtischteilnehmer 20.12.2021",
+ "soonaverseId": "0xd9742d91c8cae2e190e94012d81470af25699388",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreidzy2idlc2qvhyplo76l53q6lxxsxnv2ctg3gl4em22rymafiqlpa",
+ "version": "v1.0"
+}

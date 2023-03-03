@@ -1,0 +1,13 @@
+{
+ "description": "This is the second season of Eve in Decentraland. It includes different points of the city, museums and buidings. To acquire these collectibles you must be a member of the Eva community. And if you have also been awarded a badge and have at least 99 XP from our community you will get a 50% discount.",
+ "issuerName": "Soonaverse",
+ "name": "Eve 2022 season 2",
+ "royalties": {
+  "smr1qrjtt9r6gn3dznkx4jrvkk69qxvmuw9c4yzsrvqjenjcuka3425uy246lfs": 0.05
+ },
+ "soonaverseId": "0x2eb10a0ef94b5b735fedf7d5c297d60f295c3112",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeiecbre43rywmxyyqwjgciabea5mmjtgvtw25nepq4tszr53cy4fvu",
+ "version": "v1.0"
+}

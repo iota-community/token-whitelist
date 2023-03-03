@@ -1,0 +1,10 @@
+{
+ "description": "Minting the MUTANT ROBOT #0005",
+ "issuerName": "Soonaverse",
+ "name": "MUTANT ROBOT #0005",
+ "soonaverseId": "0x709371ccb9539171bf8419107c728dbf0bab37f3",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiet2xzan33ypsoixwu3l2oknxpmmz7dzk6ipkdod5i3joidft5okq",
+ "version": "v1.0"
+}

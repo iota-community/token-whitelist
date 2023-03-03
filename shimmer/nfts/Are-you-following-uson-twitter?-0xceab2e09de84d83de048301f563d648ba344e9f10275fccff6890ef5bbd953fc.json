@@ -1,0 +1,10 @@
+{
+ "description": "https://twitter.com/Comuna13gallery",
+ "issuerName": "Soonaverse",
+ "name": "Are you following uson twitter?",
+ "soonaverseId": "0x77ba95cd7ec1137fe1550e2d7278f4cc28bd16ff",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreihmtp5vofrm4ytnzsm45jcefxqcfdqhnw7j4555wlzkeqaz7yorza",
+ "version": "v1.0"
+}

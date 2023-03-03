@@ -1,0 +1,10 @@
+{
+ "description": "Ohne Rad keine Bewegung",
+ "issuerName": "Soonaverse",
+ "name": "Bike",
+ "soonaverseId": "0xd0bead846790702ac80d02737eb9e5b03d280260",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeieuwpib4wc7mumjydb7vz5qzaqviexkiv55ism3r53dgrj3jtozve",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "New award after space name change",
+ "issuerName": "Soonaverse",
+ "name": "First space name change award",
+ "soonaverseId": "0x35d69a6e74ab0b26d436f6bce4f8a88d23d21e2d",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreicts6lomwbggdxfnhd3l2t76tzv4jrxgvlij2mzowpngelg6c5yte",
+ "version": "v1.0"
+}

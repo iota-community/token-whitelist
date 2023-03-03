@@ -1,0 +1,10 @@
+{
+ "description": "Short promo giving away any nft from all collections!",
+ "issuerName": "Soonaverse",
+ "name": "Free NFT",
+ "soonaverseId": "0x973b8187541655ceb3ceeb8825718e5756fc372a",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiemazb32nbhb3uvrzk6jubak3rjy5boqjmzozvzwxp5zrmayauu2y",
+ "version": "v1.0"
+}

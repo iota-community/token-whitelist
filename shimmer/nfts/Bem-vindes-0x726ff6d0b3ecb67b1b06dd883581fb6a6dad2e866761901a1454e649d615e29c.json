@@ -1,0 +1,10 @@
+{
+ "description": "Este é o selo de boas vindas da Gira DAO, um presente para todas as pessoas que ingressarem em nossa comunidade.",
+ "issuerName": "Soonaverse",
+ "name": "Bem vindes",
+ "soonaverseId": "0x065e705da6e2f1ab807a795f2903a6ef5b1d534a",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreibuxnfwt6koakrleygspwmmgwfvrg5ajt2gnusz6jzqtgwip545xy",
+ "version": "v1.0"
+}

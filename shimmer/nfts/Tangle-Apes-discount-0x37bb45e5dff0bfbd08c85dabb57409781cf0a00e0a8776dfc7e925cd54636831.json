@@ -1,0 +1,10 @@
+{
+ "description": "Every Beast NFT owner will get a discount for the Tangle Apes collection.",
+ "issuerName": "Soonaverse",
+ "name": "Tangle Apes discount",
+ "soonaverseId": "0x72b5275ae76dc1aa9023f9cbed20445806a2b80f",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiaec644ko5s3gafvypmrfrrlvnlpi262j2psmszxpsiajcxb3cuha",
+ "version": "v1.0"
+}

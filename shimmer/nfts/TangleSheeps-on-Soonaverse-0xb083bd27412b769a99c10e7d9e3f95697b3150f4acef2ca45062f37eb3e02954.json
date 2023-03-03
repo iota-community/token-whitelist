@@ -1,0 +1,10 @@
+{
+ "description": "Join the TangleSheeps on Soonaverse",
+ "issuerName": "Soonaverse",
+ "name": "TangleSheeps on Soonaverse",
+ "soonaverseId": "0xb55a7f76e54aa6073d5007e40186286463d1217f",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeib3gvwv3cwssa4v4ieqs5svvo7kkhoxlbweyvwpgf5x4moapowhd4",
+ "version": "v1.0"
+}

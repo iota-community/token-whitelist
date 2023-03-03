@@ -1,0 +1,10 @@
+{
+ "description": "Have you already minted three Iota-Nerds? Then pick up your badge and the xp! With the xp you get a discount of 40%, which you can use in every collection of The Iota-Nerds. ",
+ "issuerName": "Soonaverse",
+ "name": "Three minted Iota-Nerds",
+ "soonaverseId": "0x99a7c15d057092d52e6ab36ff27ef9825076223f",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreih4rmnd324z35gzj2x3ytpb32fe2fqk4ifsia46nwetpbmvakc6ku",
+ "version": "v1.0"
+}

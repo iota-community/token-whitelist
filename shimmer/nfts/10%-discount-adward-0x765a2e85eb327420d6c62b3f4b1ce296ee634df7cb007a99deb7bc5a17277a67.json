@@ -1,0 +1,10 @@
+{
+ "description": "You can get a 10% discount when you buy our “The lost world” NFTs.",
+ "issuerName": "Soonaverse",
+ "name": "10% discount adward",
+ "soonaverseId": "0x1c5ebe2b49412ffbb8e46f396bcc3eeec1fbb145",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "",
+ "version": "v1.0"
+}

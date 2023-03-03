@@ -1,0 +1,10 @@
+{
+ "description": "Mint unique cat from 1st edition collection.",
+ "issuerName": "Soonaverse",
+ "name": "Cat discoverer",
+ "soonaverseId": "0x428d70a0653a75187c70aa607bd3bc3d40e48ea6",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreih3ids6ochfaw2nmh3tcxlppnhabyemry3vdiugk67badiamw7fpm",
+ "version": "v1.0"
+}

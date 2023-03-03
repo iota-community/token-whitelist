@@ -1,0 +1,13 @@
+{
+ "description": "PFP",
+ "issuerName": "Soonaverse",
+ "name": "m4xe",
+ "royalties": {
+  "smr1qql2qpc6ue7j4qgxjjxm3w3we9j76wa7pk4fyr2ke7dr6n9v0vf3q4pjw69": 0.84
+ },
+ "soonaverseId": "0x7e26b3373a3ca5803e4c8b5fb6e0000b6bfc29ae",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiajo4mc274agerncryevl3dfa5edq4jntdjzohw6ltc5bh7f5lvy4",
+ "version": "v1.0"
+}

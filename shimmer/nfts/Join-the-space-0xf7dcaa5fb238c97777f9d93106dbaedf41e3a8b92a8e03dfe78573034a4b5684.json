@@ -1,0 +1,10 @@
+{
+ "description": "Join the Tattoo Artist space",
+ "issuerName": "Soonaverse",
+ "name": "Join the space",
+ "soonaverseId": "0xbcfae6f6856fe544f8c37279f5b5dba4956e8762",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreifylvt5dgnuih7ro5r775yt7wux4j2wpgdjvnadn7ebiylvkossb4",
+ "version": "v1.0"
+}

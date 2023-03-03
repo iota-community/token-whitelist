@@ -1,0 +1,10 @@
+{
+ "description": "This Badge is only for people how bought at least one artwork from one of the MIONSTERS collections until 22.04.2022! The badge can be claimed untill 29.04.2022.",
+ "issuerName": "Soonaverse",
+ "name": "MIONSTERS Collectors only",
+ "soonaverseId": "0x46b7849bbe661fd058b87d01c127cd81f002bcd7",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiewv5rkg4apqc4zlnd5ji4oxzedm6zzo3w2itv5m6c7r7fabscpk4",
+ "version": "v1.0"
+}

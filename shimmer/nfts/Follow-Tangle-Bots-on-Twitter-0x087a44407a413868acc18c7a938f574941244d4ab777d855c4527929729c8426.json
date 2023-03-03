@@ -1,0 +1,10 @@
+{
+ "description": "Follow Tangle Bots on Twitter to Award",
+ "issuerName": "Soonaverse",
+ "name": "Follow Tangle Bots on Twitter",
+ "soonaverseId": "0x5fd571fa48819fbc8c289254e0fe9543244be6a3",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreihdanbh5gureawmcz2yq4nnfh637dgr2tnhth7ocoqw5urnp73s6i",
+ "version": "v1.0"
+}

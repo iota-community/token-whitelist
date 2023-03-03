@@ -1,0 +1,10 @@
+{
+ "description": "This award will let you claim a Shimmer Sheep for free when they go on sale.",
+ "issuerName": "Soonaverse",
+ "name": "Sheepskate Award",
+ "soonaverseId": "0x19517ebcd054af67fb687bdf3a086bd7e3d375f7",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiaghutwfaerfxmk44wbeolcxyts4dqsfubqfhjozc2srrcmb7kj6a",
+ "version": "v1.0"
+}

@@ -1,0 +1,13 @@
+{
+ "description": "Pixel Ape is a collection of 600 unique Our mission is to create unique and everlasting NFT art pieces, that brings an entirely new community together by joining every IOTA Fan out here in the universe.",
+ "issuerName": "Soonaverse",
+ "name": "IOTA Human Pixel Ape",
+ "royalties": {
+  "smr1qpv0lw0n2nfjegjdu9nl27eyewgsc0yce050nn7rflp8rkx5nystuhncert": 0.01
+ },
+ "soonaverseId": "0xe1db508e9652ff1b488715f764cac52f49b20957",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeidjxwm2wfonayhqdfjygsp2gw3nwo3byl7mepgd3ndqd2e2bajfsa",
+ "version": "v1.0"
+}

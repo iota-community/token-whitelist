@@ -1,0 +1,13 @@
+{
+ "description": "The smiling snakes are NFTs that will bring you happiness and a smile on your face. they are unique and there will never be more of them.The smiling snakes can also be used commercially or you can keep them and let them bring you luck. \n",
+ "issuerName": "Soonaverse",
+ "name": "The smiling snakes",
+ "royalties": {
+  "smr1qrddlass97w9zvffhef475jkz0zjh8fz3gvy3pnv6sjltvzzdknsgpfsut8": 0.05
+ },
+ "soonaverseId": "0x60fc5324c655a4a0e55ebacfcf7bd0f69a5b7024",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeigbniatsskhenfd6sftdz5xsllk6iaaoqzfholcvn4yxyfxl4vyne",
+ "version": "v1.0"
+}

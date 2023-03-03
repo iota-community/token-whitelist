@@ -1,0 +1,10 @@
+{
+ "description": "this is for grabbing yo first badge and joining the winning team ",
+ "issuerName": "Soonaverse",
+ "name": "get a badge for joining the ELI73",
+ "soonaverseId": "0x7aaba2e082faf4e9b8e7c124703cc5ae20efaee7",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreigr6lm4inek5qayda2v5f3otwplln6exllbvtj4vwu2mf3gj7icv4",
+ "version": "v1.0"
+}

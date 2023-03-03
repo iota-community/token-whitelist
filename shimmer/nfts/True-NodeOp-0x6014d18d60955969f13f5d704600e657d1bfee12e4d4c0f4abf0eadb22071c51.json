@@ -1,0 +1,10 @@
+{
+ "description": "Award for loyal node operator",
+ "issuerName": "Soonaverse",
+ "name": "True NodeOp",
+ "soonaverseId": "0xdacc790cfa794485e7c995a2901ffe2deb49fe83",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreidqqr563flw3gzhc6syyccj7qcvkd4decuk2foaij7ijwwoa4kxym",
+ "version": "v1.0"
+}

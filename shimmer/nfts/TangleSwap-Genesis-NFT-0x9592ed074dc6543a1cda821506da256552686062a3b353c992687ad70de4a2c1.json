@@ -1,0 +1,13 @@
+{
+ "description": "At [TangleSwap](https://nft.tangleswap.exchange) we are building a Decentralized Exchange (DEX) that is on a straight trajectory to the very heart of an up-and-coming vibrant [IOTA](https://iota.org) DeFi ecosystem.\n\\\n\\\nWhile we have been busy building behind the scenes for quite a while, our Big Bang collection is meant to signify a true starting point for uniting forces with our amazing community. \n\\\n\\\nEven though we have put a lot of emphasis on creating genuinely gorgeous aesthetics and unique visuals, the true power of our NFTs lies in their utilities. From airdrop multipliers and trading discounts, to being able to generate staking rewards with all NFTs, we have ensured that our early supporters — truly the most valiant of explorers — will be reaping the benefits of venturing into deep space for years to come.\n\\\n\\\nDear Explorer, settle in and come aboard the Tangleship. We cannot think of a better way to start this exciting journey with you, than with *The* Big Bang.",
+ "issuerName": "Soonaverse",
+ "name": "TangleSwap Genesis NFT",
+ "royalties": {
+  "smr1qqxy08cat5swsj055yk8aaqrm9mhyydq5rkjumj0wy647rueyuapjwtlutd": 0.05
+ },
+ "soonaverseId": "0x287eb6a8c83a352debe57bf0f3a96f30ff734825",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeigcmk6im4ek2xizva6vs3z43w3frzircejjnz64o3bcftp3moz3pi",
+ "version": "v1.0"
+}

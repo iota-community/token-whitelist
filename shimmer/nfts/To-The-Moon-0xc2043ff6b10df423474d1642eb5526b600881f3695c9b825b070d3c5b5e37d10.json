@@ -1,0 +1,13 @@
+{
+ "description": "# 🚀  NASA ARTEMIS NFT BOARDING PASS 🌒\n \n## Original certificate images issued by NASA. \n\n### Extremely rare, odd, and collectible names here are being included on a flash drive that will fly aboard Artemis I around the moon. \n\n[![ ](https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/artemis_i_3_28_22.jpg)](https://nasa.gov)",
+ "issuerName": "Soonaverse",
+ "name": "To The Moon",
+ "royalties": {
+  "smr1qp0zs6ywaq9qv0plgh4g0ju6lkmuh92s7ctkzgk9e6y6dtdyrfuas0v3egw": 0.05
+ },
+ "soonaverseId": "0x3448a408d3e86640ba6a48b89f7a3f82665af617",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeigpgdnhlaevynhelk3jchktprqywfdtpdq4hfme4h2eeb3ldguxam",
+ "version": "v1.0"
+}

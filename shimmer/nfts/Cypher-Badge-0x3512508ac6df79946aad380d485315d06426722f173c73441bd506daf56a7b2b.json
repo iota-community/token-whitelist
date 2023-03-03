@@ -1,0 +1,10 @@
+{
+ "description": "Badge to entry the world of cypherPunk",
+ "issuerName": "Soonaverse",
+ "name": "Cypher Badge",
+ "soonaverseId": "0x6841a6fc97c00d9e68a8ab6555ee57268e29b26b",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreighykun5jvkvvcjipxk6xc7u6edmx3y4wuew3vi4q5dzctpy4wvtu",
+ "version": "v1.0"
+}

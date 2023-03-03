@@ -1,0 +1,13 @@
+{
+ "description": "Alfons Trekner - Still art is the new Collection of Alfons Trekner Artworks. You Love Alfons; Or you Love Trekner. Everybody loves Alfons Trekner! THIS IS ART!",
+ "issuerName": "Soonaverse",
+ "name": "Alfons Trekner - Still Art",
+ "royalties": {
+  "smr1qr3je96rk2fsk765gj6qm799d5d22l5qrgq93qhs3j5jqchaqqew2r7lf04": 0.05
+ },
+ "soonaverseId": "0x9df1cefa10c88f4bc5970e69a5aee706c4a14dcd",
+ "standard": "IRC27",
+ "type": "application/octet-stream",
+ "uri": "ipfs://bafybeigqonhwixuex5x3sslj3xrpi37szolg7enoyig6hsxoxfjeqg7jgi",
+ "version": "v1.0"
+}

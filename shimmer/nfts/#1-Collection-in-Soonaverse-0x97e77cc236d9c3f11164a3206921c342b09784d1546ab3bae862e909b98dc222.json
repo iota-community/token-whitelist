@@ -1,0 +1,13 @@
+{
+ "description": "This is the first collection created in Soonaverse. We'll do sale of few fun items.",
+ "issuerName": "Soonaverse",
+ "name": "#1 Collection in Soonaverse",
+ "royalties": {
+  "smr1qqk62utaguv29tjdl4jv6m4uqewyefutmdnvxc957ytqpxqmsx8e5vrtylx": 0.1
+ },
+ "soonaverseId": "0xf6492c7628c07ff63a3dfb6720bca09f9bfcca0b",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeidament6v5xsfwymcyx5uxyz27nmsursswf7gd2cytcgh73cftkza",
+ "version": "v1.0"
+}

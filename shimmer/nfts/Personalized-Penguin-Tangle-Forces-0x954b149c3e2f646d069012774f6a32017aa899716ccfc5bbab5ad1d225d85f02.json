@@ -1,0 +1,10 @@
+{
+ "description": "This award is only for the NFT owner of the first collection.\n\nPlease provide us following information:\n- a name for the name tag\n- background-color (blue, green, red, purple, brown, silver)\n- penguin color (white, green, pink, grey, black, light blue, blue, red, purple, brown)\n- uniform (army grey, basic green, basic khaki) ",
+ "issuerName": "Soonaverse",
+ "name": "Personalized Penguin Tangle Forces",
+ "soonaverseId": "0x93ed9adb81a496f63f215139c612eaf8493f1c01",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreihaqnpkudk5ngfq4za2zrtk6qxwduncz6qrv5qqtimxymfp7kdcyu",
+ "version": "v1.0"
+}

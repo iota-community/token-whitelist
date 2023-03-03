@@ -1,0 +1,10 @@
+{
+ "description": "Special badge for the assistant",
+ "issuerName": "Soonaverse",
+ "name": "Mr. Tanglebeasts assistant",
+ "soonaverseId": "0x3d4b8cc4eb0f17a21f82f6193b737b41adec7ea7",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiaec644ko5s3gafvypmrfrrlvnlpi262j2psmszxpsiajcxb3cuha",
+ "version": "v1.0"
+}

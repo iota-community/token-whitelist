@@ -1,0 +1,10 @@
+{
+ "description": "任務\n步驟一、安裝TanglePay錢包，手機或瀏覽器版，擇一即可\n步驟二、截圖證明，上傳到 imgur.com，記得顯示收款QR code\n步驟三、把截圖網址貼在這裡，任務完成\n\n獎勵\n活動紀念徽章 + 10點經驗值 + 2Mi(會發到你截圖裡的錢包)\n限額25位，先到先得，發完就沒，GOGO",
+ "issuerName": "Soonaverse",
+ "name": "TanglePay搶先體驗",
+ "soonaverseId": "0x739dde88dbbd1a890290ad43971ff3dc27b50d49",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreieom37mi55qg66kwnzb4xymyuw3pxlhuopgxzxm4rorfk4mqy2pxy",
+ "version": "v1.0"
+}

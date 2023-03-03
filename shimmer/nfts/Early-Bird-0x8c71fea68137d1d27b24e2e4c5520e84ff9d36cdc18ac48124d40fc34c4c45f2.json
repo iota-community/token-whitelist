@@ -1,0 +1,10 @@
+{
+ "description": "Thank you",
+ "issuerName": "Soonaverse",
+ "name": "Early Bird",
+ "soonaverseId": "0x3652850206a4ba748ac485aaccbbea41e23f08f0",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeib3xqn74kalgwbzmiohwxooppkwhcn6tflijnwb6cnqkrkrot4gje",
+ "version": "v1.0"
+}

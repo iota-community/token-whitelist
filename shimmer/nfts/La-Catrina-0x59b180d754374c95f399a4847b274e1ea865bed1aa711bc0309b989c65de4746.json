@@ -1,0 +1,13 @@
+{
+ "description": "100 unique designs - Limited Edition",
+ "issuerName": "Soonaverse",
+ "name": "La Catrina",
+ "royalties": {
+  "smr1qznk5wvng3ae855sk9faszpc97lnf5rac45cecptx5u3ny7q59lxz32xz4n": 0.04
+ },
+ "soonaverseId": "0xca36cb453b5227ec2f3a18ce802bb7b5c1614041",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeielifcvkued43mje3py5m7koicjuyhkzfo4vl2abtgs7f3rqe54xq",
+ "version": "v1.0"
+}

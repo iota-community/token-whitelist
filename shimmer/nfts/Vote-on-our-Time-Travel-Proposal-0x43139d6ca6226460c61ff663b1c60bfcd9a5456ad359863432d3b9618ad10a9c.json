@@ -1,0 +1,10 @@
+{
+ "description": "Please vote on our Time Travel proposal if you're interested!",
+ "issuerName": "Soonaverse",
+ "name": "Vote on our Time Travel Proposal",
+ "soonaverseId": "0xe8ae3ed6950f19c1b775783eabac9cb169722046",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreifstpbvwuf3vjel64ggggx7ao4cvsqmaq42m5g7scq2uqf7cdthdi",
+ "version": "v1.0"
+}

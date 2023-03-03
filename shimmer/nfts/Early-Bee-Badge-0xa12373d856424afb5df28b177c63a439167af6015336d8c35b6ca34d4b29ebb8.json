@@ -1,0 +1,10 @@
+{
+ "description": "This Badge is for the early Bee collectors. \n\nAs a early Bee you will get 50% discount on the next collection.",
+ "issuerName": "Soonaverse",
+ "name": "Early Bee Badge",
+ "soonaverseId": "0xe25a7cc6e61f25898353299352a78a97738dcfbc",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreidibedpcq43sfu3wyzed6mxivoshr7mwm6m5vrroelxdd6gzlkmge",
+ "version": "v1.0"
+}

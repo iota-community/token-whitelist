@@ -1,0 +1,13 @@
+{
+ "description": "shimmerokiss - in the collection 26 nft.\n24 - open sale \n1 - giveaway \n1 - auction (nft+original oil painting on canvas) \n\nThere will be 4 collections of 26 nft: shimmerokiss - canvas, oil paints, lipstick and the artist's lips were used to create the original. We wanted it to be associated with the shimmer network, we hope we succeeded.\n\nThe next collections will be related to assembly, IOTA, and chrysalis\n\nIf you collect all 4 nfts (one from each collection) you will receive 10% off all our future collections and 5% off ordering any of your nfts from our artist https://twitter.com/kat_yashka ",
+ "issuerName": "Soonaverse",
+ "name": "Shimmerokiss",
+ "royalties": {
+  "smr1qpjhaxr02w0kq7fdc49wst297zxjvkck26r392se6p2gy2qm5f3zz8mtn5q": 0.05
+ },
+ "soonaverseId": "0xff6bf8b45f196c0ff6935086ee26b60f400a775c",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeidbawjr2drv6tmmkz7p3mi5dh3lnpxev2igdmgrqigjllug6dzqyy",
+ "version": "v1.0"
+}

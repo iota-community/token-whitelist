@@ -1,0 +1,13 @@
+{
+ "description": "Giveaway origin winners",
+ "issuerName": "Soonaverse",
+ "name": "Giveaway origin winners",
+ "royalties": {
+  "smr1qrdh0kun9ksnc9vcadvzn2jnqf9gctzps3fxx83d6ysrffudx2tzca7ss8w": 0.1
+ },
+ "soonaverseId": "0x0c4042b94c7e26412ff8eb0fc7d6293faf8a4674",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeienfye2coxajz7b456ke6jkffibp7pky5kicpbu7dbyle26s3a76m",
+ "version": "v1.0"
+}

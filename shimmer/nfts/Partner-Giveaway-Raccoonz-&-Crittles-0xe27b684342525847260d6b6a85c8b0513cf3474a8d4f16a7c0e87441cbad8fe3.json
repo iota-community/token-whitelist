@@ -1,0 +1,13 @@
+{
+ "description": "IOTA-Crittle-NFT",
+ "issuerName": "Soonaverse",
+ "name": "Partner Giveaway Raccoonz \u0026 Crittles",
+ "royalties": {
+  "smr1qp962ljjxuzgk4ucg4w0xlf9t2p4sdzgzuy6qjv8numc0e7wv6wzs0vk42c": 0.1
+ },
+ "soonaverseId": "0x289251523aa65a5ca9fb733fd4a7dd1036fc46c7",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeibozij2mlbyycowswxb4ubeken7ebloi4vx3hjnfnq6cfrnk5236q",
+ "version": "v1.0"
+}

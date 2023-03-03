@@ -1,0 +1,10 @@
+{
+ "description": "The first 100 people to sign up will get 15% off their Pengiotas.",
+ "issuerName": "Soonaverse",
+ "name": "100 whitelist 15% first launch",
+ "soonaverseId": "0x08be541ec6ce681b17af9cc6fc586bf59d725dbf",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeifq2phyqda5lmkf4rbsr3f7y4kva3j5uswbzdu32siybrxbwuxn7u",
+ "version": "v1.0"
+}

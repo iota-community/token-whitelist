@@ -1,0 +1,10 @@
+{
+ "description": "Welcome to my space. I'm glad having you around :)",
+ "issuerName": "Soonaverse",
+ "name": "Welcome Award",
+ "soonaverseId": "0x19d2e415c00aa70a4ddc0cbcb42fc6e44d4f79f7",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeibdnq4xp6t4u7djhlwy7muuck3j2cyi6jpxcbqr5x6qic3rbzz45m",
+ "version": "v1.0"
+}

@@ -1,0 +1,13 @@
+{
+ "description": "Limited edition robo turtles. Created using mind and machine learning. Each robot turtle is unique. ",
+ "issuerName": "Soonaverse",
+ "name": "Robo Turtles",
+ "royalties": {
+  "smr1qrddlass97w9zvffhef475jkz0zjh8fz3gvy3pnv6sjltvzzdknsgpfsut8": 0.05
+ },
+ "soonaverseId": "0xda8695140e97eacf9cbcb43cebde790c3f38c22d",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeid6bvzcumxdf2xfxcvdw2lyuhcsowiojxrknp7zf2to265c5stwze",
+ "version": "v1.0"
+}

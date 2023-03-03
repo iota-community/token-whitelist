@@ -1,0 +1,10 @@
+{
+ "description": "test",
+ "issuerName": "Soonaverse",
+ "name": "Test",
+ "soonaverseId": "0xd38d948522bfa89c8d03c89a392b0fce51658f9a",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreies5tdeby22wwfpir45lpw5abcznmr6dx2ow2k3jevhoxuah4cb2m",
+ "version": "v1.0"
+}

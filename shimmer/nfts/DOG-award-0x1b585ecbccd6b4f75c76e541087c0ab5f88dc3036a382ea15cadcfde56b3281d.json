@@ -1,0 +1,10 @@
+{
+ "description": "DOG award for the Guardian. ",
+ "issuerName": "Soonaverse",
+ "name": "DOG award",
+ "soonaverseId": "0x485b444ba4f8fbbbf95906e499c76476806d6ea5",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreihzq22gps5hof7eqxm7wnl6c7kqzqn5ywicbxcveh6pellxvfispu",
+ "version": "v1.0"
+}

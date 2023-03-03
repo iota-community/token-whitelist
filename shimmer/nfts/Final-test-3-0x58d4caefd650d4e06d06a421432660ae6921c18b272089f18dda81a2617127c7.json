@@ -1,0 +1,10 @@
+{
+ "description": "ups",
+ "issuerName": "Soonaverse",
+ "name": "Final test 3",
+ "soonaverseId": "0x129f7fbc79a0e76d58f1cfbe429df4d65ca2ab79",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreifq7afxtaftqydmreevdre7pgazi7neiecs5eep6r7quja4enn3ta",
+ "version": "v1.0"
+}

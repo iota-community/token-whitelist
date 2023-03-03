@@ -1,0 +1,10 @@
+{
+ "description": "Send me your favorite Beer and tell me why it is one of the best.\n\nFirst 50 will get an Badge",
+ "issuerName": "Soonaverse",
+ "name": "Beer ",
+ "soonaverseId": "0x79b60bdc1bd4cb88e309b3b729937546da0d9906",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiedg3olii33xqkbr6wjibjclc5pbjk3scniadxqqfipd4qe4dwm3e",
+ "version": "v1.0"
+}

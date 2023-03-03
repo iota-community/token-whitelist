@@ -1,0 +1,10 @@
+{
+ "description": "The first 25 Members of the Trading Cards Space will get a Badge.",
+ "issuerName": "Soonaverse",
+ "name": "First 25 Trading Cards Space Members",
+ "soonaverseId": "0xabc53131995981df7daad101bff45f45bae3698e",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreia3ongwhw2pzeezrxwjyawwljsh4fmrot4r2d4p3sa73ukydaqozm",
+ "version": "v1.0"
+}

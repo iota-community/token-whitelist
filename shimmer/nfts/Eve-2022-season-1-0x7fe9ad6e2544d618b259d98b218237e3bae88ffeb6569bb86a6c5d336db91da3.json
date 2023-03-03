@@ -1,0 +1,13 @@
+{
+ "description": "This is the first season of Eve in Decentraland. It includes different points of the city, museums, casinos and buildings in Decentraland. ",
+ "issuerName": "Soonaverse",
+ "name": "Eve 2022 season 1",
+ "royalties": {
+  "smr1qrjtt9r6gn3dznkx4jrvkk69qxvmuw9c4yzsrvqjenjcuka3425uy246lfs": 0.05
+ },
+ "soonaverseId": "0xe608c689f574fee204fca59de543f74718119dfa",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeig4t5lbv55dkkroin5a2jwbsgvjnzhaprcnvxjfmn2irvn6jilqye",
+ "version": "v1.0"
+}

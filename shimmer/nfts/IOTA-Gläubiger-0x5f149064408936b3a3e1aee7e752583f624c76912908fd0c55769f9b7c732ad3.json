@@ -1,0 +1,10 @@
+{
+ "description": "Für Gläubiger der IOTA-Glaubensgemeinschaft.",
+ "issuerName": "Soonaverse",
+ "name": "IOTA Gläubiger",
+ "soonaverseId": "0x3045ee2b652e3cd88b0f8c6cb290dd0052acda0d",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiedofvzx2z4iycdel2ldoorlfbxvvruomwifgykgv7jwiggwi7fla",
+ "version": "v1.0"
+}

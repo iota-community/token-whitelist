@@ -1,0 +1,10 @@
+{
+ "description": "Give Tangle Based Democracy Ideas to get a badge !",
+ "issuerName": "Soonaverse",
+ "name": "Democracy Ideas",
+ "soonaverseId": "0xc855b87715ae02c9080f180434a2c709c8c502cc",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiagcygkftgbxriz7xe7suwwwy37xjb6fw5pfjalw5d3k5udsbvy3a",
+ "version": "v1.0"
+}

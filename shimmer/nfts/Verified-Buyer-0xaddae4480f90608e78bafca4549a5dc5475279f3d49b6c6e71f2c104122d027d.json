@@ -1,0 +1,10 @@
+{
+ "description": "Verified Buyer",
+ "issuerName": "Soonaverse",
+ "name": "Verified Buyer",
+ "soonaverseId": "0x367c2fc6f10091d048428471508cca928fd7d71a",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreictgg2ir3gjh2u7yxd4megud7m7jihyrq56yn6bhe6nnaiooaxydq",
+ "version": "v1.0"
+}

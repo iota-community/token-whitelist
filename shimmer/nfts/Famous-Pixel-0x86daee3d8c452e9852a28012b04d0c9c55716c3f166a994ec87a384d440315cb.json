@@ -1,0 +1,13 @@
+{
+ "description": "collection of caricatures of famous people in pixelart.\nThey are created by The Uanix Experience.",
+ "issuerName": "Soonaverse",
+ "name": "Famous Pixel",
+ "royalties": {
+  "smr1qq3fzl8h32k8wc5h6779sl3cgwvr54t0zax6dvz7y9negjxltskz73tktaz": 0.01
+ },
+ "soonaverseId": "0x4283b6860c40bd3806b6ed14df976efd56bdbb87",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeidhungstt7z55zak7wacz62fdxxtcm3a72iuq7irg66yowkdxxgqa",
+ "version": "v1.0"
+}

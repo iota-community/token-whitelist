@@ -1,0 +1,10 @@
+{
+ "description": "share IOTA Nfts ",
+ "issuerName": "Soonaverse",
+ "name": "Post an IOTA NFT on Twitter ",
+ "soonaverseId": "0x378059b4d58fb6c7c013f5aae69147b67c63a2ab",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreibrsgajrmvxaxawroauobj57rv7y2pegol7tjveqb3yncx45s5fme",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "This badge allows you to create an NFT collection for your Space.",
+ "issuerName": "Soonaverse",
+ "name": "Create a Collection Badge",
+ "soonaverseId": "0x3ccb9fe9d6f429981522fb1927a2259149a4a192",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeid4566ka5s5gnf6ouzy5k7maow4no3cqmoxph5bhzuroyz5rsff5i",
+ "version": "v1.0"
+}

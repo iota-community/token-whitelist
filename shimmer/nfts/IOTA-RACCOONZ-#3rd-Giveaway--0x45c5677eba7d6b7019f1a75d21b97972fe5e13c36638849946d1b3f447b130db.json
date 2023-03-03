@@ -1,0 +1,13 @@
+{
+ "description": "The third giveaway will be drawn on 8/28/22. The winner will be announced on the Raccoonz City discord server discord.gg/YpY2yjuGKm and twitter @IOTA_RACCOONZ via twitterpicker.\n",
+ "issuerName": "Soonaverse",
+ "name": "IOTA RACCOONZ #3rd Giveaway ",
+ "royalties": {
+  "smr1qp962ljjxuzgk4ucg4w0xlf9t2p4sdzgzuy6qjv8numc0e7wv6wzs0vk42c": 0.1
+ },
+ "soonaverseId": "0x9fb59061ffce2d51871e29b0b5b78cb5006986df",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiayhidnuphi5exfugdybvppisbq4hji6sbbyfkn4zpuoppawtwe4e",
+ "version": "v1.0"
+}

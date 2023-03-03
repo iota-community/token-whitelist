@@ -1,0 +1,10 @@
+{
+ "description": "Exclusive access to NFT drops.",
+ "issuerName": "Soonaverse",
+ "name": "Early Adopter",
+ "soonaverseId": "0x50c53e167bfed9f5c3257dbf0c88aa3d5c6e0a1f",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiatuqmg4kgzahy6xuhwxgahe3m4oya5m6nvp2eftngrfroumttfjy",
+ "version": "v1.0"
+}

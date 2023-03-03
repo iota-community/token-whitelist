@@ -1,0 +1,10 @@
+{
+ "description": "Order a Duff at Moe's",
+ "issuerName": "Soonaverse",
+ "name": "Wecome to Moe's",
+ "soonaverseId": "0xa5b9f8de9c4b89ab4f528deff35cb916089c802e",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreih6mlclm2l5w5f2blinngkfdahn5wkanuak3xjpct6uhisf7dhsky",
+ "version": "v1.0"
+}

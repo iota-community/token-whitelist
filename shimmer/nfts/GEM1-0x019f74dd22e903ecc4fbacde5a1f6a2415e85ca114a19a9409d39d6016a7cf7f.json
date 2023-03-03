@@ -1,0 +1,10 @@
+{
+ "description": "GEM BADGE 1",
+ "issuerName": "Soonaverse",
+ "name": "GEM1",
+ "soonaverseId": "0x2d16557f28fc2620d7534c9e485662ee2c35fe52",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "",
+ "version": "v1.0"
+}

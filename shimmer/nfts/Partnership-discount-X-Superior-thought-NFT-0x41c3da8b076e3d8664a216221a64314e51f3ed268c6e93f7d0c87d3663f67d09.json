@@ -1,0 +1,10 @@
+{
+ "description": "Get your discount badge if you hold a Superior thought NFT",
+ "issuerName": "Soonaverse",
+ "name": "Partnership discount X Superior thought NFT",
+ "soonaverseId": "0x12b4db8a700011ac07ac851011cb93bdc0f02378",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeidimv56zvxm5l6cwgogylnnh6ufoqmjptj6qby2ncvtrr4eisfx24",
+ "version": "v1.0"
+}

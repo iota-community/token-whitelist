@@ -1,0 +1,10 @@
+{
+ "description": "Collect your prize if you haven't already!",
+ "issuerName": "Soonaverse",
+ "name": "HERE IS YOUR PRIZE!!",
+ "soonaverseId": "0x390c3661b4278a84c33ae2f8d98e49fcec7b8ea3",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeid63xc2pcs36ny3xesduffb6an33b7falzu7snou54wflrclmx4iy",
+ "version": "v1.0"
+}

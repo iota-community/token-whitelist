@@ -1,0 +1,10 @@
+{
+ "description": "The first few to join get privileged access to projects",
+ "issuerName": "Soonaverse",
+ "name": "First few to join",
+ "soonaverseId": "0xcce70d41d1c787e6dbc386dc06fedce1f8170a30",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiga2phcguhsrv2j6ltwydo23kr6jfzpqtlp4acncmzrrkeinvjram",
+ "version": "v1.0"
+}

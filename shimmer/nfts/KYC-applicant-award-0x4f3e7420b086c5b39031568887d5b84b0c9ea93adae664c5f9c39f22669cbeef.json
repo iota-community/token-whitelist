@@ -1,0 +1,10 @@
+{
+ "description": "This award signifies the recipient has begun the KYC process for the Soonaverse Launchpad module. ",
+ "issuerName": "Soonaverse",
+ "name": "KYC applicant award",
+ "soonaverseId": "0x4d02b346167cca51bec4a20576dd4c75a5a35ec9",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeid4566ka5s5gnf6ouzy5k7maow4no3cqmoxph5bhzuroyz5rsff5i",
+ "version": "v1.0"
+}

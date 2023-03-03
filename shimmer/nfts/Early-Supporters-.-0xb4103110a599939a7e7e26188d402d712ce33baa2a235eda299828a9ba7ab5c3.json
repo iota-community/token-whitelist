@@ -1,0 +1,10 @@
+{
+ "description": "Pick up pre-purchased IOTAPET.",
+ "issuerName": "Soonaverse",
+ "name": "Early Supporters .",
+ "soonaverseId": "0x8a94de242c5a85dfdfc5313b99075487cbbb22ae",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreihfupg7axj4jjlu72ghsjubctgbvwqndj7vj5vuh5hijm72ma2scu",
+ "version": "v1.0"
+}

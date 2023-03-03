@@ -1,0 +1,10 @@
+{
+ "description": "I give you the best recipt",
+ "issuerName": "Soonaverse",
+ "name": "recipt",
+ "soonaverseId": "0x9bb51905de0f0dcc6952ef7cd8ad33974ac617ae",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreidgj7m4w562e6xdztpyf6mnc43myz5bgyziqwtrgg2jl4ovrdshka",
+ "version": "v1.0"
+}

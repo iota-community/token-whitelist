@@ -1,0 +1,10 @@
+{
+ "description": "42",
+ "issuerName": "Soonaverse",
+ "name": "IOTA 42",
+ "soonaverseId": "0x9ff9f02567e2c9c8ca57258848d4953d19c07ee8",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreig5bhmwpjnwzgo7ah3mjpwgevdn4ymbqyi62stk5utlzjkdkrgnzu",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "Nur für Firefly Nutzer!",
+ "issuerName": "Soonaverse",
+ "name": "Bist du Firefly Nutzer?",
+ "soonaverseId": "0xe4998eadbb6edad7953fe115e4789e6130151f74",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "",
+ "version": "v1.0"
+}

@@ -1,0 +1,13 @@
+{
+ "description": "Alice's Art",
+ "issuerName": "Soonaverse",
+ "name": "Alice's Art.",
+ "royalties": {
+  "smr1qzcg5uufuac7pczuktr5a2a8sk5dqscfw55uag9535487669vau87s4vyjr": 0.1
+ },
+ "soonaverseId": "0x782cf71416ceac14438ac7b26ce952eb003caa11",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafkreiakgphqryhp7da7ucxwg7zpji43hli7da3edujl7rh7geogg4wy4e",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "Who doesn't love fireworks",
+ "issuerName": "Soonaverse",
+ "name": "Fireworks",
+ "soonaverseId": "0x0f319a8f7251ee7d861de244633c5e5f135f2e44",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeifahbj2kr5ktxzxzly6i54zbbvxyt35coqa6pordxbp4g32kijqxi",
+ "version": "v1.0"
+}

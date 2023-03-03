@@ -1,0 +1,13 @@
+{
+ "description": "Die 7 Posaunen kündigen den Aufstieg der Erde in die 5. Dimension an. ",
+ "issuerName": "Soonaverse",
+ "name": "Die 7 Posaunen",
+ "royalties": {
+  "smr1qptfh48h9mqx9gmmvhz8w8ntjhkmzqfzmencrrxw4hq6vprdf9aj2njmj5q": 0.09
+ },
+ "soonaverseId": "0xdb7a8d9e90e28a9ee7fa644cc402397057d6db21",
+ "standard": "IRC27",
+ "type": "application/octet-stream",
+ "uri": "ipfs://bafybeiahxwo4hn7mndt6tdn4jaqhwuwyrsibowjl3rztwjmxtvcyjpnls4",
+ "version": "v1.0"
+}

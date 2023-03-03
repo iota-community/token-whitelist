@@ -1,0 +1,10 @@
+{
+ "description": "This award gives you the \"Give away Badge\"",
+ "issuerName": "Soonaverse",
+ "name": "Give away Award",
+ "soonaverseId": "0x9279afabefc61b4337b3ef08ac6fb567f386e593",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreihbr5mbgm2zt2qeymsbemamaeu4kbowek6ceeso4v4dgvaipula2a",
+ "version": "v1.0"
+}

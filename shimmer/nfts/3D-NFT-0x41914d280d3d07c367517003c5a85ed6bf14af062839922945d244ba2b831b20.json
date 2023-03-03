@@ -1,0 +1,10 @@
+{
+ "description": "This badge entitles you to mint a 3D NFT provided all requirements are met",
+ "issuerName": "Soonaverse",
+ "name": "3D NFT",
+ "soonaverseId": "0xa918c9067aeb38373186eb4fbdd365421f5f355b",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreibpmv5wjaxaeapzlaphi7cw2f2fwvrahwyd5gzyf4sox6qefr756q",
+ "version": "v1.0"
+}

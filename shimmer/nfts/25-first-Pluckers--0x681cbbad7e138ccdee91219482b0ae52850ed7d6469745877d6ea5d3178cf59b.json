@@ -1,0 +1,10 @@
+{
+ "description": "will receive a random NFT out of the Premier Edition",
+ "issuerName": "Soonaverse",
+ "name": "25 first Pluckers ",
+ "soonaverseId": "0xff8610e42b071ab222d5e8c3fb21051aec146291",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreidkcb67nkbe4szhzwewfbcwrgvtr4k2xlqlwxra552aftv257ifl4",
+ "version": "v1.0"
+}

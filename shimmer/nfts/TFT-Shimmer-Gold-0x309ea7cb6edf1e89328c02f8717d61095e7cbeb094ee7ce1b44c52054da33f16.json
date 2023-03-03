@@ -1,0 +1,13 @@
+{
+ "description": "The latest from the #TFTNFT collection is the TFT Shimmer Gold NFT which has been created to support The Fans Together DAO to continue to  #buidl in readiness for Shimmer!\n\nThis NFT is redeemable for $TFT 40,000 at Shimmer launch and is one part of a set (along with TFT Shimmer Silver and TFT Shimmer Diamond) \nthat will unlock a bonus free Assembly NFT when Shimmer launches! This bonus NFT will have a 25% bonus, so when you claim your tokens you will receive a combined 170,000 $TFT tokens with a full set. Beyond the tokens, these NFTs will have also have an updated utility as our gameplay strategy is implemented. Watch this space for updates. \n\nThe TFT Shimmer Gold NFT will allow those interested in our mission to receive $TFT and support a project that has always been rooted in the IOTA ecosystem and allow the DAO to take another step forward in readiness for the exciting Shimmer launch. Come join our discord and read the whitepaper for more info and to chat with the team. Thanks for looking - We’d love your support!\n\nJoin our discord here: discord.gg/jHFCY2aGsv",
+ "issuerName": "Soonaverse",
+ "name": "TFT Shimmer Gold",
+ "royalties": {
+  "smr1qqplwc0zcxkjmfkxwz49cypcryy8a6yhf40ch0n750n82vsgkuqgy6s78mz": 0.1
+ },
+ "soonaverseId": "0x30243719b084561c0cb6b57d8e39945a2fdab831",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeih2hmu3dnp3lwt6l22fb2zfngabkc6cgr3whj2juxgqbbcixni6ha",
+ "version": "v1.0"
+}

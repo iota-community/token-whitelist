@@ -1,0 +1,13 @@
+{
+ "description": "These TanglePANDAs are a personal appreciation for the recipient.  \nEach of them is important to the IOTA ecosystem. \n\nExactly 18 personalized NFTs are currently available as a non-public special collection outside of the normal TanglePANDAs range.\n\nNOTE: After the collection has been published, the individual NFTs are finally personalized and released.",
+ "issuerName": "Soonaverse",
+ "name": "TanglePANDAs Giveaway",
+ "royalties": {
+  "smr1qr4dpkzmddxts4qseak9rxam90x6gmemzxc8f2z07e0aent0alkykf2pnaq": 0.1
+ },
+ "soonaverseId": "0xb9dc0b5806e6b8bd0bce55b627ba95ae70ad9505",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiduguq5lnhq3rhi2pp3vsgldlxryznbcts4jwiz57j5j2kdmgrz4y",
+ "version": "v1.0"
+}

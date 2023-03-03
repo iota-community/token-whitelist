@@ -1,0 +1,10 @@
+{
+ "description": "Tiene ojos de gato y no es gato,\norejas de gato y no es gato;\npatas de gato y no es gato;\nrabo de gato y no es gato,\nmaúlla y no es gato.",
+ "issuerName": "Soonaverse",
+ "name": "Miow",
+ "soonaverseId": "0x09e186da4499f7bb2e02e877558c25b4b9440e0e",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreif3mgj7vfuoy7q5hajqvve55hicdlb5jdmciceqh7oy367zs4ggv4",
+ "version": "v1.0"
+}

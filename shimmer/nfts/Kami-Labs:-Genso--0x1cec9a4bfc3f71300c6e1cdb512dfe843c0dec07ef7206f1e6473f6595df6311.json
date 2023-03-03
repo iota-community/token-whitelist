@@ -1,0 +1,13 @@
+{
+ "description": "The Torii gateway to the future of all Kami Labs projects⛩️ The Genso NFTs are a ticket to an ever expanding metaverse community offering airdrops, staking rewards, early-access to NFT \u0026 Token sales, game demos, testing, and a whole lot more.\n\nThe Kami Labs - Genso NFT Sale will be an open, fair sale. No NFTs will be reserved, all will be sold including team members' buy ins. Minting will be randomised to ensure a fair distribution and the sale will be limited to one NFT per purchase.\n\nOnly 5000 Genso NFTs will be made available at a mint price of 250Mi\n\nThere will be 1000 NFTs of each different Genso, meaning the possibility of only 1000 complete sets. Combine all five elements to get extra rewards and bonuses.\n\nNo hype, no rush. DYOR.",
+ "issuerName": "Soonaverse",
+ "name": "Kami Labs: Genso ",
+ "royalties": {
+  "smr1qq45jzxmp4eqfttfnxkpqz2chmj57hlunkmgkgw5aufcuprkfr4rzkjzpt6": 0.03
+ },
+ "soonaverseId": "0x26f5cb9980b9e1b7a84aaf7c0b8188bb9774bd99",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeidrhiygkuk6lmvwtja7nvrulrojphthqou5ro7khp3dzgx4f3uzby",
+ "version": "v1.0"
+}

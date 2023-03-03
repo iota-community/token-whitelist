@@ -1,0 +1,13 @@
+{
+ "description": "To celebrate the release of the new Shimmer network, we are launching this NFT collection.\nWho is bullish on Shimmer?\n\nTHE KING HAS COME!\n",
+ "issuerName": "Soonaverse",
+ "name": "King of Shimmer",
+ "royalties": {
+  "smr1qzyj5jnd6z7ea398nl7htc67hyq2a66y7ju9v9sjeqneyu6e644gghqcpdz": 0.02
+ },
+ "soonaverseId": "0x4175abb704b0f65c6761833f274d67bddee2a5bc",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeifxtgb7ooqa6q2s23yg5anf3jmzogwnodosigqwixyoj2g6nlytwm",
+ "version": "v1.0"
+}

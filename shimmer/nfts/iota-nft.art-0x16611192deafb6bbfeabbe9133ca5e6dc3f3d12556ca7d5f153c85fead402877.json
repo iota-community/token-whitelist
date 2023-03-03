@@ -1,0 +1,10 @@
+{
+ "description": "Iota can do NFTs.  Seriously. What is your favorite NFT set?",
+ "issuerName": "Soonaverse",
+ "name": "iota-nft.art",
+ "soonaverseId": "0x1223c7f503aa8aab99436b78e2ad1e1bc202f060",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreicts6lomwbggdxfnhd3l2t76tzv4jrxgvlij2mzowpngelg6c5yte",
+ "version": "v1.0"
+}

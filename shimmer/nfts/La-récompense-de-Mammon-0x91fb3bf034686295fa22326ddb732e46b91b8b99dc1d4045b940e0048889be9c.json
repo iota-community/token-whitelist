@@ -1,0 +1,10 @@
+{
+ "description": "Récompense requise pour répondre Le Défilé Fou",
+ "issuerName": "Soonaverse",
+ "name": "La récompense de Mammon",
+ "soonaverseId": "0xede20f2e2e68270657ac2c18c843da16d015d879",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreibdjvecknmuk5ouwtd5ev5sf2q3prbeaqzdmwpfioj2eypt3lphwa",
+ "version": "v1.0"
+}

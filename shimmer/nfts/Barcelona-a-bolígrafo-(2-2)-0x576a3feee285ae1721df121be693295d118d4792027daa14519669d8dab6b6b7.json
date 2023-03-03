@@ -1,0 +1,13 @@
+{
+ "description": "Dibujos de Barcelona hechos a bolígrafo.",
+ "issuerName": "Soonaverse",
+ "name": "Barcelona a bolígrafo (2/2)",
+ "royalties": {
+  "smr1qru7cwc8pj28c7azcyltk3wpacjwlykkzhmpwzj52c03ar0nklhevduptqx": 0.04
+ },
+ "soonaverseId": "0xe4d180f794f5a6e62051b06008cc54422a564974",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafkreiajhrrfbuokbxatcjzowlraji525lco4zfnwywmwblwic6lzksfzm",
+ "version": "v1.0"
+}

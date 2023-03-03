@@ -1,0 +1,10 @@
+{
+ "description": "The place to make your first award, which will give you the ability to create a space.",
+ "issuerName": "Soonaverse",
+ "name": "Build a space",
+ "soonaverseId": "0x88dafd143ebc458fe2f7fe937f8fc3db5b652335",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeid4566ka5s5gnf6ouzy5k7maow4no3cqmoxph5bhzuroyz5rsff5i",
+ "version": "v1.0"
+}

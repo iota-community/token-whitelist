@@ -1,0 +1,10 @@
+{
+ "description": "The first 200 wins a badges(xp). Collect your badges(xp), they could soon be worth something",
+ "issuerName": "Soonaverse",
+ "name": "Mision Emerald",
+ "soonaverseId": "0x9cc54a3a3b799d5d5bac2a4af0dad3ed102c302c",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreifkkvbqtzf6v3bmma57ztmdhuhmpa2r75hj7h6irhcppyb52hzlge",
+ "version": "v1.0"
+}

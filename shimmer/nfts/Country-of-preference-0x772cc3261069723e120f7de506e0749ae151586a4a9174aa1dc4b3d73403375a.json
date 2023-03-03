@@ -1,0 +1,10 @@
+{
+ "description": "The stamps of which country are you most interested in?",
+ "issuerName": "Soonaverse",
+ "name": "Country of preference",
+ "soonaverseId": "0x7ad180727b7973ba9d3cdf6547f95ccf4cea4b83",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreieqdvwhjepmyhxvt4v4bsjqcstnifseugrnqkrn7rmoiyoh65op4q",
+ "version": "v1.0"
+}

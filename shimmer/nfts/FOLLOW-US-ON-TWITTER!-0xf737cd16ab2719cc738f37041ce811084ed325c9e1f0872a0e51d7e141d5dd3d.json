@@ -1,0 +1,10 @@
+{
+ "description": "Send us your Twitter account. After the check you will receive a reward. ",
+ "issuerName": "Soonaverse",
+ "name": "FOLLOW US ON TWITTER!",
+ "soonaverseId": "0x95d6b3c83928144313d36a073787e840c57edb17",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreihyfdjrl5xjkeonboe2mfcopf4m7yxhn5ibnxjhjq3odr7lorjhbm",
+ "version": "v1.0"
+}

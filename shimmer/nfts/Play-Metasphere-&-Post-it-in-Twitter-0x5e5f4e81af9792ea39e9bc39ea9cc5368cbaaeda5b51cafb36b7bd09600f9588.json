@@ -1,0 +1,10 @@
+{
+ "description": "1.  On Twitter: Post a screenshot playing Metasphere.\nUse a text you want but it should contain somewehere: http://www.Sphere-hub.io and #Metasphere\n2. On Soonaverse: Participate and copy paste the Tweet URL into the message field\n",
+ "issuerName": "Soonaverse",
+ "name": "Play Metasphere \u0026 Post it in Twitter",
+ "soonaverseId": "0x70a9a8aed72b99ba8341a44eb9e31189cb04b032",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreibcat7ki575xi7nx7jo26pzmquipm37j4bgaz6auosw2zzhrxcf44",
+ "version": "v1.0"
+}

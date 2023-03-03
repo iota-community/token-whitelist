@@ -1,0 +1,10 @@
+{
+ "description": "Say \"Hello\"",
+ "issuerName": "Soonaverse",
+ "name": "Free Badge",
+ "soonaverseId": "0xd2c43fc41e721fee0c76e2daa664592e70ebcdd8",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiblzbfea6kgbhkcol33yatvedngjlrninnybhn27sywqicns7hswu",
+ "version": "v1.0"
+}

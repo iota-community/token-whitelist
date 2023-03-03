@@ -1,0 +1,13 @@
+{
+ "description": "The #TFTNFT collection brings more NFTs with utility to the #SOONAVERSE.\n\nIntroducing the #TFTMOTO a limited edition NFT that vests 50,000 $TFT at The Fans Together DAO ICO. It comes with a #HODL bonus of 40% if you keep hold for 6 months and 100% if you tuck it away and #HODL for a year.\n\nThe Fans Together (recipient of the #IOTA DAOPIONEER grant) brings fans closer to teams through ownership and management of Pro Sports teams by our DAO.\n\nA #TFTNFT is not only cool and designed by our own amazing Hyperr.eth but it vests tokens in #TheFansTogetherDAO at ICO and comes with a #HODL bonus of up to 100%.\n\nThese NFTs are the first possiblity to get a $TFT token and a way to support a project firmly rooted in the #IOTA ecosystem.\n\nCome join our discord and read the whitepaper for more info and to chat with the team. Thanks for looking we’d love your support!\n\nJoin our discord here: discord.gg/jHFCY2aGsv\n\n",
+ "issuerName": "Soonaverse",
+ "name": "#TFTMOTO",
+ "royalties": {
+  "smr1qqplwc0zcxkjmfkxwz49cypcryy8a6yhf40ch0n750n82vsgkuqgy6s78mz": 0
+ },
+ "soonaverseId": "0x0eb4045a75dfb850c35a96e6f5018914f224062d",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreibeyis3fibgdclvlodntnsw3secxr5m4injfe56g2x63wz5ch7744",
+ "version": "v1.0"
+}

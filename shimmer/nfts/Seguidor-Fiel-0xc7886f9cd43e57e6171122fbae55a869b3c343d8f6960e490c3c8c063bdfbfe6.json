@@ -1,0 +1,10 @@
+{
+ "description": "Unete a nuestro espacio y consigue nuestra medalla por vuestra fidelidad.",
+ "issuerName": "Soonaverse",
+ "name": "Seguidor Fiel",
+ "soonaverseId": "0xa9999b325711e658335c2a7278c5b16add3ae194",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeif4dxpkgtdu56wsezkctwx2pn2fj5j2snu6qygpas2trgnwa7vw64",
+ "version": "v1.0"
+}

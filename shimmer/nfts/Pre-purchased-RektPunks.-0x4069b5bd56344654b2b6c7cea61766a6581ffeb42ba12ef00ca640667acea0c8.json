@@ -1,0 +1,10 @@
+{
+ "description": "Badge to collect pre-purchased RektPunks. No public sale.",
+ "issuerName": "Soonaverse",
+ "name": "Pre-purchased RektPunks.",
+ "soonaverseId": "0x73d30d9568d2b6e39977afbed7fff8ae1ed73554",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiaxjhc6elbla7l43sivxyd2sbbhvapff6gw654iey7b4ijdgdhdzm",
+ "version": "v1.0"
+}

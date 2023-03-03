@@ -1,0 +1,10 @@
+{
+ "description": "Guess which musician is the quote we put here",
+ "issuerName": "Soonaverse",
+ "name": "Quotes from musicians",
+ "soonaverseId": "0x755a24047c34e5c2ad0465de1240764fdadfedeb",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreidue3q3yjwce3tj3kfxuyx2nqvmw2rlzc6xr47mqkrrx6gzeotcu4",
+ "version": "v1.0"
+}

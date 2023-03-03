@@ -1,0 +1,10 @@
+{
+ "description": "Have you ever baked a pizza yourself and can call yourself a pizzaiolo?",
+ "issuerName": "Soonaverse",
+ "name": "Pizzaiolo",
+ "soonaverseId": "0x86f3a4c6d40c0d1aa4cc32ecd131d666e7481dd2",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "",
+ "version": "v1.0"
+}

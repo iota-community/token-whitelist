@@ -1,0 +1,13 @@
+{
+ "description": "The early bird collection of \"colorful animal club\". We love colorful birds so much.",
+ "issuerName": "Soonaverse",
+ "name": "colorful early bird",
+ "royalties": {
+  "smr1qra7h2pwp3ftcqyg4gc9flvc52wys2wem7jqxs4q3jlkhjruvy9f5tn45l4": 0.05
+ },
+ "soonaverseId": "0xca28e7bdd60ec1f1ccbb2b7ef3c0a13ec5d0364a",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeigwvfhmnw2jrwomea5xzd2crofwiub5bu2pcag7duzrya6jvlikme",
+ "version": "v1.0"
+}

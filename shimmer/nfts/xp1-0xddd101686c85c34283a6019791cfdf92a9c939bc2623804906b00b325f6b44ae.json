@@ -1,0 +1,10 @@
+{
+ "description": "promotion",
+ "issuerName": "Soonaverse",
+ "name": "xp1",
+ "soonaverseId": "0x1e4693d17b1d64656bdfc0f58600853cf74e4d9c",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeieytib6m7qbr7btmaj7fk47pc2zhwys7isowroz7nuevrekh5oium",
+ "version": "v1.0"
+}

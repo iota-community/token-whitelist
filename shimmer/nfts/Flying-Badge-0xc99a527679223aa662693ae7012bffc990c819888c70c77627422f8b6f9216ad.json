@@ -1,0 +1,10 @@
+{
+ "description": "early flying badge, get one quick",
+ "issuerName": "Soonaverse",
+ "name": "Flying Badge",
+ "soonaverseId": "0x44448dc00b17610f89ae9812efbd6b6221608054",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeibttnn44oscio4srubaxgk3toes7i7rerbduhlwmeqdbulxan55ay",
+ "version": "v1.0"
+}

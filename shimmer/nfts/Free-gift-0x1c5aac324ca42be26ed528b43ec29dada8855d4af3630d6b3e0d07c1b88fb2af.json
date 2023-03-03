@@ -1,0 +1,10 @@
+{
+ "description": "Free gift",
+ "issuerName": "Soonaverse",
+ "name": "Free gift",
+ "soonaverseId": "0x4a5421b1ddc76d418f2afb09f2c598061ecf2411",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "",
+ "version": "v1.0"
+}

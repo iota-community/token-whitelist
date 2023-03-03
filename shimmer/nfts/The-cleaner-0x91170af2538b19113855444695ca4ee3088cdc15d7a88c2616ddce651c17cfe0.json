@@ -1,0 +1,10 @@
+{
+ "description": "Can you throw those empty cans in the bin please?",
+ "issuerName": "Soonaverse",
+ "name": "The cleaner",
+ "soonaverseId": "0x33772f49f64e4aa7ea6a7377156c9d2211002b89",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreifmcdgsa2wege6juc4oe22z5tq4kbkvnckrj37nrjmfsd4banrk7u",
+ "version": "v1.0"
+}

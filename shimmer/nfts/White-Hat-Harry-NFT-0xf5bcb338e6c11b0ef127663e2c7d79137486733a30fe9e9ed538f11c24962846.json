@@ -1,0 +1,10 @@
+{
+ "description": "Community NFT",
+ "issuerName": "Soonaverse",
+ "name": "White Hat Harry NFT",
+ "soonaverseId": "0xde0fee22b64cc0916325ed943fc87914a4afb6e4",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiazhh3kz4uusxtgk2uuvwuoxwlwvb4dao6orfwx73enhfcdbtt4ma",
+ "version": "v1.0"
+}

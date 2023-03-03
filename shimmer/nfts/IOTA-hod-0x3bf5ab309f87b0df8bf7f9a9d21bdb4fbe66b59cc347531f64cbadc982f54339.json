@@ -1,0 +1,10 @@
+{
+ "description": "IOTA hod",
+ "issuerName": "Soonaverse",
+ "name": "IOTA hod",
+ "soonaverseId": "0x1b4052c0a5455d0cdb524616052cb1f0ff11ebf1",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "",
+ "version": "v1.0"
+}

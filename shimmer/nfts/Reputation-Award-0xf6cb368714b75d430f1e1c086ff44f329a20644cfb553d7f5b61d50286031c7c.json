@@ -1,0 +1,10 @@
+{
+ "description": "Reputation Award",
+ "issuerName": "Soonaverse",
+ "name": "Reputation Award",
+ "soonaverseId": "0xbd28276935928eda33ace97a4e35702ba4695ed3",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreidwrbe55uvlpakups7ff7jpwv3pyc7rzo4mweegcbwxib7qlzj7jy",
+ "version": "v1.0"
+}

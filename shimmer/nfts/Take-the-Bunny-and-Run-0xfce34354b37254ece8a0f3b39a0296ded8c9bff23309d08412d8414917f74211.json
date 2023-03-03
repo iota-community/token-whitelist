@@ -1,0 +1,13 @@
+{
+ "description": "Unwanted Edition Digital Sad Bunny NFTs.\n\nFor the last time ever, collect your own ridiculous digital non-collectible NFT. Each NFT is not a collectible, it automatically entitles one to experience a transaction. Add to your NFT collection just for fun. A great way to test a new wallet address be it desktop or mobile. Impress your friends with this Sad Bunny NFT. Art work has a clear background.",
+ "issuerName": "Soonaverse",
+ "name": "Take the Bunny and Run",
+ "royalties": {
+  "smr1qp0zs6ywaq9qv0plgh4g0ju6lkmuh92s7ctkzgk9e6y6dtdyrfuas0v3egw": 0.1
+ },
+ "soonaverseId": "0xd856226de7f5ddcef634afedd7679b6816dd6c20",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreihaqaap7lnwkxatnuechotqygsggyt2q5ourvk4ytockjapbolxlu",
+ "version": "v1.0"
+}

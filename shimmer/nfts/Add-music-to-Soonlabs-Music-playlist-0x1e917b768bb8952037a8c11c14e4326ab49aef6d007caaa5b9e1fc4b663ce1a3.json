@@ -1,0 +1,10 @@
+{
+ "description": "We are creating the music playlist for the Soonlabs Music space. Send us a link to your favorite song at https://music.youtube.com/ or https://www.spotify.com/ to contribute to the space.\n\nYOUTUBE MUSIC PLAYLIST: https://music.youtube.com/watch?v=54W8kktFE_o\u0026feature=share\n\nSPOTIFY PLAYLIST: https://open.spotify.com/playlist/1UNusxYNjER3NGRFdcvxSg?si=ba7c1d60f37741f0",
+ "issuerName": "Soonaverse",
+ "name": "Add music to Soonlabs Music playlist",
+ "soonaverseId": "0x97f048ddb2f91ee78c4794f81aea3f89d928508b",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreibnsgbni6r3hs57xdhoelaqyyvwhtkboccxbzbb6chkj74hkonlnm",
+ "version": "v1.0"
+}

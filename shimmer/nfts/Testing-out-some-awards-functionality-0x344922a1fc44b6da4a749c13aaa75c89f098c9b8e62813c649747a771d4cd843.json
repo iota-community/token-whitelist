@@ -1,0 +1,10 @@
+{
+ "description": "Tell us, in your opinion, what the Soonaverse's #1 priority should be over the next month. If you give your honest opinion, then you'll be rewarded with a badge.",
+ "issuerName": "Soonaverse",
+ "name": "Testing out some awards functionality",
+ "soonaverseId": "0x31f420577e399b6a77b741b18feed7958b81a333",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiencj4rvyxoa5q2zermu3fnkwddenkuxnwb6jxhipse6rvu4jd4oe",
+ "version": "v1.0"
+}

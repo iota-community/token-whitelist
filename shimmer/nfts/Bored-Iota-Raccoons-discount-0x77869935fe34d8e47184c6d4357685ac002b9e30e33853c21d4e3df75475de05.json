@@ -1,0 +1,10 @@
+{
+ "description": "20 limited spots for a discount of 25% on the upcoming collection",
+ "issuerName": "Soonaverse",
+ "name": "Bored Iota Raccoons discount",
+ "soonaverseId": "0x9c0d554e1b750f31227c370e19cc25bf96d84b2a",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiegii3ek5kncrpa4kkb4bsw462rhsxlaqapnuajx7ih5l7p5vcnva",
+ "version": "v1.0"
+}

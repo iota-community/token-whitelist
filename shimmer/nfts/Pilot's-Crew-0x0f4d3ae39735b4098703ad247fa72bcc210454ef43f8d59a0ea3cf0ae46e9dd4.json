@@ -1,0 +1,13 @@
+{
+ "description": "The [TangleSwap team](https://docs.tangleswap.exchange/onboarding/team) was assembled from every literal corner of the planet, seeking a specific background, skillset and expertise in each core pilot. We are utterly proud to be developing a decentralized protocol with a truly decentralized team, based out of four different continents. 🛸 👾",
+ "issuerName": "Soonaverse",
+ "name": "Pilot's Crew",
+ "royalties": {
+  "smr1qqxy08cat5swsj055yk8aaqrm9mhyydq5rkjumj0wy647rueyuapjwtlutd": 0
+ },
+ "soonaverseId": "0xa7bfd6c3cd845dfe6cb1dd4b4f8b16ab818c574a",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeifs7yc5hw5ujw6qaoxtvayyohryvwnvt4xhsy67dz4larkgd7rjsi",
+ "version": "v1.0"
+}

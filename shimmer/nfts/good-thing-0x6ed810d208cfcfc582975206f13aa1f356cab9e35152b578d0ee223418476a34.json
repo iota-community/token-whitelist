@@ -1,0 +1,10 @@
+{
+ "description": "did you do a good thing today?",
+ "issuerName": "Soonaverse",
+ "name": "good thing",
+ "soonaverseId": "0x4042caedfe133b0e14e1f5c902c8dc798ffa207e",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreicqyubwcixkoryjzxp3jli5g524ezm45szsajrth4enuzstordnli",
+ "version": "v1.0"
+}

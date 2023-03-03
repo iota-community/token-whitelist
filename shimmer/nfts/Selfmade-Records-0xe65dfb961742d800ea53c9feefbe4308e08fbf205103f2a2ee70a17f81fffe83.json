@@ -1,0 +1,10 @@
+{
+ "description": "Test",
+ "issuerName": "Soonaverse",
+ "name": "Selfmade Records",
+ "soonaverseId": "0x69f5ffa76903539a80db7df549d6a89180201db8",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreia3se6vgu3e2s3huzr6bx7m7mc5d7eqvk57v6ojajcuuivm3qffdy",
+ "version": "v1.0"
+}

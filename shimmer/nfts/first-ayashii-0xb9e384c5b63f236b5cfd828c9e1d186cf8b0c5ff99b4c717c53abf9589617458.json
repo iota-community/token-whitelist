@@ -1,0 +1,10 @@
+{
+ "description": "this badge will give you a discount on the first ayashii drop",
+ "issuerName": "Soonaverse",
+ "name": "first ayashii",
+ "soonaverseId": "0xbb2d8a1069356b0b4d5e4fa97d08976f07631fc4",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiaxwu6b46rcpb3fnv2sekgbxetn5fzhe4dcxcrirfpmm66nekm6ie",
+ "version": "v1.0"
+}

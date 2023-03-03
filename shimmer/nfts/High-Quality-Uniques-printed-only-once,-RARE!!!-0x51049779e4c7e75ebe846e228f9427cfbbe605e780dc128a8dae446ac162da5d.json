@@ -1,0 +1,13 @@
+{
+ "description": "Every bill only printed once, high quality prints, add paper money to your NFT collection. Let's celebrate the end of the old financial system. Showcase USD, EUR\u0026GBP. ",
+ "issuerName": "Soonaverse",
+ "name": "High Quality Uniques printed only once, RARE!!!",
+ "royalties": {
+  "smr1qray9ucd8fgdmqj6nnaqme2hfjcz9cq9mhjan62hr7xgn0fkrk54zmld3dz": 0.01
+ },
+ "soonaverseId": "0x65abda3e95884fa31df45fab2b2ff3a1540e7668",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeidivtxnfpr5lg5ccdw7on77phl6kytyvoqkmfhssvin2c6lc3a4nq",
+ "version": "v1.0"
+}

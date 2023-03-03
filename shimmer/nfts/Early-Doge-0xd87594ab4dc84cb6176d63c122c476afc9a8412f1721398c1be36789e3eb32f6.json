@@ -1,0 +1,10 @@
+{
+ "description": "Award of an early and active member of the Doge DAO",
+ "issuerName": "Soonaverse",
+ "name": "Early Doge",
+ "soonaverseId": "0xe62c6c41ebc70b4ca0023e1de33623f3d5706fd9",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeid4fhrgg6qq6s45eapetkiaxq65hqpm7fmr3zyyqt2jkqn7bcul3e",
+ "version": "v1.0"
+}

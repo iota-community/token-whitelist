@@ -1,0 +1,13 @@
+{
+ "description": "40 unique Tangirls",
+ "issuerName": "Soonaverse",
+ "name": "The 40 Tangirls",
+ "royalties": {
+  "smr1qpr2dpeh5pyhdjt2yqk9qzj2qaampqhawdemgw0jfkqvyqflugfqxu2du4r": 0.07
+ },
+ "soonaverseId": "0x3a80989f9a3b908b36d9197d101300e8c9401d81",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeihss37xw3af3cdv3czdjy6ixqfqfo7f5u33carvvfmehm2rg2bzva",
+ "version": "v1.0"
+}

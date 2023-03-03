@@ -1,0 +1,10 @@
+{
+ "description": "Everyone who voted, will be get that Badge",
+ "issuerName": "Soonaverse",
+ "name": "Voting for Pre-Release Network",
+ "soonaverseId": "0x4842a5f5c2cddcdb592c86692e77d1813e6bdd55",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreia3ongwhw2pzeezrxwjyawwljsh4fmrot4r2d4p3sa73ukydaqozm",
+ "version": "v1.0"
+}

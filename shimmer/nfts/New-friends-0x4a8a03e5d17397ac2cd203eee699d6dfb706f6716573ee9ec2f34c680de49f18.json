@@ -1,0 +1,13 @@
+{
+ "description": "Mr. Tangle traveled an incredible path to find the gateway to the ShimmerSea.\n\nOnly 1 nft, the buyer gets the physical picture and 1 Lumi, shipping to anywhere in the world is included in the price.\n\n",
+ "issuerName": "Soonaverse",
+ "name": "New friends",
+ "royalties": {
+  "smr1qpjhaxr02w0kq7fdc49wst297zxjvkck26r392se6p2gy2qm5f3zz8mtn5q": 0.05
+ },
+ "soonaverseId": "0x677d7f9b12aa2dc746f6c8b68706241a39899e5a",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeif5zl5doabaic74kznrzvl3p426ej7yujpwqdyrpgb7kwsh6kezna",
+ "version": "v1.0"
+}

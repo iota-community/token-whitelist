@@ -1,0 +1,10 @@
+{
+ "description": "Luovutetaan todisteita vastaan. Todisteeksi käy esim. jokin some tili jossa viittaat tähän soonaverse spaceen ja siten todistat tilin olevan soonaverse tiliin omistajan hallinnassa.",
+ "issuerName": "Soonaverse",
+ "name": "Suomalainen iotanautti '22",
+ "soonaverseId": "0x8cc11945b4a86fee4900cf648109d1acedfa9b7a",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreihnutskuejodnqamf4zla6uat732qcvr2523j6sxibt7ax5p4b7su",
+ "version": "v1.0"
+}

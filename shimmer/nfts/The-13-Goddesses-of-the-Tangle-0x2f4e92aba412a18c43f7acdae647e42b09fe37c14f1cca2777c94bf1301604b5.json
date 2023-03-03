@@ -1,0 +1,13 @@
+{
+ "description": "Based on 13 goddesses of Egyptian mythology, I have created a collection of images in which I reinterpret and reincarnate them in a modern Metaverse based on the Tangle and its three main cryptocurrencies: IOTA, Shimmer and Assembly.\nThe collection has not been created directly by a human, but by two incredible artificial intelligence programs, which have been accessible to the general public in recent weeks:\n1.- MidJourney: Midjourney is an artificial intelligence program with which its users can create images from textual descriptions. Which is the one that created the images and which are presented in their entirety in this collection, except for the incorporation of some IOTA, Shimmer and Assembly logos with Photoshop.\n2.- GPT-3: Generative Pre-trained Transformer 3 is an autoregressive language model that uses deep learning to produce human-like text. I have used this program to create, write and generate the history associated with each Goddess. Human intervention, in this case, has been limited to providing GPT-3 with a few data on the characteristics and history of the goddess.\nI hope this collection serves to expose the short-term potential of technologies based on Artificial Intelligence. The future is already present.",
+ "issuerName": "Soonaverse",
+ "name": "The 13 Goddesses of the Tangle",
+ "royalties": {
+  "smr1qr46v5ckytmvx9kfysngnr9f2s894w652pmg0z7juhhffvmdrk37vyu5qll": 0.1
+ },
+ "soonaverseId": "0x79d36edff5d5d7d2c0801fbe98b9988c01b48913",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeihm26nxfildfh7jo577ljjdsmdtmxz24cxdr3nm53vhhyg72s3fqq",
+ "version": "v1.0"
+}

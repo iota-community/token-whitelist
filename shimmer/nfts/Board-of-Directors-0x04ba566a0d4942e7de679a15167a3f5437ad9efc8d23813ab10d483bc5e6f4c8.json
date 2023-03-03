@@ -1,0 +1,10 @@
+{
+ "description": "Board members of the Vault.",
+ "issuerName": "Soonaverse",
+ "name": "Board of Directors",
+ "soonaverseId": "0xe2b17ceb1cf31e76f4d2b05037f67fdc09c315ed",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreieaoxfqwz6r6ziiaxaszllui4ytcdacsy2ahx5x2yaw3es6dbga7e",
+ "version": "v1.0"
+}

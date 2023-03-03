@@ -1,0 +1,10 @@
+{
+ "description": "Welcome to the VIP club",
+ "issuerName": "Soonaverse",
+ "name": "IllusionArt - Trading card VIP club",
+ "soonaverseId": "0x868e4ccaed697e3f38af5a76a5d94a28e824528e",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeicursljmtdqphsfxuzci4qzxjjw2igsc2ikysqavbuskideg4x5yu",
+ "version": "v1.0"
+}

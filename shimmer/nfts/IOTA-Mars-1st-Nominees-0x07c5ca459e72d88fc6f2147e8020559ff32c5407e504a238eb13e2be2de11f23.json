@@ -1,0 +1,10 @@
+{
+ "description": "Award for the 1st Nominees of the 1st IOTA Mars collection.",
+ "issuerName": "Soonaverse",
+ "name": "IOTA Mars 1st Nominees",
+ "soonaverseId": "0xf10b5db617f52166db80d3721be320863b0d901f",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreifwsklb5nuzbjpt7iwte6xwbpw422ibumcxi74nik35zz7gf5pcwq",
+ "version": "v1.0"
+}

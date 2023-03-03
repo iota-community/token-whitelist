@@ -1,0 +1,13 @@
+{
+ "description": "As we enter the realms of synthwave type art, we don't find ourselves at the beach in LA or Miami with palm trees and oceanside sunsets. Instead, we look up into space. Choose your spaceship, put your headphones on and enjoy the ride into another galaxy. All NFTs come with properties and attributes.",
+ "issuerName": "Soonaverse",
+ "name": "Synthwave Shimmer Spaceships",
+ "royalties": {
+  "smr1qray9ucd8fgdmqj6nnaqme2hfjcz9cq9mhjan62hr7xgn0fkrk54zmld3dz": 0.09
+ },
+ "soonaverseId": "0x7390c330347fd1405cf09773aa5c77c7b00bcd61",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeigmiw3f4mwfrwiu6exmwbmysf4dpycedpzi46or3dv5jm7i5xndga",
+ "version": "v1.0"
+}

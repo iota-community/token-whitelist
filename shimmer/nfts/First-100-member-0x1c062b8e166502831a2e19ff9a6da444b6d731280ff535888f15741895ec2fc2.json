@@ -1,0 +1,10 @@
+{
+ "description": "Awards to first 100 members",
+ "issuerName": "Soonaverse",
+ "name": "First 100 member",
+ "soonaverseId": "0xe7b9e2abc20e69d6c06fd675a2907e0b79f0b3d1",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeic2v3neruntxjxplnhg2oyjtopjmygejh44rnc5smbq3cvnp2auru",
+ "version": "v1.0"
+}

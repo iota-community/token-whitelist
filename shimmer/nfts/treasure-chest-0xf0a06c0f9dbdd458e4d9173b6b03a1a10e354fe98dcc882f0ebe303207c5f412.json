@@ -1,0 +1,10 @@
+{
+ "description": "Join the Club and enjoy the Member Discount ",
+ "issuerName": "Soonaverse",
+ "name": "treasure chest",
+ "soonaverseId": "0x72cdbd4b96a57235ddd43c7631c3cc325dd29f06",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeib5xaw7xux33yk7q7fai2tja3zi2t2e7k72ief4cu3mis26kcatmm",
+ "version": "v1.0"
+}

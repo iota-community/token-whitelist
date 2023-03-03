@@ -1,0 +1,13 @@
+{
+ "description": "NEBULA TANGLE ARCADE MACHINE COLLECTION ",
+ "issuerName": "Soonaverse",
+ "name": "NEBULA TANGLE COLLECTION",
+ "royalties": {
+  "smr1qzvrxtnysmz2707j5e4hv0kyy406sktkx3ulgf42lgms6fvzvrvg62vert9": 0.1
+ },
+ "soonaverseId": "0xdc79c4e0252cf41e60ab69ba20e59b4459f88072",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeic5cjqamiuymp3oe4bsrn4qamjxftlvo7i35ceokjz2h5b7nsqjpa",
+ "version": "v1.0"
+}

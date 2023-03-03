@@ -1,0 +1,10 @@
+{
+ "description": "Komm vorbei dann bekommst du ein Badge",
+ "issuerName": "Soonaverse",
+ "name": "Bekommt jeder der zum Januar Stammtisch kommt",
+ "soonaverseId": "0x877a52334f7ac45e3629c3c4de1336ef068ac082",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiangdoma3lreg4x2rhntbwqkf3gg6nckemw7wfpn5tolicsoocfom",
+ "version": "v1.0"
+}

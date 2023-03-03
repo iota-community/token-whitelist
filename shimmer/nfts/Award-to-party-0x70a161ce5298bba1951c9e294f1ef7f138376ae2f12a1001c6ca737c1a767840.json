@@ -1,0 +1,10 @@
+{
+ "description": "party",
+ "issuerName": "Soonaverse",
+ "name": "Award to party",
+ "soonaverseId": "0xfdd4e66ddab2719b23557f460232bd97ba4695a2",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiah2mg4wmhtap6qqkz5cghv3cyyzdwd6hb4hvxaqapy4hyqcsjqju",
+ "version": "v1.0"
+}

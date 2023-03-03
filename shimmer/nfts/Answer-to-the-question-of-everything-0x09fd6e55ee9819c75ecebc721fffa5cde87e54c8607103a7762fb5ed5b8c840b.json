@@ -1,0 +1,10 @@
+{
+ "description": "the answer to everything",
+ "issuerName": "Soonaverse",
+ "name": "Answer to the question of everything",
+ "soonaverseId": "0x5c28507cdb061c6ab4f6d724d49bc358ecbf5bc2",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreicts6lomwbggdxfnhd3l2t76tzv4jrxgvlij2mzowpngelg6c5yte",
+ "version": "v1.0"
+}

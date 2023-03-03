@@ -1,0 +1,10 @@
+{
+ "description": "You have minted a IOTA Color Coin with common rarity - Bronze, Silver or Gold.\n\n\n",
+ "issuerName": "Soonaverse",
+ "name": "Mint a IOTA Color Coin - Common Rarity",
+ "soonaverseId": "0x0a01fae61ea70cfdde9511c0a5bca59b51099afa",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeihozg5zaxygcp6v7ykgstiz3eusgybkh4zqvxa3kx6epkx544eusm",
+ "version": "v1.0"
+}

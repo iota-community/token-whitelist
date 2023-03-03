@@ -1,0 +1,13 @@
+{
+ "description": "Shimmer Classic Bots -\u003e It is a collection designed to interact with the bboysendo community, therefore the holders of these NFTs will always be the first to be attended to in the event of any problem or doubt in the crypto world.",
+ "issuerName": "Soonaverse",
+ "name": "Shimmer Classic Bots",
+ "royalties": {
+  "smr1qrlnqewrk8jqnwaaea7p6cy5zpz35rxt08vnmu9vhyqn560p4lcuxcrwqqv": 0.05
+ },
+ "soonaverseId": "0xd32c23d3b7c8072f16d659fd2ea04cb7928a8432",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreietk5627q7xzr4cejo6hg3auqn2bgotic2de5jijsulfwuyg7i7lm",
+ "version": "v1.0"
+}

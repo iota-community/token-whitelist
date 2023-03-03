@@ -1,0 +1,10 @@
+{
+ "description": "Moderator",
+ "issuerName": "Soonaverse",
+ "name": "Tangle Gang Moderator",
+ "soonaverseId": "0x3600e7cc75a40a0b2aa48fa6eeca1f75d69673fa",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreian5trikwgpd6hurlmf4alunr7tmxmcshgcbedgg442s5jznqbfq4",
+ "version": "v1.0"
+}

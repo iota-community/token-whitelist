@@ -1,0 +1,13 @@
+{
+ "description": "Unique 16x16 pixels extreemly simplified IOTA birds, as tiny as an iota. All birds made with best wishes that may the bird brings you lots of luck, health, weath, and freedom, mean while IOTA will get to the moon, WAGAMI. There are totally only 1152 IOTA birds in the world.",
+ "issuerName": "Soonaverse",
+ "name": "IOTA Birds NFTs 2nd round Open Sale (#501-#750)",
+ "royalties": {
+  "smr1qzcg5uufuac7pczuktr5a2a8sk5dqscfw55uag9535487669vau87s4vyjr": 0.2
+ },
+ "soonaverseId": "0x969ea9a5dce0ea03e3c42ff0ce3e55490e870a68",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeicpd6tmsniczluypiyhfpeu3u2njc5xxhyhkdxcjfdjcnhllsverm",
+ "version": "v1.0"
+}

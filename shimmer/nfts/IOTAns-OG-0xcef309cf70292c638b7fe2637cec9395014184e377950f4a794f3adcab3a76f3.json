@@ -1,0 +1,13 @@
+{
+ "description": "IOTAns OG - this was the very first IOTAns collection for the IOTAner community. Thanks for the feedback IOTAner ! ",
+ "issuerName": "Soonaverse",
+ "name": "IOTAns OG",
+ "royalties": {
+  "smr1qzs3j42762ms82rv3343k2skq3ruat50m8kq07ducykukru8qkpr2dk56j6": 0.1
+ },
+ "soonaverseId": "0x86be7915ae7fcef5527ac24bb2e5b569a72b3ec0",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeideoyzzd6ajw6bpmn6k6didvve4vlnolbvcre2f7ulssdt75rm4vu",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "iota fan",
+ "issuerName": "Soonaverse",
+ "name": "iota fan",
+ "soonaverseId": "0x464975156c3bb9cd5b32a84e5318da429a9550f2",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "",
+ "version": "v1.0"
+}

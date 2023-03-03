@@ -1,0 +1,13 @@
+{
+ "description": "The Silver Card is a good introduction to the Bivreost ecosystem. Explore, participate and become part of a large community! The complete collection includes 600 branded cards. Some benefits for Silver cardholders:\n\n- Exclusive design.\n- System avatar for the web extension.\n- 25% chance to access the Token Presale on the Bivreost Launchpad.\n- Binding and synchronization with Telegram contacts.\n\nA user can have multiple Bivreost Silver Cards.",
+ "issuerName": "Soonaverse",
+ "name": "SILVER",
+ "royalties": {
+  "smr1qqj7wm37ltmazaly9fpqnfek6kt6q4s90s8aeed3l8fndtsaq08n50zlzzm": 0.05
+ },
+ "soonaverseId": "0x2593ff310118262ca6dd906b46eda66bbd55f3ee",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreic5go76s7od2zu4uypzlgv3eplwivyqevkfdckf2cg6lhvqbt3rd4",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "Alpha member of the IOTA Alphaverse.",
+ "issuerName": "Soonaverse",
+ "name": "AlphaVerse ALPHA Member",
+ "soonaverseId": "0x0f66276f568a22f8d586cd8f7059f08c9b722d62",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreibzy2np6oah4gf3z5umqwj67pye4mrxdvbegrzaveja7rrukjrbeq",
+ "version": "v1.0"
+}

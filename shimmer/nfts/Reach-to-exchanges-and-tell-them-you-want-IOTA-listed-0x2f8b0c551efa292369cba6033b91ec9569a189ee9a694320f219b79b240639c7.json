@@ -1,0 +1,10 @@
+{
+ "description": "A tweet, an email, do your best!",
+ "issuerName": "Soonaverse",
+ "name": "Reach to exchanges and tell them you want IOTA listed",
+ "soonaverseId": "0x051b2a596519514fb01aef6ef07f2248c641c8f4",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreicl56pksdog4eprmitkedcinnnbtklpwqkjw26nmhdyme2w47nhdm",
+ "version": "v1.0"
+}

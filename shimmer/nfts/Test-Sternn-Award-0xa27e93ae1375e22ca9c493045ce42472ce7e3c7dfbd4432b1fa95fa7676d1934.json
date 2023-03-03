@@ -1,0 +1,10 @@
+{
+ "description": "Test  award",
+ "issuerName": "Soonaverse",
+ "name": "Test Sternn Award",
+ "soonaverseId": "0x3fc6435fc0fb12192f0e4aba9d4e6a0599956312",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "",
+ "version": "v1.0"
+}

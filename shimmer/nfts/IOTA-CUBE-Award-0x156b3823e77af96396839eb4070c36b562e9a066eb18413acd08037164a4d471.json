@@ -1,0 +1,10 @@
+{
+ "description": "Award Description\nThis is the winners award exclusively for the people who have won an IOTA CUBE through one of the countless raffles.\n\nI ask only those people to register who have actually won a raffle, thanks.",
+ "issuerName": "Soonaverse",
+ "name": "IOTA CUBE Award",
+ "soonaverseId": "0x84c1416464b6563d7f93ca081745a8ca467be3a8",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeihoa66rj5snhqfo5uaubs44xojdixucp5a64o2vwtjcaufjwtt6k4",
+ "version": "v1.0"
+}

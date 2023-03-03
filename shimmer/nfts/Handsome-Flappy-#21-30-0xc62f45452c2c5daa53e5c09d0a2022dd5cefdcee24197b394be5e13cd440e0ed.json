@@ -1,0 +1,13 @@
+{
+ "description": "The last collection of Handsome Flappy x Steinschleudi\n\nBy buying a Handsome Flappy x Steinschleudi NFT you get this for \"free\".\n\nWhen you mint a Handsome Steinschleudi NFT, you can mint one Handsome Flappy (#21-30) for free.\n\nYou can find the whole roadmap on my Homepage -\u003e DYOR https://HandsomeFlappy.com",
+ "issuerName": "Soonaverse",
+ "name": "Handsome Flappy #21-30",
+ "royalties": {
+  "smr1qpg8r75f8szfmdvzgtzwrkv3y33l7pywuqmwzevzxurtd4x5330ncy9pc6p": 0.1
+ },
+ "soonaverseId": "0x7a07f41b005677b538da5b2f62f92d6f36398dc3",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeib2g4tyufkqnu52drn4fjpphqx4kvh3ilepjreyrbw4y43cl6qdhy",
+ "version": "v1.0"
+}

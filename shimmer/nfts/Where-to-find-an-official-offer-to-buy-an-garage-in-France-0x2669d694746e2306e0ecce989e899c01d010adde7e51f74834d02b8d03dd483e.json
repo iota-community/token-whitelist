@@ -1,0 +1,10 @@
+{
+ "description": "Send a message with a link to an official offer to buy an garage somewhere in France",
+ "issuerName": "Soonaverse",
+ "name": "Where to find an official offer to buy an garage in France",
+ "soonaverseId": "0xea909c99032c541d9da9e59c90b07e9a99943440",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiad7nycwwfepp2upbl3jm2cermkb3m6xrt32nut3grioiqfjfdaxq",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "Drink a cosmopolitan a get reward",
+ "issuerName": "Soonaverse",
+ "name": "Order a cosmopolitan with raspberry juice",
+ "soonaverseId": "0xba01d403ebc42162f41102e57d47052fd96e16d0",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreih6mlclm2l5w5f2blinngkfdahn5wkanuak3xjpct6uhisf7dhsky",
+ "version": "v1.0"
+}

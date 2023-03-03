@@ -1,0 +1,10 @@
+{
+ "description": "rekt",
+ "issuerName": "Soonaverse",
+ "name": "rekt",
+ "soonaverseId": "0xdd6742d3ba1ae2c07107440d75f8f0a687138e3f",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreifkxlkj4jnjeffvk37syujfrwhvfluwstke4o7nquiakghhprhkwq",
+ "version": "v1.0"
+}

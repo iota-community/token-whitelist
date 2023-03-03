@@ -1,0 +1,10 @@
+{
+ "description": "If you own 10+ TangleSwap NFTs of the same kind, you are a so-called tycoon and have the possibility to get a Tycoon Residence NFT. Just apply for the Tycoon Residence Award",
+ "issuerName": "Soonaverse",
+ "name": "Tycoon Residence Award",
+ "soonaverseId": "0x0c932f57bcf3cdf7231cbee3e9d14d1c3acfd16d",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "",
+ "version": "v1.0"
+}

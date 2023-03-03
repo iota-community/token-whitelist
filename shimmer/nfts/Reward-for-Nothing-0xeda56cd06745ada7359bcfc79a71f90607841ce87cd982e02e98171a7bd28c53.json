@@ -1,0 +1,10 @@
+{
+ "description": "Reward for Nothing",
+ "issuerName": "Soonaverse",
+ "name": "Reward for Nothing",
+ "soonaverseId": "0x48d391484f42e365b501e5338d602b2d89848245",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreih7zdzgyx3lizqyavfvstp4swnxmk7rvlveefjfhqqucp57t5pkmi",
+ "version": "v1.0"
+}

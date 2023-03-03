@@ -1,0 +1,13 @@
+{
+ "description": "Blueprints is a fantasy blueprints collection",
+ "issuerName": "Soonaverse",
+ "name": "Blueprints",
+ "royalties": {
+  "smr1qqnmk6x4lww4d6m200r3pew0f5278qcsrfrfmlaa2g4k3ktnhhhu6k8y62r": 0.05
+ },
+ "soonaverseId": "0x9456caf45ae18d5e20735650655c1a9b3c675e02",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreidn5fzxq2aths6gjeq3u4wjapggh3bu7emlswmxsu33gstlwx5csy",
+ "version": "v1.0"
+}

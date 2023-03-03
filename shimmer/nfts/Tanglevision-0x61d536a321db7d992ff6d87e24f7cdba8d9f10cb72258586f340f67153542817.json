@@ -1,0 +1,10 @@
+{
+ "description": "Pick up your badge to access the iotaholics with 3D glasses",
+ "issuerName": "Soonaverse",
+ "name": "Tanglevision",
+ "soonaverseId": "0xe856a4774c6484931dc0c1d488077d7c4e48c568",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeienqvsuxstg3qdeg4urifua2zkpareqpkvueopzugjeey45m6tqmm",
+ "version": "v1.0"
+}

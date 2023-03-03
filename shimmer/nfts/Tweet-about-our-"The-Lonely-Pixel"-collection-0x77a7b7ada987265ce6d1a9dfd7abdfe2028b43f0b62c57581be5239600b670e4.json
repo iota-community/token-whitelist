@@ -1,0 +1,10 @@
+{
+ "description": "Receive a marketplace discount for all our collections",
+ "issuerName": "Soonaverse",
+ "name": "Tweet about our \"The Lonely Pixel\" collection",
+ "soonaverseId": "0xb45103aa11166b952509a26d00efe90354530bab",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreieosszysbrzoejvuisa55tckgd4efinbnuzsqm45lalvje4xx64a4",
+ "version": "v1.0"
+}

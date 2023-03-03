@@ -1,0 +1,10 @@
+{
+ "description": "Get a 20% on our Golden Woman collection\n\n\n",
+ "issuerName": "Soonaverse",
+ "name": "20% discount badge",
+ "soonaverseId": "0x49eeadf23bf420a57f0416530fd3e1fb710e897b",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreigpurf6epuonvns3wpqgfw7nhoxfmuhy3t7atwtey24mm57w22kaq",
+ "version": "v1.0"
+}

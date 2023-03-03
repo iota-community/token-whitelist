@@ -1,0 +1,10 @@
+{
+ "description": "Space Owner",
+ "issuerName": "Soonaverse",
+ "name": "Whale Wrangler",
+ "soonaverseId": "0x974586fb366eff2fa96c3022f0b2ac7954957ba7",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreib2sgeqrdq3ln3bqf3rb7ptoyrvjdojpt4pc74eqb6jlo4lbbqsju",
+ "version": "v1.0"
+}

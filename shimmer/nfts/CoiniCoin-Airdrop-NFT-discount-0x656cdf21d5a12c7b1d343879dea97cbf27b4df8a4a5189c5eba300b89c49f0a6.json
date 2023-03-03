@@ -1,0 +1,10 @@
+{
+ "description": "discount for members on the Airdrop NFT Sale",
+ "issuerName": "Soonaverse",
+ "name": "CoiniCoin Airdrop NFT discount",
+ "soonaverseId": "0x83003d0d6314d00201b4e8b6b92699a539149aa4",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreibtr2lrnc4mdb6ojdjd7hhrnkc3m7pn63efyssz7wuieayup4syd4",
+ "version": "v1.0"
+}

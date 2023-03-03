@@ -1,0 +1,10 @@
+{
+ "description": "Follow TangleSheeps on Twitter and retweet the pinned post.\nhttps://twitter.com/tanglesheeps/status/1504555977852469253?s=20\u0026t=3D_sGHRlZ5N79JLHQAE-Ow\n\nDon´t forget to write your Twitter name in the participate box for the reward.",
+ "issuerName": "Soonaverse",
+ "name": "TangleSheeps on Twitter",
+ "soonaverseId": "0x3287eea9d6429bba73cf37c494887012b67861ef",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeib3gvwv3cwssa4v4ieqs5svvo7kkhoxlbweyvwpgf5x4moapowhd4",
+ "version": "v1.0"
+}

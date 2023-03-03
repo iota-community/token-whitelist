@@ -1,0 +1,10 @@
+{
+ "description": "Gain access to the bots. Make sure your Discord name is provided or linked to your Soonaverse profile.",
+ "issuerName": "Soonaverse",
+ "name": "I would like to have beta access",
+ "soonaverseId": "0x35da83ac7e03f69ebb36a5bdcefcf48bc75cd73a",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiets7s3f5upg7cjuspez22j5c573v2cn4ch4zrjwsxinvzngw5ub4",
+ "version": "v1.0"
+}

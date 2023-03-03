@@ -1,0 +1,10 @@
+{
+ "description": "Badge for the first 100 gun store members.",
+ "issuerName": "Soonaverse",
+ "name": "First 100 Members Badge",
+ "soonaverseId": "0x12e70e56d4cb43958581bb7e0b70c25932133028",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreihrehfof33vu2sah3b56l46cl6iwv72zm5jmn7zo4ojr4syrc62eq",
+ "version": "v1.0"
+}

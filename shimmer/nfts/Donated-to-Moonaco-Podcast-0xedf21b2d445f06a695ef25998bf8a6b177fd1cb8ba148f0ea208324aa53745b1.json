@@ -1,0 +1,10 @@
+{
+ "description": "Donation to Moonaco Podcast \nFirefly wallet address: iota1qzhvq9eumj3xcdfheda6gesapec92jecwc2d775wdfdptyrdy8ke5z2vj58\n\nLeave ur DAO name in the transaction",
+ "issuerName": "Soonaverse",
+ "name": "Donated to Moonaco Podcast",
+ "soonaverseId": "0xde27f46560eff3ae762d2629c6287996f43eb590",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreihkerech2rlycb2c5qfyzx3lacjvyijmlfcumlli2q2a2ctcokhvi",
+ "version": "v1.0"
+}

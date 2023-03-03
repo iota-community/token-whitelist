@@ -1,0 +1,13 @@
+{
+ "description": "Watch your back, there might always be a snake in your back trying to corrupt your existence!",
+ "issuerName": "Soonaverse",
+ "name": "Sneaky Shimmer Snakes - A 22 x 22 x 2022 Collection",
+ "royalties": {
+  "smr1qray9ucd8fgdmqj6nnaqme2hfjcz9cq9mhjan62hr7xgn0fkrk54zmld3dz": 0.01
+ },
+ "soonaverseId": "0xf9f3bb82164f335ee643aad65dade096c5c4c413",
+ "standard": "IRC27",
+ "type": "application/octet-stream",
+ "uri": "ipfs://bafybeif3w5p6cuxxt4mps2ybfjt6ciabbqkdjhbz7fap5kzsscxhmtb6fy",
+ "version": "v1.0"
+}

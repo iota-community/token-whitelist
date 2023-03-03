@@ -1,0 +1,13 @@
+{
+ "description": "This is my first IOTA-Logo creation as a piece of digital Art.\n\nThis will be a rare collection of 10 \"IOTA LOGO MOZAICS\"\n\nHope you like it. ",
+ "issuerName": "Soonaverse",
+ "name": "IOTA - MOZAIC 1 of 10",
+ "royalties": {
+  "smr1qr3je96rk2fsk765gj6qm799d5d22l5qrgq93qhs3j5jqchaqqew2r7lf04": 0.3
+ },
+ "soonaverseId": "0xa59551d22948fce68809cc8432c1dd73603f8685",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeid4frq34ja7tran4tt4mlebnz5oynm2byidmlk4fh37x3my3u3ni4",
+ "version": "v1.0"
+}

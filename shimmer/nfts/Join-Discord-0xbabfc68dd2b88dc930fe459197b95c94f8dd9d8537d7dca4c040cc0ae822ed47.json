@@ -1,0 +1,10 @@
+{
+ "description": "Join our Discord channel and get 1 XP, which results in 1 % discount for our Basic Collection of 80 NFTs.\n1. Join Discord\n2. Send DM to one of the founder dudes with your Soonaverse Display Name / ID",
+ "issuerName": "Soonaverse",
+ "name": "Join Discord",
+ "soonaverseId": "0xb43f75e068e8be8e3bcecc555eb5d74ed60d8142",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeibovq5xeidymsfvbh2yu2gd3ck5vilmfbmgacue2ia4lcwdfcllwu",
+ "version": "v1.0"
+}

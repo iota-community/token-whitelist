@@ -1,0 +1,13 @@
+{
+ "description": "Here comes the most powerful currency in a special pixelated future! The gold coin! Only 10 numbered copies.",
+ "issuerName": "Soonaverse",
+ "name": "Pixel Gold Coin",
+ "royalties": {
+  "smr1qqt58w88c5eeclldp7tq8shq3t7pgy38j0k9hfx9y86qa6p40zadjy6hkce": 0.1
+ },
+ "soonaverseId": "0xf4f2f936c7032167ffe9b0d74013f8aea00386c7",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiapit5k2nu4hpblgz2m5qbwcqcy7xkfpuw7ljuuv34s2asvktmqm4",
+ "version": "v1.0"
+}

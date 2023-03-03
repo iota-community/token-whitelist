@@ -1,0 +1,10 @@
+{
+ "description": "jina",
+ "issuerName": "Soonaverse",
+ "name": "jina",
+ "soonaverseId": "0x07d158b3af051d10cc6a779d633311dbaf30dbc8",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "",
+ "version": "v1.0"
+}

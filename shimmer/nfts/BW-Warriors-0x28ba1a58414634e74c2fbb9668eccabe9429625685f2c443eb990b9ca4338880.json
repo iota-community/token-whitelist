@@ -1,0 +1,13 @@
+{
+ "description": "55 unique designs - Limited Edition",
+ "issuerName": "Soonaverse",
+ "name": "BW Warriors",
+ "royalties": {
+  "smr1qznk5wvng3ae855sk9faszpc97lnf5rac45cecptx5u3ny7q59lxz32xz4n": 0.04
+ },
+ "soonaverseId": "0x1f2df28b1097e86b90a7fa3790b213943d4ae73d",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreid5fsghsk7os4rfw3g7j2wm2dytq4ctnapjkwx4m5m2dpzhyei55m",
+ "version": "v1.0"
+}

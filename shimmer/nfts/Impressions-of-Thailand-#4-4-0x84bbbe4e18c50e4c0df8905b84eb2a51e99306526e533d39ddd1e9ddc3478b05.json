@@ -1,0 +1,13 @@
+{
+ "description": "These photos were taken on a trip through the wonderful country of Thailand.\nThey are in a resolution of 240 dpi, are sized in 2304 x 3072 px and were taken in vertical orientation.",
+ "issuerName": "Soonaverse",
+ "name": "Impressions of Thailand #4/4",
+ "royalties": {
+  "smr1qqf0v7r642mtmd5xpy29gfcvtkwwslxttf3d5edh5qgjfpfu6xh6qa09sxk": 0.05
+ },
+ "soonaverseId": "0x8e180fb227ed31cdc536d4fb5431b8dccf4feded",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeifibrm5nl6vm7xgwmiqjht3vclsdzftwutrvblnzfab7pp7f7bvse",
+ "version": "v1.0"
+}

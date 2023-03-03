@@ -1,0 +1,10 @@
+{
+ "description": "Mention this space on Twitter to receive 10 XP and a discount on selected NFTs!",
+ "issuerName": "Soonaverse",
+ "name": "Early supporter award",
+ "soonaverseId": "0xf696ffce52bc67616d74182dfa285602d7cfe574",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreic3tfpe7w7la25ro2c3ed6odwen5kz76vd5s7e4y7epddn3y5wcbu",
+ "version": "v1.0"
+}

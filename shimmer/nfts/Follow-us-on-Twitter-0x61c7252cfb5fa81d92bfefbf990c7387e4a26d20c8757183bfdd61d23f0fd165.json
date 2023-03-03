@@ -1,0 +1,10 @@
+{
+ "description": "Follow us on Twitter and let us know your \"@username\"\n\nhttps://twitter.com/Gav_iotas",
+ "issuerName": "Soonaverse",
+ "name": "Follow us on Twitter",
+ "soonaverseId": "0xaa47da71550cbcfbb9fbe2b10d721c0248ec6c85",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeifai2mfywrfyraimjygr4uff7scpzjy5d6h47ykhwivz4m6bvoyqq",
+ "version": "v1.0"
+}

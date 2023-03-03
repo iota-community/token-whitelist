@@ -1,0 +1,10 @@
+{
+ "description": "-Retweet this tweet: https://twitter.com/Sphere_Hub_io/status/1523760977266626560\n-Write your Twitter name",
+ "issuerName": "Soonaverse",
+ "name": "Retweet",
+ "soonaverseId": "0xc8e77879999538e9c4effaf585fc01a961fe5d09",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreibcat7ki575xi7nx7jo26pzmquipm37j4bgaz6auosw2zzhrxcf44",
+ "version": "v1.0"
+}

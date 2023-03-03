@@ -1,0 +1,10 @@
+{
+ "description": "An award for currently being a network Node Host.",
+ "issuerName": "Soonaverse",
+ "name": "Node Host",
+ "soonaverseId": "0x756b1864d4298233a91ca4354f38b309de212e64",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiceooaw7i6igqnwoq5c4ozodtprz353rz2gpnzazc3ut6kqrqytue",
+ "version": "v1.0"
+}

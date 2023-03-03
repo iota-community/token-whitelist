@@ -1,0 +1,10 @@
+{
+ "description": "Follow Moonaco Podcast on Twitter",
+ "issuerName": "Soonaverse",
+ "name": "Follow Moonaco Podcast on Twitter",
+ "soonaverseId": "0xb14189e220fdc17babfdf347de29ff3418ddc1a6",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreihkerech2rlycb2c5qfyzx3lacjvyijmlfcumlli2q2a2ctcokhvi",
+ "version": "v1.0"
+}

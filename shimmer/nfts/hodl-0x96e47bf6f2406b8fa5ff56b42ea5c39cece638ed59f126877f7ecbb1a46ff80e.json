@@ -1,0 +1,10 @@
+{
+ "description": "hodl",
+ "issuerName": "Soonaverse",
+ "name": "hodl",
+ "soonaverseId": "0xf4ea02628ab6493b2f0fc4d7f74c810907287295",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "",
+ "version": "v1.0"
+}

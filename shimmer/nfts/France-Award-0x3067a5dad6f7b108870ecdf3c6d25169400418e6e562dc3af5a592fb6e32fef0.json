@@ -1,0 +1,10 @@
+{
+ "description": "get you award while we find some garages in France",
+ "issuerName": "Soonaverse",
+ "name": "France Award",
+ "soonaverseId": "0xe33cafc06ece78a34aae06b2fd1042a05d2cc0b9",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiad7nycwwfepp2upbl3jm2cermkb3m6xrt32nut3grioiqfjfdaxq",
+ "version": "v1.0"
+}

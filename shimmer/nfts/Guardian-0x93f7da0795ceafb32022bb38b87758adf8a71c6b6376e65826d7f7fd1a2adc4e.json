@@ -1,0 +1,10 @@
+{
+ "description": "Guardian",
+ "issuerName": "Soonaverse",
+ "name": "Guardian",
+ "soonaverseId": "0xb9c0c543af800e971d7c2903c9151f9a276b0d6f",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreifrq2mbbzwhirpiv54kiez2aklbfdj2zaqirokwj57o4yzq5pwax4",
+ "version": "v1.0"
+}

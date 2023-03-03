@@ -1,0 +1,10 @@
+{
+ "description": "Follow TripleFi, like any twit, comment with your Twitter name to get the badge!\n\nhttps://twitter.com/TripleFi_",
+ "issuerName": "Soonaverse",
+ "name": "Follow TripleFi on Twitter",
+ "soonaverseId": "0xa910b8ae5050ef93076a07728cc9ed982f7ab1c6",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreihgktyxjnqrn7dknbh3cmkgjnniyduv3d6mmwntaynx3ow45iosyy",
+ "version": "v1.0"
+}

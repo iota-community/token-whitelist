@@ -1,0 +1,13 @@
+{
+ "description": "This is a test run.\nCollection coming soon :)",
+ "issuerName": "Soonaverse",
+ "name": "Test2",
+ "royalties": {
+  "smr1qq0naypruuu80xct60hulpync0wmy7zppc0g9j5rhr6u654aqcecga3gpz5": 0.05
+ },
+ "soonaverseId": "0x5a4ac2ee89a1425b407d503424fb9872ce3dc6d9",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreietxhme7a7b3kzvtbxocwoit7uvyjd7br3p7em4wnqemgvztu5veq",
+ "version": "v1.0"
+}

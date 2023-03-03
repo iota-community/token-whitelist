@@ -1,0 +1,10 @@
+{
+ "description": "If you follow us on Twitter you can request this award.",
+ "issuerName": "Soonaverse",
+ "name": "Follow on Twitter",
+ "soonaverseId": "0x50a9c772aabb9ff022c4c67ff4fe21006c1f85dc",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreibcat7ki575xi7nx7jo26pzmquipm37j4bgaz6auosw2zzhrxcf44",
+ "version": "v1.0"
+}

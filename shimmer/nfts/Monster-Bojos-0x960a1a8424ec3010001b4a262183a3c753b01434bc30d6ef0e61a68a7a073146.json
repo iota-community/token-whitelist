@@ -1,0 +1,13 @@
+{
+ "description": "100 unique designs - Limited Edition",
+ "issuerName": "Soonaverse",
+ "name": "Monster Bojos",
+ "royalties": {
+  "smr1qznk5wvng3ae855sk9faszpc97lnf5rac45cecptx5u3ny7q59lxz32xz4n": 0.04
+ },
+ "soonaverseId": "0x070ea3420bcfead6cf82fe8d0be28b072d41842b",
+ "standard": "IRC27",
+ "type": "application/octet-stream",
+ "uri": "ipfs://bafybeiba6xbwyvssgbrqq4jzi47xdnvkhfb7b6fsqkqkoauornjssusja4",
+ "version": "v1.0"
+}

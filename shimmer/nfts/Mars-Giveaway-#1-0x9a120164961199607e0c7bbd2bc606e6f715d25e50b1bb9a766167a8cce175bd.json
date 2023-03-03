@@ -1,0 +1,13 @@
+{
+ "description": "Mars Giveaway #1",
+ "issuerName": "Soonaverse",
+ "name": "Mars Giveaway #1",
+ "royalties": {
+  "smr1qryual0lr5y4ed3d2hlmz9z3sra3eny0ghc8d868kslmx8k85ydxk3y7vj6": 0.1
+ },
+ "soonaverseId": "0x69c522f0b9bae30408a0746015daea733480dec9",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeielgngn54jp54sy75f5kfth4pez2x6okyaxi2gndi7svkz6hneq3i",
+ "version": "v1.0"
+}

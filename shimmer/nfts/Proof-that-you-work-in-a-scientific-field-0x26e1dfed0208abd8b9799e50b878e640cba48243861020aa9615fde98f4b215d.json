@@ -1,0 +1,10 @@
+{
+ "description": "Write a statement + year and proof with name the PubMed or other ID",
+ "issuerName": "Soonaverse",
+ "name": "Proof that you work in a scientific field",
+ "soonaverseId": "0x4650bae52c0b7cc7123d247508c2e8a9d7b9c7e0",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "",
+ "version": "v1.0"
+}

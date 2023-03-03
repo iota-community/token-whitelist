@@ -1,0 +1,10 @@
+{
+ "description": "Badge for the winner of the Twitter game.",
+ "issuerName": "Soonaverse",
+ "name": "ASIC IOTAPET",
+ "soonaverseId": "0x472d48fc5f86963d3fbe663f1293b743ac90009d",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreihfupg7axj4jjlu72ghsjubctgbvwqndj7vj5vuh5hijm72ma2scu",
+ "version": "v1.0"
+}

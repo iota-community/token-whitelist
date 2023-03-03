@@ -1,0 +1,10 @@
+{
+ "description": "Test Award 2",
+ "issuerName": "Soonaverse",
+ "name": "Test Award 2",
+ "soonaverseId": "0x9c73f59193e9dcb5d7cba28b6afbb3ee9f39ba57",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreigpnwwkwyefeeyees3rt2sipfn3ykitp6q5afuxf3zi5lza2oucdm",
+ "version": "v1.0"
+}

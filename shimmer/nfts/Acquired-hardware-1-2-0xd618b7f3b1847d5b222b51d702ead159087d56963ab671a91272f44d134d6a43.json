@@ -1,0 +1,10 @@
+{
+ "description": "First part of required hardware.\nAttach a link to 'proof of cat' in twitter/reddit/whatever when participate with hashtag #proofofcat",
+ "issuerName": "Soonaverse",
+ "name": "Acquired hardware 1/2",
+ "soonaverseId": "0x30e5178fee7a155c2e4b9906990514294ac794e4",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreig4kpfktmc4nfaeqcudhnuhmtq5jfgedbjwb5zas7ddodegzcocge",
+ "version": "v1.0"
+}

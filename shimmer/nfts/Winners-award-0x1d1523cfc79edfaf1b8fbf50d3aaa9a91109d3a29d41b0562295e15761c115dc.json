@@ -1,0 +1,10 @@
+{
+ "description": "awarded to winners of the giveaway competition.\nrequired to obtain the free NFT from the giveaway collection.",
+ "issuerName": "Soonaverse",
+ "name": "Winners award",
+ "soonaverseId": "0xacf0e89d8ad3d623919c37bd3e8191d96dcff33b",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeicpijomwxu2hqkjzk72sntmwpbqykjlcmafrj5la74r75m2mzb5nu",
+ "version": "v1.0"
+}

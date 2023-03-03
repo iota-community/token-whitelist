@@ -1,0 +1,10 @@
+{
+ "description": "With this badge you will be able to get a discount of 20% on the little cookies collection",
+ "issuerName": "Soonaverse",
+ "name": "Cookie discount",
+ "soonaverseId": "0x6fd1f619e179e3f5521f90e05cc257bd3e855e8a",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiaigeeaa72nvduhjgkmjdsg6ihpjutfur4ep2flxpnrzpuy6rxhbm",
+ "version": "v1.0"
+}

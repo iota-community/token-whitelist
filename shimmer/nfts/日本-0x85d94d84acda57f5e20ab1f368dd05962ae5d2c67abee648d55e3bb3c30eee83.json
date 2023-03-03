@@ -1,0 +1,10 @@
+{
+ "description": "",
+ "issuerName": "Soonaverse",
+ "name": "日本",
+ "soonaverseId": "0x40d0c471db0956e27a3229ef50189ef46fa863a5",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreig4gzu5kma7v66w72d2dxfuuicijqfgkgluq2l5sv5hy6g2pyidxy",
+ "version": "v1.0"
+}

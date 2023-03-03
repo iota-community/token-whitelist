@@ -1,0 +1,13 @@
+{
+ "description": "## 🔥The Phunks arrived on the Tangle!🔥\n### Features\n✅ 1111 brand new randomly generated Phunks, there will never be additional\n\n✅ NO ROYALTY\n\n✅ Art is published under CC0\n\nFor more info: Follow us on Twitter @TanglePhunks\n\n### _Join us and help to establish crypto in a decentralized world🌍_",
+ "issuerName": "Soonaverse",
+ "name": "TanglePhunks",
+ "royalties": {
+  "smr1qz7l9afcl766u6pgnsxp3uszswzjgye262zpuqfq454qy0gcaz3szqnhkvu": null
+ },
+ "soonaverseId": "0x10bf2e0de02640a5c92bd117a95dde9ea6371404",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeifco5hzt4cykjmahkrlosycmvfd7uf7q5qbooy4y7b6kmkwolpnky",
+ "version": "v1.0"
+}

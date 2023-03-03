@@ -1,0 +1,10 @@
+{
+ "description": "The IOTA DACH NEWS Award",
+ "issuerName": "Soonaverse",
+ "name": "IOTA DACH NEWS Award",
+ "soonaverseId": "0xcd31a612f108baad93ad9f437a00547bfd143c08",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreietqw2sjkjec3kykykpkwosqsaxoe7z6gvcyf5e6nlsrbna6cn2n4",
+ "version": "v1.0"
+}

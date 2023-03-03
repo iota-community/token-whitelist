@@ -1,0 +1,10 @@
+{
+ "description": "Retweet our last Post with the minting details and leave your twitter handle here to receive min. 5% off our OG Collection\n\nTotal XP \u003e 19 = 5% off\nTotal XP \u003e 39 = 11% off\nTotal XP \u003e 41 = 22% off",
+ "issuerName": "Soonaverse",
+ "name": "Pre-Mint Info Twitter share",
+ "soonaverseId": "0x128876abf8233ad602a0d4eef69373ca3f052321",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeibhafncdwerletla6jgiv3uthagjkoo4fn6ychexmbvrj7qidv534",
+ "version": "v1.0"
+}

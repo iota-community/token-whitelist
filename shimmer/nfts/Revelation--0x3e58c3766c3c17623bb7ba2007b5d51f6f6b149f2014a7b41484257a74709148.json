@@ -1,0 +1,13 @@
+{
+ "description": "There are 10 NFTs in the collection.\nAll will be sold at auction, buyer gets nft + original canvas painting\n\n",
+ "issuerName": "Soonaverse",
+ "name": "Revelation ",
+ "royalties": {
+  "smr1qpjhaxr02w0kq7fdc49wst297zxjvkck26r392se6p2gy2qm5f3zz8mtn5q": 0.05
+ },
+ "soonaverseId": "0xf5de280d233b3f161640890ab104f1a421b547ca",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeibrlajjrbum3pwci27evrsvyffqhdewvdwt5k2na2xmwcd57bhbsy",
+ "version": "v1.0"
+}

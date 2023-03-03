@@ -1,0 +1,10 @@
+{
+ "description": "Just join",
+ "issuerName": "Soonaverse",
+ "name": "BeeKeeper",
+ "soonaverseId": "0x0a63aece49f98fb7eecb670844cdcc6e43c0663e",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeietgwjgimsbutkp2bxerhacbagskqmwvp5kdnffqbyvear3q6clku",
+ "version": "v1.0"
+}

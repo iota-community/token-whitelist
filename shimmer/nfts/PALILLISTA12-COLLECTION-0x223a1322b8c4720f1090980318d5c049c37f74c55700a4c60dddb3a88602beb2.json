@@ -1,0 +1,13 @@
+{
+ "description": "Collection Of Palillista12",
+ "issuerName": "Soonaverse",
+ "name": "PALILLISTA12 COLLECTION",
+ "royalties": {
+  "smr1qqxvnpxtxcvmnats8t5wylud9aklytuz8d8ap87xmyxzngsms5kxyycptjw": 0.1
+ },
+ "soonaverseId": "0x0df4a81601b21933e259a095c3b802a2661081eb",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeicvs34kk6rjyrt3guioy33jzwttxxzbyefflojxyh2cnoleodfjve",
+ "version": "v1.0"
+}

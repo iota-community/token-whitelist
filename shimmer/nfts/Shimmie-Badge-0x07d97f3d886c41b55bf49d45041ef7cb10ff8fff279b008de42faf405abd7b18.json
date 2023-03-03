@@ -1,0 +1,10 @@
+{
+ "description": "You must prove the purchase of at least 100 shimmer tokens, then I approve the badge that allows you to buy one of the exclusive shimmer release NFTs for 1 Mi.\nStay Funky! ",
+ "issuerName": "Soonaverse",
+ "name": "Shimmie Badge",
+ "soonaverseId": "0x57fc815a55ef96bb973ad06eb13ab4e9f9b3b11d",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreigu4afuagh6bt6q5ywztp6zbq3vgcyeubglonuvvacvow6b5r23oy",
+ "version": "v1.0"
+}

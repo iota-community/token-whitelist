@@ -1,0 +1,10 @@
+{
+ "description": "relax and drink a coffee",
+ "issuerName": "Soonaverse",
+ "name": "Have a coffee break",
+ "soonaverseId": "0x2f529ca393bdf1bc955f5a794164973f83d16756",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreigyfz5ws3v4kmayljwj7it56skwfnrbcfc2lmopctcshuvngder3u",
+ "version": "v1.0"
+}

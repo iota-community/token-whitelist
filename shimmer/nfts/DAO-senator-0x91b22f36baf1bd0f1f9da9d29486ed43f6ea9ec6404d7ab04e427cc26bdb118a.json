@@ -1,0 +1,10 @@
+{
+ "description": "This badge allows you to take part in the DAO voting. Be sure to indicate your discord in the field for applying for a badge.",
+ "issuerName": "Soonaverse",
+ "name": "DAO senator",
+ "soonaverseId": "0x651d0052b51847e780e5e70bc850734f9374431b",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeid4fhrgg6qq6s45eapetkiaxq65hqpm7fmr3zyyqt2jkqn7bcul3e",
+ "version": "v1.0"
+}

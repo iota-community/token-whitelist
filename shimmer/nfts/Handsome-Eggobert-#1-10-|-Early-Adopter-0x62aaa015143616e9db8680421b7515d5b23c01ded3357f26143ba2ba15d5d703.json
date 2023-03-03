@@ -1,0 +1,13 @@
+{
+ "description": "This collection is for owners of an Early Adopter 404 badge.\n\nMore information about the project: https://handsomeflappy.com",
+ "issuerName": "Soonaverse",
+ "name": "Handsome Eggobert #1-10 | Early Adopter",
+ "royalties": {
+  "smr1qpg8r75f8szfmdvzgtzwrkv3y33l7pywuqmwzevzxurtd4x5330ncy9pc6p": 0.1
+ },
+ "soonaverseId": "0x734187fc81774ef0c618c679a49b41b011aeed1f",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeifuqwkkzbrt5l23z7cbi256iwljhnhw2ihcyyoqgbazn4zxjqjbj4",
+ "version": "v1.0"
+}

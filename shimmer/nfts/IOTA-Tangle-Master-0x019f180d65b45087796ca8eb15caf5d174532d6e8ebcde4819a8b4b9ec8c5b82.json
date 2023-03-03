@@ -1,0 +1,10 @@
+{
+ "description": "Wer ist der TangleMaster",
+ "issuerName": "Soonaverse",
+ "name": "IOTA Tangle Master",
+ "soonaverseId": "0x91ec7f22c776d1f1b825c6eafe242f6d7ae63889",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "",
+ "version": "v1.0"
+}

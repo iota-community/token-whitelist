@@ -1,0 +1,10 @@
+{
+ "description": "Badge for the First ones",
+ "issuerName": "Soonaverse",
+ "name": "First",
+ "soonaverseId": "0xfa9116b34c70f3c3f29a48978cb25bda461edb43",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreihb3czyzdyah6w36fpi2kue3pt7tusurxfegk6z6p4keauf7t6mzm",
+ "version": "v1.0"
+}

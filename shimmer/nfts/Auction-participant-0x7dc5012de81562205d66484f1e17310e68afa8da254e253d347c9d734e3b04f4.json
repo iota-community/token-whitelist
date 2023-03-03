@@ -1,0 +1,10 @@
+{
+ "description": "Auction participant",
+ "issuerName": "Soonaverse",
+ "name": "Auction participant",
+ "soonaverseId": "0xdcfa20208654319de467541fa5ae8dddee105fc0",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiae4acmx7fyxmnepzm5nvh3cfnr4u22s7mtmfz3crfmcbft3ff42y",
+ "version": "v1.0"
+}

@@ -1,0 +1,13 @@
+{
+ "description": "The second coin you'll need for the pixelated future: the BITCOIN. Numbered coin title for each nft. Only 10 copies.",
+ "issuerName": "Soonaverse",
+ "name": "Pixel BITCOIN (Coin)",
+ "royalties": {
+  "smr1qqt58w88c5eeclldp7tq8shq3t7pgy38j0k9hfx9y86qa6p40zadjy6hkce": 0.07
+ },
+ "soonaverseId": "0x77ebe7d708484e2712c0e8004580c47e0a2786ed",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeifozszmacvmobhm66ptv7ezqrjgyybaaov3gab5bviwmteyzfty7q",
+ "version": "v1.0"
+}

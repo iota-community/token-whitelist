@@ -1,0 +1,13 @@
+{
+ "description": "Vous ne pouvez en posséder qu'un seul, un portrait pour chaque âme.\n\n\"You can only own one, one portrait for each soul.\"\n\n100% from each NFT mint goes towards trading capital where, when possible, ongoing earnings are equally shared and airdropped to NFT holders.\n\n58 unique NFTs made up of 29 Portraits of the horrible and inhuman. Available in blood-stained-freshly-acquired along with cleaned and restored variations.",
+ "issuerName": "Soonaverse",
+ "name": "1. Portraits de l'horrible et de l'inhumain",
+ "royalties": {
+  "smr1qp03e3v58gqvqmed8eh5w42qwgyq7sldw42vvn70jle0lsuyd9g27wmm2t5": 0.25
+ },
+ "soonaverseId": "0x7a3e30957bfbee684c9824d703b67b13d3010f55",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeid3si7st6nakw2yufnhjv4dtsu3hos27gr5akghcdendbrcgzt5ja",
+ "version": "v1.0"
+}

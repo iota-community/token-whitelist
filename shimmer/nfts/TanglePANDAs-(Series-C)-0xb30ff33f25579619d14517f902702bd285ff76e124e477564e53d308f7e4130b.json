@@ -1,0 +1,13 @@
+{
+ "description": "Find your personal favorite among the strong characters of the TanglePANDAs series C.\nThese TanglePANDAs are of the \"hard kind\" and don't tolerate any contradiction. \n\nSeries C - Discount levels for members on the basic price: 50% - XP \u003e 50 points, 70% - XP \u003e 100 points (subject to change).",
+ "issuerName": "Soonaverse",
+ "name": "TanglePANDAs (Series C)",
+ "royalties": {
+  "smr1qr4dpkzmddxts4qseak9rxam90x6gmemzxc8f2z07e0aent0alkykf2pnaq": 0.1
+ },
+ "soonaverseId": "0x769ceab9f3bf0f054861fa5885821e0c87d07cd7",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiayauqgpcegtmcidlmtkda7tsaee4kyjkdn33ylsjt6uor4tpszs4",
+ "version": "v1.0"
+}

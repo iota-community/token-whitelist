@@ -1,0 +1,10 @@
+{
+ "description": "Follow: https://twitter.com/gamer_granpa",
+ "issuerName": "Soonaverse",
+ "name": "Follow on twitter",
+ "soonaverseId": "0xbfc7698cb62612eeec6670552d8b747daf1f678f",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreigwkh7wjfncchnfo7ocrqy7m4nx66mfopeoge3lfi2sxakqy3ko34",
+ "version": "v1.0"
+}

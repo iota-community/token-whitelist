@@ -1,0 +1,13 @@
+{
+ "description": "22 cute little creatures, for only 22 SMR, created in 2022",
+ "issuerName": "Soonaverse",
+ "name": "Cute little creatures - The 22x22x2022 Collection",
+ "royalties": {
+  "smr1qray9ucd8fgdmqj6nnaqme2hfjcz9cq9mhjan62hr7xgn0fkrk54zmld3dz": 0.05
+ },
+ "soonaverseId": "0xbf5565f2b8f8a2cc794599fdaded2b6637b78761",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeicchkbrdkxruyiugcimt3o46hmaacdi63rxuj3r5c2d2d7he6oqdu",
+ "version": "v1.0"
+}

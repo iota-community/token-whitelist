@@ -1,0 +1,13 @@
+{
+ "description": "100 unique designs - 100 Units of each. No more TinyBots units will be ever created.\n\nOwning 1/100 TinyBots NFT means that you can use the image however you like, for private or commercial use.\n\nIf you want all rights reserved exclusively, you must get all units of each image.\n\nI wish you good luck and a good life. All the love. All the power",
+ "issuerName": "Soonaverse",
+ "name": "TinyBots",
+ "royalties": {
+  "smr1qznk5wvng3ae855sk9faszpc97lnf5rac45cecptx5u3ny7q59lxz32xz4n": 0.1
+ },
+ "soonaverseId": "0x24f806b2d299478cf9d91e25619b57ae731eb5bb",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeifkcxkfogwgeepy3rxdugcm4qzmzqtnu7hz5pgz6x3dzplenqxzwi",
+ "version": "v1.0"
+}

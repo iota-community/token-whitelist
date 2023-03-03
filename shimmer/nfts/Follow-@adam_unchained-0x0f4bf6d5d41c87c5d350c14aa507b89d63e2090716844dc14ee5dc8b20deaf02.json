@@ -1,0 +1,10 @@
+{
+ "description": "Follow @adam_unchained and receive 1 SMR.\n\nMake sure to mention your Twitter handle when you participate in the award.",
+ "issuerName": "Soonaverse",
+ "name": "Follow @adam_unchained",
+ "soonaverseId": "0x5cdb3e6d0052a8a16387a6dff3de4a863fc7be49",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafkreiai3blwh3ps27n2u72rrhkxg3e3x7ijyjsrugimdenj2tirjwgism",
+ "version": "v1.0"
+}

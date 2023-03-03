@@ -1,0 +1,10 @@
+{
+ "description": "BeehiveCoworker",
+ "issuerName": "Soonaverse",
+ "name": "BeehiveCoworker",
+ "soonaverseId": "0x32d31896966a4b5eb98371cee3c3e2e7d5264cdb",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeietgwjgimsbutkp2bxerhacbagskqmwvp5kdnffqbyvear3q6clku",
+ "version": "v1.0"
+}

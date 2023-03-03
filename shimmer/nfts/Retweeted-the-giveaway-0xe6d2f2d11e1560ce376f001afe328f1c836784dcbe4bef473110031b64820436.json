@@ -1,0 +1,10 @@
+{
+ "description": "Claim this Badge and XP if you participated in the Twitter giveaway",
+ "issuerName": "Soonaverse",
+ "name": "Retweeted the giveaway",
+ "soonaverseId": "0xc28156d76ae5a449fa3e3dcdaec7cd85d2219834",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeibhafncdwerletla6jgiv3uthagjkoo4fn6ychexmbvrj7qidv534",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "Award for following RGL on Twitter - https://twitter.com/retrogamelib",
+ "issuerName": "Soonaverse",
+ "name": "RGL Tweeter",
+ "soonaverseId": "0x58bace7bd01397e11784792f8f445e43a5154f5d",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreicjlytyevh5eq37amclck3uzlmfdjq2roxw4qrvqfuzen2r2eeuyi",
+ "version": "v1.0"
+}

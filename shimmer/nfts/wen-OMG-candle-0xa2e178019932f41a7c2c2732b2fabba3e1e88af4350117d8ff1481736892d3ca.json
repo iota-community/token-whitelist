@@ -1,0 +1,10 @@
+{
+ "description": "wen OMG candle",
+ "issuerName": "Soonaverse",
+ "name": "wen OMG candle",
+ "soonaverseId": "0x5aa5543fea22b46bc5be8e6e2a93d4d22be54b55",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreibbn5rno7j6ujmegetm2hkiut5jo2fqsevwzhq6h6cl5bydr7riaq",
+ "version": "v1.0"
+}

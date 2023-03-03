@@ -1,0 +1,10 @@
+{
+ "description": "@IOTALIENS\n",
+ "issuerName": "Soonaverse",
+ "name": "IOTALIENS",
+ "soonaverseId": "0xd24198b3c08a50d61b0f6594e2323b199d8b2a5c",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreibttwcy27su3ue2cqi7zehommbkksptdv2ntgqdycom6vp6sbg4ia",
+ "version": "v1.0"
+}

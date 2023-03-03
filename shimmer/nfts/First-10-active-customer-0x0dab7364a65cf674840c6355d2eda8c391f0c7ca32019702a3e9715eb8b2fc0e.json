@@ -1,0 +1,10 @@
+{
+ "description": "Be among the first 10 customers with at least one sale.",
+ "issuerName": "Soonaverse",
+ "name": "First 10 active customer",
+ "soonaverseId": "0xfc3ddca397afa96b42a63975fb80a972fd7cc2e3",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreibijv5agorv4ezfvs26l6k6zqyn5xmkuoi6v557jpuvkopqt4hhkm",
+ "version": "v1.0"
+}

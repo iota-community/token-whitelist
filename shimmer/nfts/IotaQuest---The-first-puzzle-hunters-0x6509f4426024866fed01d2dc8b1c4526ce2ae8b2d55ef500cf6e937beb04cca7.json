@@ -1,0 +1,10 @@
+{
+ "description": "This award can be claimed by any Riddler who has purchased a puzzle in the Genesis Scavenger Hunt.",
+ "issuerName": "Soonaverse",
+ "name": "IotaQuest - The first puzzle hunters",
+ "soonaverseId": "0x5d0137257d4534d623d80d2de8e2a755b35988e7",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreicyzigf7ahg52glq6xoekwclfksvptaogoatc65dk7msky7dvhy7q",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "testy testy",
+ "issuerName": "Soonaverse",
+ "name": "testy testy",
+ "soonaverseId": "0x2f95b18e09a121318c032a4ae0ef461f3fd7050b",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiagcygkftgbxriz7xe7suwwwy37xjb6fw5pfjalw5d3k5udsbvy3a",
+ "version": "v1.0"
+}

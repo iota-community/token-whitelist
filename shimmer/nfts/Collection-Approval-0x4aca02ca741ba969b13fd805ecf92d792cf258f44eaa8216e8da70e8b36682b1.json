@@ -1,0 +1,10 @@
+{
+ "description": "Apply for this badge if you want to create NFT collections on the Soonaverse Marketplace.",
+ "issuerName": "Soonaverse",
+ "name": "Collection Approval",
+ "soonaverseId": "0x78e16b91cff436982d01a2adc36609a255befb01",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreieenf2z6yy4l5afiegy333jwi2f72hvtn4q6bhesin62ycv7ht5ju",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "first music badge ",
+ "issuerName": "Soonaverse",
+ "name": "music badge",
+ "soonaverseId": "0x39c3583098f242c58340f180d2587fd56f96858a",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeibttnn44oscio4srubaxgk3toes7i7rerbduhlwmeqdbulxan55ay",
+ "version": "v1.0"
+}

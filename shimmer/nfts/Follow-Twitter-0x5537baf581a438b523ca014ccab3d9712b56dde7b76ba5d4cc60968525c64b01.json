@@ -1,0 +1,10 @@
+{
+ "description": "Please follow me on twitter and also the other IOTA projects.\nTogether, we will spread the good news about IOTA Ecosystem.\nhttps://twitter.com/AlAminao\nhttps://twitter.com/KryptoniteAli",
+ "issuerName": "Soonaverse",
+ "name": "Follow Twitter",
+ "soonaverseId": "0x63f92d584ff04b009dad53bfff30fb5486b16358",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiaefohkrtkbj46ckpprulnexj4r7plythj35rjlbl452t5ek3p42m",
+ "version": "v1.0"
+}

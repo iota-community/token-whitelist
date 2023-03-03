@@ -1,0 +1,13 @@
+{
+ "description": "First generation of miniotas where the first generation will be completed, later I will launch the gym medals and the rewards for having the medals and for having miniotas.\n",
+ "issuerName": "Soonaverse",
+ "name": "50% discount 1º GENERATION MINOTAS ",
+ "royalties": {
+  "smr1qq82m54vhnswnvtg0n9h83s7v0l9r25s5s0um96g3gw6y06nlwecza06teu": 0.08
+ },
+ "soonaverseId": "0x2adb9c094bcc80c065986b63704e451527d9eb40",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeib64efx72ktbztpzwt7jmav52wcsjpaftwc6ovq6zs3jkq43t7iii",
+ "version": "v1.0"
+}

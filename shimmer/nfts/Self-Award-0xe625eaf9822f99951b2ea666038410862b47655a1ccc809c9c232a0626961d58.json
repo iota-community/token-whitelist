@@ -1,0 +1,10 @@
+{
+ "description": "",
+ "issuerName": "Soonaverse",
+ "name": "Self Award",
+ "soonaverseId": "0x7e5a0ba55c13e4f5f1a7799cc4d21537635b0ace",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreigjqq5sxbev7siwacnetknvljoceha4mqz5ng63nbh2yvfpssc32a",
+ "version": "v1.0"
+}

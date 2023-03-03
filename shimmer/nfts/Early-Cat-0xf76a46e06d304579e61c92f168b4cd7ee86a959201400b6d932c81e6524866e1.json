@@ -1,0 +1,10 @@
+{
+ "description": "Only the early cat catches the bird, who catches the worm",
+ "issuerName": "Soonaverse",
+ "name": "Early Cat",
+ "soonaverseId": "0x025c75fa4e01d190da2c1aee2a5c31259b8fcf91",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiavvro2hp3gsiebtfxtguyqlt2iwhet7nfgoc66wrvecgbahejtii",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "Award of OG members of the Doge DAO",
+ "issuerName": "Soonaverse",
+ "name": "OG DOGE DAO",
+ "soonaverseId": "0x94aa1fb0255e20db4639f5222e50be9bc3f4e6ac",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeid4fhrgg6qq6s45eapetkiaxq65hqpm7fmr3zyyqt2jkqn7bcul3e",
+ "version": "v1.0"
+}

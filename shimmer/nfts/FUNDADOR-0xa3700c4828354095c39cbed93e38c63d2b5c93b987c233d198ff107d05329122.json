@@ -1,0 +1,10 @@
+{
+ "description": "Premio insignia de fundador del proyecto",
+ "issuerName": "Soonaverse",
+ "name": "FUNDADOR",
+ "soonaverseId": "0x414c0fa644462804c2d0f34da3b497a47d465bb9",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiddxfky7ise3xgfudletk5wwyf7qnomsizo4oju47smw5qv7zr47q",
+ "version": "v1.0"
+}

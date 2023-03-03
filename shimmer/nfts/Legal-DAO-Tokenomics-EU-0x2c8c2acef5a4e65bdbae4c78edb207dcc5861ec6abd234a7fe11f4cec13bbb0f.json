@@ -1,0 +1,10 @@
+{
+ "description": "We are planning a token model for our renting services and the DAO governance.\nThe focus is to keep everything legal inside and outside of the EU jurisdiction.\n\nWir planen ein Token Modell das unsere Mietdienste und DAO Verwaltung untermauert.\nDer Fokus liegt auf juristischen Fragen in und ausserhalb der EU.\n\nUsers are supposed to :\n- buy and sell tokens\n- utilize tokens on the plattform \n- rent nfts / swap nfts / pay fees \n- stake tokens and earn a roy\n- make dao proposals\n- participate in votings\n\nUser sollen in der lage sein :\n- Token zu kaufen und verkaufen\n- Tokens auf unserer Plattform benutzen\n- NFTs vermieten / NFTs tauschen / Gebühren bezahlen\n- Tokens staken und Tantiemen verdienen\n- DAO Wahlvorschläge einreichen \n- an DAO Wahlen teilnehmen \n\nOur goal is a legal and fair contract that does not interfere with EU law.\nUnser Ziel ist ein legaler und fairer Vertrag der mit den EU rechten übereinstimmt.\n\n\n",
+ "issuerName": "Soonaverse",
+ "name": "Legal DAO Tokenomics EU",
+ "soonaverseId": "0xd62f743faf780936b12c4a111383413e9b28a868",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreid66xtupw2q4hqre5oqzcdwmadvw27y6thxa4xqcolxjqhjoyepbq",
+ "version": "v1.0"
+}

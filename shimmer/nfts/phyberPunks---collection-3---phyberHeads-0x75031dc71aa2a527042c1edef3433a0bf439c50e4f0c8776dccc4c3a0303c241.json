@@ -1,0 +1,13 @@
+{
+ "description": "rare and unique phyberHeads \nof the phyberPunks-collection\nonly for members of the phyberPunks space",
+ "issuerName": "Soonaverse",
+ "name": "phyberPunks - collection 3 - phyberHeads",
+ "royalties": {
+  "smr1qpq5l7pva6562ysu0afj83avq3cp42v55gwhm5nvvknm5zeugzkx2u8ey50": 0.1
+ },
+ "soonaverseId": "0x85f9e9010e7e1fd69432cc6309e065cd3b25926b",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeiciu3utlxw3omm5tzpqx44xcwix4hu3ix5urcqo2o7momrakpth3y",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "Rocketepremio",
+ "issuerName": "Soonaverse",
+ "name": "Rocketepremio",
+ "soonaverseId": "0x661cd9d061f27ff3130a6f141190a3849f5d0699",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "",
+ "version": "v1.0"
+}

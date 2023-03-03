@@ -1,0 +1,13 @@
+{
+ "description": "Mars x DAObee Giveaway",
+ "issuerName": "Soonaverse",
+ "name": "Mars x DAObee Giveaway",
+ "royalties": {
+  "smr1qryual0lr5y4ed3d2hlmz9z3sra3eny0ghc8d868kslmx8k85ydxk3y7vj6": 0.1
+ },
+ "soonaverseId": "0xbf0d41981261884d44995539dea5380f78c2f1b5",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeidjzux4rauhp5cxapg3ewbjrnmb2xmoynh3mu56nxkcghfrywyfp4",
+ "version": "v1.0"
+}

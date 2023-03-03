@@ -1,0 +1,13 @@
+{
+ "description": "100 unique designs - Limited Edition",
+ "issuerName": "Soonaverse",
+ "name": "Plant Bojos",
+ "royalties": {
+  "smr1qznk5wvng3ae855sk9faszpc97lnf5rac45cecptx5u3ny7q59lxz32xz4n": 0.04
+ },
+ "soonaverseId": "0x88108428e778f1181c09df34e289c36bb9ebc9e7",
+ "standard": "IRC27",
+ "type": "application/octet-stream",
+ "uri": "ipfs://bafybeienoxfowgnhtiblzw24gm6ghfjzetyhmynp4lun2tc36nxete3rv4",
+ "version": "v1.0"
+}

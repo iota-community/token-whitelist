@@ -1,0 +1,10 @@
+{
+ "description": "Combine your Twitter profile with the Soonaverse space to check.\n",
+ "issuerName": "Soonaverse",
+ "name": "For our Twitter followers until March 1, 2022 21:00 CET",
+ "soonaverseId": "0xb5f7fea00b89d7b47e2bda344ac2a9dce3333fad",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreicjqxf32cqguygpmcyl6dplwqr32yam6yso4ykw7wq6kx5dyuqx6m",
+ "version": "v1.0"
+}

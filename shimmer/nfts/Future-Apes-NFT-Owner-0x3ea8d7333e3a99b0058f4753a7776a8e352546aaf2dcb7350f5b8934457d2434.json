@@ -1,0 +1,10 @@
+{
+ "description": "If you own one or more Future Apes NFTs, you will be able to receive the award. More information will be released soon.",
+ "issuerName": "Soonaverse",
+ "name": "Future Apes NFT Owner",
+ "soonaverseId": "0x49ccd17da3a102379ec77245b22998d53aed3320",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeihpaj5dceqyywjwnr4injempniei2wwcgxviu6efhd2gbqfjxtzwy",
+ "version": "v1.0"
+}

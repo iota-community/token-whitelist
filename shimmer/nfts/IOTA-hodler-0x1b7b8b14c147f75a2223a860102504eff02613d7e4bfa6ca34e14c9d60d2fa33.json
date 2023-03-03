@@ -1,0 +1,10 @@
+{
+ "description": "IOTA hodler",
+ "issuerName": "Soonaverse",
+ "name": "IOTA hodler",
+ "soonaverseId": "0x9afc10153ec8aa3384310a485e845936597e4cec",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "",
+ "version": "v1.0"
+}

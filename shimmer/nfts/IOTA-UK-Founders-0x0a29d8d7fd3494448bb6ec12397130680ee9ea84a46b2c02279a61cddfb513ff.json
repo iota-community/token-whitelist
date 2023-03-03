@@ -1,0 +1,10 @@
+{
+ "description": "IOTA UK Founders Group",
+ "issuerName": "Soonaverse",
+ "name": "IOTA UK Founders",
+ "soonaverseId": "0x14a3c8b52adc85fe760b00b6287a72d9796e0042",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreig5ch6ltu2p76d44a7jacfgrlnn2dqyfr57zn6gk755mcgxxdxwlq",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "Propose an alliance with another space to recognize experience from",
+ "issuerName": "Soonaverse",
+ "name": "Propose alliances",
+ "soonaverseId": "0x58952db30ca44f637f1bd93695bb9968f81a2426",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreig4kpfktmc4nfaeqcudhnuhmtq5jfgedbjwb5zas7ddodegzcocge",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "The first 500 will get this badge",
+ "issuerName": "Soonaverse",
+ "name": "Blue Jacket Partner",
+ "soonaverseId": "0x36e086e041fc3e353f6612bfe4ba4cdf3094a484",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreigu7dnziwtpnsucdgxrh44rr77kmpnbedd6lqvwuhfuhsrjy3xx2y",
+ "version": "v1.0"
+}

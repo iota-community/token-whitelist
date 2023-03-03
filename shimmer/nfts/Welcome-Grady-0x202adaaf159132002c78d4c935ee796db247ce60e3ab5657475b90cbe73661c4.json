@@ -1,0 +1,10 @@
+{
+ "description": "Welcome test",
+ "issuerName": "Soonaverse",
+ "name": "Welcome Grady",
+ "soonaverseId": "0x2a85911e55a70bf6aa6cbaa3361ef76c151d3446",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreibiyduykpwlhq5nrlulmltwfqgdhe7fkw7yjccrpsxlxqayecxl6q",
+ "version": "v1.0"
+}

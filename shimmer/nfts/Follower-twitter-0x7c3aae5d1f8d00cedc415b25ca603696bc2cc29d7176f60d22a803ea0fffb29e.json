@@ -1,0 +1,10 @@
+{
+ "description": "Follow my twitter for an XP addon and nfts news.",
+ "issuerName": "Soonaverse",
+ "name": "Follower twitter",
+ "soonaverseId": "0x3039a98868df62faec17423964beaebdc46625f6",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreihnv7wslwr44i2w3wkjhvrmlr4cfx2dd6tt2ubqmifrthwa72qkb4",
+ "version": "v1.0"
+}

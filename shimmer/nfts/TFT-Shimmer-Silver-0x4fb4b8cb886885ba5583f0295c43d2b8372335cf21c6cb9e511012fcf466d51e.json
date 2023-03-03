@@ -1,0 +1,13 @@
+{
+ "description": "The latest from the #TFTNFT collection is the TFT Shimmer Silver NFT which has been created to support The Fans Together DAO to continue to  #buidl in readiness for Shimmer!\n\nThis NFT is redeemable for $TFT 6,000 at Shimmer launch and is one part of a set (along with TFT Shimmer Gold and TFT Shimmer Diamond) \nthat will unlock a bonus free Assembly NFT when Shimmer launches! This bonus NFT will have a 25% bonus, so when you claim your tokens you will receive a combined 170,000 $TFT tokens with a full set. Beyond the tokens, these NFTs will have also have an updated utility as our gameplay strategy is implemented. Watch this space for updates. \n\nThe TFT Shimmer Silver NFT will allow those interested in our mission to receive $TFT and support a project that has always been rooted in the IOTA ecosystem and allow the DAO to take another step forward in readiness for the exciting Shimmer launch. Come join our discord and read the whitepaper for more info and to chat with the team. Thanks for looking - We’d love your support!\n\nJoin our discord here: discord.gg/jHFCY2aGsv",
+ "issuerName": "Soonaverse",
+ "name": "TFT Shimmer Silver",
+ "royalties": {
+  "smr1qqplwc0zcxkjmfkxwz49cypcryy8a6yhf40ch0n750n82vsgkuqgy6s78mz": 0.1
+ },
+ "soonaverseId": "0xd1a7af406de6d3e3e08368e89703baabcc3d4265",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeihhnpe3mjtr4tvxgj7hszfl2lkhsjhphew7jjhxwvfozso2eccf4q",
+ "version": "v1.0"
+}

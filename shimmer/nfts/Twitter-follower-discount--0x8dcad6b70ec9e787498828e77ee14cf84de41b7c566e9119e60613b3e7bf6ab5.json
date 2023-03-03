@@ -1,0 +1,10 @@
+{
+ "description": "Follow @NFiotaTopia on Twitter for a 10% discount on all NFT purchases! \n\nMake sure to include your Twitter @handle so we can verify! ",
+ "issuerName": "Soonaverse",
+ "name": "Twitter follower discount ",
+ "soonaverseId": "0x853b9eb9d395de4f6857286b20c952969235a739",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreibsl3cfkchof6nwgr2crx23kgv2zyxdqjyo2dhv3g2gu46x3mhp34",
+ "version": "v1.0"
+}

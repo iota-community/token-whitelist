@@ -1,0 +1,10 @@
+{
+ "description": "Come into the hive!",
+ "issuerName": "Soonaverse",
+ "name": "Join us!",
+ "soonaverseId": "0xfd8db12b70e3aacb6bc2ddab76341d0b3365e3f4",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreifvwsweonkqelq4gadnge3ctz3putj6u5p34vi2etqactzvb3s4cy",
+ "version": "v1.0"
+}

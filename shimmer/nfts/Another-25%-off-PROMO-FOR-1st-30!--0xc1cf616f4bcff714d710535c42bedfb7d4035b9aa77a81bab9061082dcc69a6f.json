@@ -1,0 +1,10 @@
+{
+ "description": "This promo will give you 25% off the IOTA Bulls$, but only 1st 30 Soonaversers will receive it! ",
+ "issuerName": "Soonaverse",
+ "name": "Another 25% off PROMO FOR 1st 30! ",
+ "soonaverseId": "0x09ffaa478a67e21ffe144311598c81c674f2a04d",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreigmzfhovrjecaw6cyv3hl7mgrjeee3bovaopbjn2huhhk722dc5my",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "Get a nft from the DarkBunny collection.",
+ "issuerName": "Soonaverse",
+ "name": "DarkBunny's collector",
+ "soonaverseId": "0x482316c87ff52ff1f9c25a33dd28fb223e867935",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiadhxlk2dpytueo55jn6ezfvaxo2uwyap4r23vjd4etis7oha6ur4",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "Kiwi",
+ "issuerName": "Soonaverse",
+ "name": "Kiwi",
+ "soonaverseId": "0x534c088d5e0a3b8539c3bd390e3686f8662da071",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreihboyl2d6kkjzxkz6oimfxv5xqbadifa66ziqfmc47vrrkip2qveq",
+ "version": "v1.0"
+}

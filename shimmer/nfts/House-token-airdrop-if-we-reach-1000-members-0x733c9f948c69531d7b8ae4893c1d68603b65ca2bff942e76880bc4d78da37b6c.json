@@ -1,0 +1,10 @@
+{
+ "description": "We will send everyone an airdrop if we reach 1000 members on our space\nTo get your badge, you need to be following our space and get this award\n\nThe award expires end of februari",
+ "issuerName": "Soonaverse",
+ "name": "House token airdrop if we reach 1000 members",
+ "soonaverseId": "0xaf83b43d7abf7c665fd6e4a9cd87236eec67f34f",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeihx3q6imvpmpuetz7c47znqaq46by6pr6ysrimd5q7oayeb7f666i",
+ "version": "v1.0"
+}

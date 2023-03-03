@@ -1,0 +1,10 @@
+{
+ "description": "Join the Space",
+ "issuerName": "Soonaverse",
+ "name": "Join the Eschi'Space",
+ "soonaverseId": "0x69643aa8a5e5e16c9b41bfaf39983b2716630298",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeib5xaw7xux33yk7q7fai2tja3zi2t2e7k72ief4cu3mis26kcatmm",
+ "version": "v1.0"
+}

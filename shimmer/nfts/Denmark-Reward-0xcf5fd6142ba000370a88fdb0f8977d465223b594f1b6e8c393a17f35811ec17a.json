@@ -1,0 +1,10 @@
+{
+ "description": "Denmark Reward",
+ "issuerName": "Soonaverse",
+ "name": "Denmark Reward",
+ "soonaverseId": "0x0cd4958d18f95d90d89090ced7fca3eb06702963",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiad7nycwwfepp2upbl3jm2cermkb3m6xrt32nut3grioiqfjfdaxq",
+ "version": "v1.0"
+}

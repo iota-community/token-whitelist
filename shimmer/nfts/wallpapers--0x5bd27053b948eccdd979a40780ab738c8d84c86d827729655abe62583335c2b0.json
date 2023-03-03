@@ -1,0 +1,13 @@
+{
+ "description": "Exclusive wallpapers for smartphone. Get one!\nbecome the owner of an exclusive wallpaper and we will send it to the address you tell us, and why not? you can also make an exclusive gift to the person of your choice!! you only need to leave us an address or link where you can send it to us. You can also find us on the Reina IOTA server on Discord.\nHealth and music.",
+ "issuerName": "Soonaverse",
+ "name": "wallpapers ",
+ "royalties": {
+  "smr1qq3fzl8h32k8wc5h6779sl3cgwvr54t0zax6dvz7y9negjxltskz73tktaz": 0.01
+ },
+ "soonaverseId": "0xc2b5893dc31855a7f1c35a67a81df33c4feec5e8",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeifl64njsj35n4x7omu6cw7x7iqj7spq4czmphlcbp6y4e26t3cpr4",
+ "version": "v1.0"
+}

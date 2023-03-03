@@ -1,0 +1,10 @@
+{
+ "description": "Ehdota Suomen iotanauteille omaa domainia! iotasuomi.com? iotanautit.fi? fiota?\n\nEhdota vaikka kerralla useampaa ja jos näet jonkun ehdotuksen jota haluat kannattaa, lisää se oman ehdotuksesi joukkoon.\n\nFinaaliin valitaan 10 suosituinta ja niistä järjestetään äänestys proposals välilehdellä",
+ "issuerName": "Soonaverse",
+ "name": "Ehdota domain nimeä",
+ "soonaverseId": "0x5da54d0e0e9016042f9b7d578641b6433a8866d5",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreihnutskuejodnqamf4zla6uat732qcvr2523j6sxibt7ax5p4b7su",
+ "version": "v1.0"
+}

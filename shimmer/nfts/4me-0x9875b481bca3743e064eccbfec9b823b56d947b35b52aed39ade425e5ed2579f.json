@@ -1,0 +1,10 @@
+{
+ "description": "4me",
+ "issuerName": "Soonaverse",
+ "name": "4me",
+ "soonaverseId": "0x6b197beb91e7f5c5bdb2757654ca8581e65a2413",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiayza4dzrli5kr75darturbrivmcmhzuudrtuqaam4zhrycehqh24",
+ "version": "v1.0"
+}

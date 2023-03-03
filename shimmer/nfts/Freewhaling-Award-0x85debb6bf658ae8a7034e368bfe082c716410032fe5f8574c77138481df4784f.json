@@ -1,0 +1,10 @@
+{
+ "description": "This award will let you claim one IOTA Whale for free when they go on sale.",
+ "issuerName": "Soonaverse",
+ "name": "Freewhaling Award",
+ "soonaverseId": "0x85f1adf94f33e63aff85687ccbe7870216427a37",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreib2sgeqrdq3ln3bqf3rb7ptoyrvjdojpt4pc74eqb6jlo4lbbqsju",
+ "version": "v1.0"
+}

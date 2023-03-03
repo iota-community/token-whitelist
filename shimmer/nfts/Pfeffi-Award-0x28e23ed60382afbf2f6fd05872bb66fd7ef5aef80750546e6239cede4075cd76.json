@@ -1,0 +1,10 @@
+{
+ "description": "Awesome Pfeffi Award",
+ "issuerName": "Soonaverse",
+ "name": "Pfeffi Award",
+ "soonaverseId": "0x5ef2f63a2b9bce75ce7310e11f62803a862a436e",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreihb6yk27374elk43cotp523z46wnr5drdrlteexyybwe2jmknnh7e",
+ "version": "v1.0"
+}

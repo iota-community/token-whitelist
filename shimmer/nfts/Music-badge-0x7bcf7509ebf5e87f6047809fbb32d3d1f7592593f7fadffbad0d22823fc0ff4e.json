@@ -1,0 +1,10 @@
+{
+ "description": "Join the Club ",
+ "issuerName": "Soonaverse",
+ "name": "Music badge",
+ "soonaverseId": "0xa0bd715c071b42be0fbe6a83ef94361e3a3abb96",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreibzb3srpxwqck5natk2bqlwzb5x2elwxqzx46doxcgjzdtj7uozoi",
+ "version": "v1.0"
+}

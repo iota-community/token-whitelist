@@ -1,0 +1,10 @@
+{
+ "description": "Are you ready?",
+ "issuerName": "Soonaverse",
+ "name": "Soonaverse.nft?",
+ "soonaverseId": "0xed3eb94461bd00a9ba626b5914597802c8103df2",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreifkmagxmvdjxmdkiga3ouelsv3ikyaunu4c56gz4h2a7pfyzd4jhq",
+ "version": "v1.0"
+}

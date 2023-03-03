@@ -1,0 +1,13 @@
+{
+ "description": "This is a collection of DigiRocket NFT Class 1/Pack 2 (C:1/P:2). There are in total only 20 different design rockets. In the near future it will be possible to use the Rocket-NFTs in the game. Depending on the class, rockets have specific abilities that are unlocked for the player. The class 1 rockets are suitable for enthusiasts and collectors but also for speculators. The player can use the twist attack in the game at any time and the special abilities hold twice. In addition, you collect twice of coins. The idea for the DigiRocket game was inspired by the Tangle technology. Use the rocket to move around the tangle world and beat the crypto market competition by completing the levels. In the game you can collect IOTA coins and pay them out to your private wallet. All revenue from selling Rocket NFTs go towards to the development of the game, so we can keep making it better for you. The team DigiMine wishes you fun to play and earn IOTA coins.",
+ "issuerName": "Soonaverse",
+ "name": "DigiRocket-NFT C:1 P:2",
+ "royalties": {
+  "smr1qrj5funkmfhf3fh0unx40g7nzr2z8yf6txe95w0jevdv92thplj8kk94wyc": 0.05
+ },
+ "soonaverseId": "0xa47ced0ac6ce6ee7f2d11cc6c83091dd556e2d31",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeibhbzekg5ctfaskr4zcfit7hwhwd5ddcs56755a4t75erazosilxa",
+ "version": "v1.0"
+}

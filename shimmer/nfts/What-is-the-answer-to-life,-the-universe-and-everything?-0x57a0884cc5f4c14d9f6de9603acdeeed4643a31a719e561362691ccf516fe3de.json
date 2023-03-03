@@ -1,0 +1,10 @@
+{
+ "description": "What do you think the answer to life is?",
+ "issuerName": "Soonaverse",
+ "name": "What is the answer to life, the universe and everything?",
+ "soonaverseId": "0xe7496da638b77c13e3bc229a2aa44cfa69b68fa0",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreifstpbvwuf3vjel64ggggx7ao4cvsqmaq42m5g7scq2uqf7cdthdi",
+ "version": "v1.0"
+}

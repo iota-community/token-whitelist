@@ -1,0 +1,10 @@
+{
+ "description": "The Early Adopters NFT",
+ "issuerName": "Soonaverse",
+ "name": "The Early Adopters NFT",
+ "soonaverseId": "0xdb4ecc24c41ec752c93fcf54c5320cd6645bb2fc",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreigpurf6epuonvns3wpqgfw7nhoxfmuhy3t7atwtey24mm57w22kaq",
+ "version": "v1.0"
+}

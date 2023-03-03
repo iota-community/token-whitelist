@@ -1,0 +1,10 @@
+{
+ "description": "On whatever day you read this, tell me about it!",
+ "issuerName": "Soonaverse",
+ "name": "Tell me about your day!",
+ "soonaverseId": "0x042299b004c172a236c6876eee9f26ede4fdeac6",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreifstpbvwuf3vjel64ggggx7ao4cvsqmaq42m5g7scq2uqf7cdthdi",
+ "version": "v1.0"
+}

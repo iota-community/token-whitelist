@@ -1,0 +1,13 @@
+{
+ "description": "The Platinum Card is your ticket to the Bivreost web extension structure! The complete collection includes 100 branded cards. Here are some of the benefits for our holders:\n\n- Exclusive design.\n- System avatar for the web extension.\n- Guaranteed access to 1 presale BI token giveaway.\n- Distribution of unrealized BI token sale input.\n- Binding and synchronization with Telegram contacts.\n\nWe draw the attention of our users to the fact that one user cannot have several cards.",
+ "issuerName": "Soonaverse",
+ "name": "PLATINUM",
+ "royalties": {
+  "smr1qqj7wm37ltmazaly9fpqnfek6kt6q4s90s8aeed3l8fndtsaq08n50zlzzm": 0.05
+ },
+ "soonaverseId": "0xee33839c92dd574456c1ca05bd7bc9d62c3d5f7e",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiaohaxs47opx4v6hkwngfvlyuvq3imcicdc5o7dfjnmctyceqwfru",
+ "version": "v1.0"
+}

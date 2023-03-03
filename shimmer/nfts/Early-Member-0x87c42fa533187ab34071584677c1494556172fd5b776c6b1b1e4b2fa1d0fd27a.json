@@ -1,0 +1,10 @@
+{
+ "description": "A batch for early members",
+ "issuerName": "Soonaverse",
+ "name": "Early Member",
+ "soonaverseId": "0x87319cfa5ed36cc35a80ae5419c791cc4888bfbb",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "",
+ "version": "v1.0"
+}

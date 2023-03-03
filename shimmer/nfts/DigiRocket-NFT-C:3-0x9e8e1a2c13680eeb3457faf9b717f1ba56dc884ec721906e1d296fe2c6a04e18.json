@@ -1,0 +1,13 @@
+{
+ "description": "This is collection of DigiRocket-NFTs class 3 (C:3). Open sale. There are 20 different rockets with 10 rockets for each design, a total of 200 pieces for Presales. Open sale. In the near future it will be possible to use the Rocket-NFTs in the game. Depending on the class, rockets have specific abilities that are unlocked for the player. Rocket-NFTs class 3 are Stylish and are suitable for Player who like to spend time in the game. You can use the Special Skill for twice as long normal. The idea for the DigiRocket game was inspired by the Tangle technology. Use the rocket to move around the tangle world and beat the crypto market competition by completing the levels. In the game you can collect IOTA coins and pay them out to your private wallet. All revenue from selling Rocket NFTs go towards to the development of the game, so we can keep making it better for you. The team DigiMine wishes you fun to play and earn IOTA coins.",
+ "issuerName": "Soonaverse",
+ "name": "DigiRocket-NFT C:3",
+ "royalties": {
+  "smr1qrj5funkmfhf3fh0unx40g7nzr2z8yf6txe95w0jevdv92thplj8kk94wyc": 0.05
+ },
+ "soonaverseId": "0x5d112cebd26f6f4167f3ab2962dd7f8b334389ad",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeifqcbb3qci5jxapqbjwwgbmy63dpc4vvcfukrmjx6os23u4bc7sle",
+ "version": "v1.0"
+}

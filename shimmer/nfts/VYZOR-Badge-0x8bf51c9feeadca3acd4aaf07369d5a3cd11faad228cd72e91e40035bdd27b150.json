@@ -1,0 +1,10 @@
+{
+ "description": "",
+ "issuerName": "Soonaverse",
+ "name": "VYZOR Badge",
+ "soonaverseId": "0xa5b4d23f1834886d7195db19783bb90e3b5ffbed",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiayg3davsnlni3fkli5jvpgf5radauzxhqf3xwfcnbxwbhttz4sme",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "Read 1 book within a month. tell me what u learned.",
+ "issuerName": "Soonaverse",
+ "name": "Read ",
+ "soonaverseId": "0x1814d611de30892d2a75462921edf82ad53da34e",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreickvyvnxl6lbzo3qzpwyprudumdf7rpidgziuhyqicjwafulfnawu",
+ "version": "v1.0"
+}

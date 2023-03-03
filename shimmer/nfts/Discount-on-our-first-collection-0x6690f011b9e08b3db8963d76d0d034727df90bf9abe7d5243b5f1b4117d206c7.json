@@ -1,0 +1,10 @@
+{
+ "description": "Get discounts on collections",
+ "issuerName": "Soonaverse",
+ "name": "Discount on our first collection",
+ "soonaverseId": "0x7f0cbdd4307d652f7cf3ce073b73562bd37a6101",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiek3zkf5j5rmdkr46pghoytxp4xygce456e6mo2pbhntdt2kerz7a",
+ "version": "v1.0"
+}

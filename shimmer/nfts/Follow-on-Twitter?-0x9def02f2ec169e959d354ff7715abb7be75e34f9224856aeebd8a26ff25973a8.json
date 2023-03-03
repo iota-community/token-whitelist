@@ -1,0 +1,10 @@
+{
+ "description": "Send in your Twitter handle, \u0026 once I've verified that you are following, you'll be rewarded.",
+ "issuerName": "Soonaverse",
+ "name": "Follow on Twitter?",
+ "soonaverseId": "0x221e5761b1c546a999508530ab3a198ccc9923ff",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreifstpbvwuf3vjel64ggggx7ao4cvsqmaq42m5g7scq2uqf7cdthdi",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "Become a patient at Kenmore Assylum.",
+ "issuerName": "Soonaverse",
+ "name": "Kenmore Patient",
+ "soonaverseId": "0xbda047527e81df101ff0624d24e298b2aad14238",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiheaplmmpzvdi247anpudk4lep77vcsdyvdfwhboswj7xrvouixyi",
+ "version": "v1.0"
+}

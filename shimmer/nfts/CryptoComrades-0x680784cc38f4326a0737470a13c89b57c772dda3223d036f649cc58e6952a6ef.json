@@ -1,0 +1,13 @@
+{
+ "description": "### The Eight Soviet Leaders viewed in a different light...\n\n[![ ](https://ipfs.io/ipfs/bafybeidx7khbpifpxhji77lo6m2i3axtx2fdxeuipeiwdtz6tfgyxba6tu/CryptoComrades.webp)](https://ipfs.io)",
+ "issuerName": "Soonaverse",
+ "name": "CryptoComrades",
+ "royalties": {
+  "smr1qp0zs6ywaq9qv0plgh4g0ju6lkmuh92s7ctkzgk9e6y6dtdyrfuas0v3egw": 0.15
+ },
+ "soonaverseId": "0x69dcb60faab0da58da5651c7260e509d2830bf00",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeihz34kfmcfx6bilsedlzsgtlun655srt4dmrflqiwvjq6ja7tnozy",
+ "version": "v1.0"
+}

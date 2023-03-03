@@ -1,0 +1,13 @@
+{
+ "description": "Wonderful basketballs for lovers of this fantastic sport, pick up yours and score a basket!",
+ "issuerName": "Soonaverse",
+ "name": "Iota Basket Balls",
+ "royalties": {
+  "smr1qr9jqtp7au390204p6c6h3849a5h4f9qmm32pjgksjnh3hx8fyytjm455qj": 0.1
+ },
+ "soonaverseId": "0xfb4eac5b1813b4158a27b4634ce66f7089e6ed57",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeiaw6th5svsbblst6242ata4bdlwd6jey6vl77q2wzggugkgt56dqa",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "Every game for -15% for all VIP supporters",
+ "issuerName": "Soonaverse",
+ "name": "Supporter VIP",
+ "soonaverseId": "0x18a49e9294ff9751bf47e67bf552830bf99e8f31",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiavkootfvmi6jsuyo35uen245oti44vgz6ow427n62d6nld3cnufe",
+ "version": "v1.0"
+}

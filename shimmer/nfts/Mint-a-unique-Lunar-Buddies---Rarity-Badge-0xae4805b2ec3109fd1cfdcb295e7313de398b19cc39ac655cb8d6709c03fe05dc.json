@@ -1,0 +1,10 @@
+{
+ "description": "Rarity Badge - given to owner of a Lunar Buddy with 10% rarity",
+ "issuerName": "Soonaverse",
+ "name": "Mint a unique Lunar Buddies - Rarity Badge",
+ "soonaverseId": "0xc01f38c58b866b5983330210bba4ec62156fb04d",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeiewleimldmyrab7s3akftbbj2txwmhbh4ukznlgqsamtqbjwsfryq",
+ "version": "v1.0"
+}

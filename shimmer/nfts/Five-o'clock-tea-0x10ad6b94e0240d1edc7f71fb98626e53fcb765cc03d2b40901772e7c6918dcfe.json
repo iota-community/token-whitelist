@@ -1,0 +1,10 @@
+{
+ "description": "relax and drink a tea time",
+ "issuerName": "Soonaverse",
+ "name": "Five o'clock tea",
+ "soonaverseId": "0x629e71513fb1078f5f2cc1bae66a7852a5b99237",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreigyfz5ws3v4kmayljwj7it56skwfnrbcfc2lmopctcshuvngder3u",
+ "version": "v1.0"
+}

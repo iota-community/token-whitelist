@@ -1,0 +1,10 @@
+{
+ "description": "IOTASoccerTeam",
+ "issuerName": "Soonaverse",
+ "name": "IOTASoccerTeam",
+ "soonaverseId": "0x22ce811969965fbb16f7469580cfd7f2e1ace431",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreic7zf2sw3pw55jul7uoatb2tmmmaqxcsowzg6ftr5amvdcwbstvp4",
+ "version": "v1.0"
+}

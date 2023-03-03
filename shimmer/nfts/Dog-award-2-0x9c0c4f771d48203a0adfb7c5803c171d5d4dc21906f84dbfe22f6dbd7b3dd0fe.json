@@ -1,0 +1,10 @@
+{
+ "description": "award for dog dachshund test",
+ "issuerName": "Soonaverse",
+ "name": "Dog award 2",
+ "soonaverseId": "0x314a1ff7b7f175da6f10d2b32ee0bee6b370bb98",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreihzq22gps5hof7eqxm7wnl6c7kqzqn5ywicbxcveh6pellxvfispu",
+ "version": "v1.0"
+}

@@ -1,0 +1,13 @@
+{
+ "description": "The first collection of hoopdance cards in tribute to the 80's",
+ "issuerName": "Soonaverse",
+ "name": "Hooping cards",
+ "royalties": {
+  "smr1qqp53jg9fc70ep22cty64d0g30yjwdrwhugp0te06suaqmyytsl2kyrvty7": 0.1
+ },
+ "soonaverseId": "0xe844e5aaeebf7a6f36ddfd6a46a0fd04ba771a32",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafkreigzn2yghvla4b2d32jkkkatu2kuywl462rvp6knfdnqb6pjvkympi",
+ "version": "v1.0"
+}

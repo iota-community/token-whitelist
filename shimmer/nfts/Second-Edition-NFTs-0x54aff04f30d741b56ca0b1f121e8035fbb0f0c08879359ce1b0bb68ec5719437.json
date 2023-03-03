@@ -1,0 +1,10 @@
+{
+ "description": "Badge for purchasing Second Edition NFTs.",
+ "issuerName": "Soonaverse",
+ "name": "Second Edition NFTs",
+ "soonaverseId": "0x47f56e1af4d982a856b6f7cab22166e5e2ade98d",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeifrr4563rf5ff56i22apzd6ke6dlelbsekb6xee5hqjkwrqzhdszm",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "Retweet us and provide proof",
+ "issuerName": "Soonaverse",
+ "name": "Retweet @Moon_Vault_News",
+ "soonaverseId": "0x194347b7fd9b4a7456f3e3c67dd7134a76ea1b1b",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiawrxwvvu666pp4ufiithgbxrl44orx6tp4bgpznfbkpq6r26o6fm",
+ "version": "v1.0"
+}

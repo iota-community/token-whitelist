@@ -1,0 +1,10 @@
+{
+ "description": "Mint Raoul pal NFT",
+ "issuerName": "Soonaverse",
+ "name": "Raoul pal",
+ "soonaverseId": "0x8547bab6f1eb024a1894a38ae96c690856ad6ca5",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiek3zkf5j5rmdkr46pghoytxp4xygce456e6mo2pbhntdt2kerz7a",
+ "version": "v1.0"
+}

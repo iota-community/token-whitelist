@@ -1,0 +1,13 @@
+{
+ "description": "Hey! I'm Shelly, nice to meet you!\n\nHere you can find me in different shell colors, my skin color can also vary. And best of all: Various small details can be discovered! Can you pick up one of the six golden of mine?",
+ "issuerName": "Soonaverse",
+ "name": "Shelly Lottery",
+ "royalties": {
+  "smr1qzk0ndf2qrygvqmsfn4dacj56q5s3vxjzndqsvslh3trcrm8ee8lcev4gkc": 0.05
+ },
+ "soonaverseId": "0xfe87c8a6a06e47118a32b94fa8c214b4ec079752",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreidgsazzcrwhayg536dnayzhfphjkpxrxifkz4oesjye262ri6wk6a",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "NFT early adaptor",
+ "issuerName": "Soonaverse",
+ "name": "NFT early adaptor",
+ "soonaverseId": "0x13e0b3b8e1aa40740fcbf5b42b772f592c03125d",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "Gaurdian",
+ "issuerName": "Soonaverse",
+ "name": "Guardian Award",
+ "soonaverseId": "0x77a1cea7c78f8ce8bfc8e2381b5326af90c6a7ec",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreidoceyplrcfxhqhvlfaqbz33tqzxm5n2vq6yllh7rmspmllvqrw4u",
+ "version": "v1.0"
+}

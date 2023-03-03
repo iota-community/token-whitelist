@@ -1,0 +1,10 @@
+{
+ "description": "If you have not received the badge due to exhaustion of badges, please apply again.",
+ "issuerName": "Soonaverse",
+ "name": "follow twitter",
+ "soonaverseId": "0x9196817aa443bbacb806486fc6b5c144f1ef42d9",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiap6ueop3qqroj4qj3yugvfikehzfjc2zuqtcpa7wirf7fmribs5e",
+ "version": "v1.0"
+}

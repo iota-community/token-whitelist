@@ -1,0 +1,10 @@
+{
+ "description": "Badge required to collect the latest Golden Bored Robots.",
+ "issuerName": "Soonaverse",
+ "name": "The last of us :D",
+ "soonaverseId": "0x9a00b4a6a4ad43afc2b88c93fef61d9a13735b31",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiet2xzan33ypsoixwu3l2oknxpmmz7dzk6ipkdod5i3joidft5okq",
+ "version": "v1.0"
+}

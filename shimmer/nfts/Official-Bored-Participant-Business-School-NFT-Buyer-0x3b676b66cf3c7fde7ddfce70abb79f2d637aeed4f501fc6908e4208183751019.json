@@ -1,0 +1,10 @@
+{
+ "description": "You need IOTA to buy an NFT. Once you managed to get them, I grant you this badge. Please send me your IOTA Wallet Adresse via Slack as Private Message. After that, you can get the NFT.",
+ "issuerName": "Soonaverse",
+ "name": "Official Bored Participant Business School NFT-Buyer",
+ "soonaverseId": "0x7cf49c44fc6c5b2595eb672962ad27b7ec5d39fa",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreibsnalv6fk2gz3pdbwsbnklomudrxqg5jvgx6c5ixaemjvgqim47e",
+ "version": "v1.0"
+}

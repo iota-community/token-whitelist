@@ -1,0 +1,13 @@
+{
+ "description": "Fragments by Heiartwork for the Soonaverse. Collection of 10 - 1/1 pieces.",
+ "issuerName": "Soonaverse",
+ "name": "Fragments",
+ "royalties": {
+  "smr1qqnmk6x4lww4d6m200r3pew0f5278qcsrfrfmlaa2g4k3ktnhhhu6k8y62r": 0.1
+ },
+ "soonaverseId": "0x96a40ed152df9e30d44f740b0d5cf617b9a2217b",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeihmw3i7efsa6rctdvxhinuf6i5uq3gumvh5aqn3i7g4k6zgifisjm",
+ "version": "v1.0"
+}

@@ -1,0 +1,13 @@
+{
+ "description": "52 Card Deck of No Limit Hold'em Fish Buffet - nothing more, nothing less. The first card deck we used for our 1326 NFT collection was from www.pokertablethemes.eu with permission for use. This 52 card deck collection is made by myself and will be used for future NFT collections.",
+ "issuerName": "Soonaverse",
+ "name": "No Limit Holdem Fish Buffet Card Deck",
+ "royalties": {
+  "smr1qray9ucd8fgdmqj6nnaqme2hfjcz9cq9mhjan62hr7xgn0fkrk54zmld3dz": 0.01
+ },
+ "soonaverseId": "0x6512f0fc3a3ee333db312ec0bd05bf213ffd1280",
+ "standard": "IRC27",
+ "type": "application/octet-stream",
+ "uri": "ipfs://bafybeihszncnabbi6isw6kofu5acirm2gllxnipwisdp5wk3dhgopetyzu",
+ "version": "v1.0"
+}

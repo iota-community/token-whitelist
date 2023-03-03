@@ -1,0 +1,10 @@
+{
+ "description": "Catch the badge ",
+ "issuerName": "Soonaverse",
+ "name": "Catch the badge",
+ "soonaverseId": "0x884fe60b30d5e3a904a211f5b6da2c956b961b9b",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeib5xaw7xux33yk7q7fai2tja3zi2t2e7k72ief4cu3mis26kcatmm",
+ "version": "v1.0"
+}

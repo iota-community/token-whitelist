@@ -1,0 +1,10 @@
+{
+ "description": "You have won the CryptoZonas Giveaway. Congratulation",
+ "issuerName": "Soonaverse",
+ "name": "CryptoZonas Giveaway Winner",
+ "soonaverseId": "0x6da79fcb96fe9a4ef3135b0f641e7ad849b35ed5",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiagdan76fpblep3jb3ygcr6oelc4jqzqnrqtvsjqc57lmeygaz6oq",
+ "version": "v1.0"
+}

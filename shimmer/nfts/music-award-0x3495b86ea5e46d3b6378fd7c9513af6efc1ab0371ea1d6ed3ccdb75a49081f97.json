@@ -1,0 +1,10 @@
+{
+ "description": "music award",
+ "issuerName": "Soonaverse",
+ "name": "music award",
+ "soonaverseId": "0x94ed0c82b381675f018c6e66c3a5fb2b313983e5",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeibttnn44oscio4srubaxgk3toes7i7rerbduhlwmeqdbulxan55ay",
+ "version": "v1.0"
+}

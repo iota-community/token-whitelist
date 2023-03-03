@@ -1,0 +1,10 @@
+{
+ "description": "Breaking News Award",
+ "issuerName": "Soonaverse",
+ "name": "Breaking News Award",
+ "soonaverseId": "0x3e185950fddb63a791122682e45cc9a65789e557",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeidihvc3xlbnwv6dip5j6ribg6p3rvwruckjgz7evr5lav6yg4ra6a",
+ "version": "v1.0"
+}

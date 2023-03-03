@@ -1,0 +1,10 @@
+{
+ "description": "Welcome to our family.\n\nThis reward is only given to new members, if you don't have enough XP, just check our section and earn some extra points!",
+ "issuerName": "Soonaverse",
+ "name": "New member of Collectible Stamps.",
+ "soonaverseId": "0x4720fca4c300be6af4f3c739366b657a7379f5d5",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiadhxlk2dpytueo55jn6ezfvaxo2uwyap4r23vjd4etis7oha6ur4",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "The Limited NFT powered by TanglePay and Tangle Rally is coming! Anyone retweet+like the following tweet will be able to get a TanglePay Badge,\nhttps://twitter.com/tanglepaycom/status/1513405981526740992",
+ "issuerName": "Soonaverse",
+ "name": "Spreading the good news on Twitter",
+ "soonaverseId": "0xa52b48bbd29710ac1db8bc51ba1ec7cd94ccc664",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreidfxuzcrgg64fd5cyka3ad7v7ddlqmcrkjcy2sxohzfsc74qdgoxy",
+ "version": "v1.0"
+}

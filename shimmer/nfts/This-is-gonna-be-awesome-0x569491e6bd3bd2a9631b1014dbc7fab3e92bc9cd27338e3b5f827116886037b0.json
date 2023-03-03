@@ -1,0 +1,10 @@
+{
+ "description": "Best badge in the world!",
+ "issuerName": "Soonaverse",
+ "name": "This is gonna be awesome",
+ "soonaverseId": "0xb33b12ecb5d27453f62c5bf52a65642337c46cd5",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreigymrph4qanl6cx2f3asakcb4uswvxqikejtdeaaqfxxozqhkmk5u",
+ "version": "v1.0"
+}

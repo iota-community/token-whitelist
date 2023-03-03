@@ -1,0 +1,10 @@
+{
+ "description": "Be part of the IOTA Kitties community from the beginning",
+ "issuerName": "Soonaverse",
+ "name": "Genesis Kitty",
+ "soonaverseId": "0x491e2033b2ac61d90d0c9a86a764922ccf075ee6",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreigxknsinswfhmv6xrpnxsdslkb2cawqjjvtpsa4ca3whdj62lu6ym",
+ "version": "v1.0"
+}

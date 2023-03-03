@@ -1,0 +1,10 @@
+{
+ "description": "If you could change one thing in the world, what would it be?",
+ "issuerName": "Soonaverse",
+ "name": "What would you change in the world if you could?",
+ "soonaverseId": "0x7dbd5afed91ede41ec7e4bd5f486509cdb86e5d6",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreifstpbvwuf3vjel64ggggx7ao4cvsqmaq42m5g7scq2uqf7cdthdi",
+ "version": "v1.0"
+}

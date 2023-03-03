@@ -1,0 +1,10 @@
+{
+ "description": "This is the backup award for our giveaway series on the Soonacity collection in case those free cribs haven't been claimed. If free cribs won't be claimed after a longer period we will reopen those giveaway spaces.",
+ "issuerName": "Soonaverse",
+ "name": "Backup Soonacity Giveaway",
+ "soonaverseId": "0xb67d48a060fee030fcc131994ad9d9bf5586071e",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeifioww3u4t253qwe2mim4magqtmrw5pzjdngjliixmghewyqoc72e",
+ "version": "v1.0"
+}

@@ -1,0 +1,13 @@
+{
+ "description": "Collection of unique art works made in oil/pencils on canvas.\n\nStarting work on paintings 2019 - finishing 2022.\n\nBuyer receives: NFT, original artwork in oil on canvas, wooden frame and free shipping to anywhere in the world.",
+ "issuerName": "Soonaverse",
+ "name": "Collection ?/12",
+ "royalties": {
+  "smr1qpjhaxr02w0kq7fdc49wst297zxjvkck26r392se6p2gy2qm5f3zz8mtn5q": 0.025
+ },
+ "soonaverseId": "0xc74ef82dfc6f5480c9a986053572b0c96b4f179e",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeigseaiq3ia5acf5dmdxzvvfebssandxtvyv2ffmk5a3jvdgm65xta",
+ "version": "v1.0"
+}

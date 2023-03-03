@@ -1,0 +1,10 @@
+{
+ "description": "Mande uma mensagem provando ser um verdadeiro br que receberás essa super medalha! ",
+ "issuerName": "Soonaverse",
+ "name": "Medalha HUEBR",
+ "soonaverseId": "0x2b66e929a9a926c733e417a2244ab620ee21dd49",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreia6hi6cjmoz4vufmuqlxw4yvug5ir47ptgkz6vgdf7ov3ivgah6ra",
+ "version": "v1.0"
+}

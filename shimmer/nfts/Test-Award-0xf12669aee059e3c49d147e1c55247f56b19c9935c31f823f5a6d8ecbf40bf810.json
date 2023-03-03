@@ -1,0 +1,10 @@
+{
+ "description": "Shill our project",
+ "issuerName": "Soonaverse",
+ "name": "Test Award",
+ "soonaverseId": "0xaa76da2f44d39d01284fc300afb0dc848b635033",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "",
+ "version": "v1.0"
+}

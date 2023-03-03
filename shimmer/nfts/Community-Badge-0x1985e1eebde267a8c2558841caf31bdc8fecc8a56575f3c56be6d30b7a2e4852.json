@@ -1,0 +1,10 @@
+{
+ "description": "Community Reward Badge",
+ "issuerName": "Soonaverse",
+ "name": "Community Badge",
+ "soonaverseId": "0xa8d3380d74cf1c150715c17635933097ba711021",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreidoceyplrcfxhqhvlfaqbz33tqzxm5n2vq6yllh7rmspmllvqrw4u",
+ "version": "v1.0"
+}

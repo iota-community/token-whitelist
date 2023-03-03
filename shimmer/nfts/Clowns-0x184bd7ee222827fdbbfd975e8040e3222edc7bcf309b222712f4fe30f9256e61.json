@@ -1,0 +1,13 @@
+{
+ "description": "if you or someone around you is afraid of clowns, please do not click on the following collection",
+ "issuerName": "Soonaverse",
+ "name": "Clowns",
+ "royalties": {
+  "smr1qznk5wvng3ae855sk9faszpc97lnf5rac45cecptx5u3ny7q59lxz32xz4n": 0.04
+ },
+ "soonaverseId": "0x815066226bb1b58a851fa18a6c66e345dda6eae3",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeic7o6auttxcpd47ed6m3qfmsthrwcasqebauunbspik2xqeliyaou",
+ "version": "v1.0"
+}

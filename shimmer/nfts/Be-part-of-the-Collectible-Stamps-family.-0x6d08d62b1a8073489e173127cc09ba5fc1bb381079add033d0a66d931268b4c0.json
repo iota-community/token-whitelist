@@ -1,0 +1,10 @@
+{
+ "description": "If you get an NFT from any Collectible Stamps collection you become level 2 where you will get benefits in future collections.",
+ "issuerName": "Soonaverse",
+ "name": "Be part of the Collectible Stamps family.",
+ "soonaverseId": "0x4a6b1e12515e45566f525265f451dfe4bb551da8",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiadhxlk2dpytueo55jn6ezfvaxo2uwyap4r23vjd4etis7oha6ur4",
+ "version": "v1.0"
+}

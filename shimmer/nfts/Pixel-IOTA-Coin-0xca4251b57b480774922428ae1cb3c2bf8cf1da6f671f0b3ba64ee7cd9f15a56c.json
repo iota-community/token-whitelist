@@ -1,0 +1,13 @@
+{
+ "description": "This is the first coin of the pixelated future: the IOTA.\nNumbered coin title for each nft. Only 8 copies.",
+ "issuerName": "Soonaverse",
+ "name": "Pixel IOTA Coin",
+ "royalties": {
+  "smr1qqt58w88c5eeclldp7tq8shq3t7pgy38j0k9hfx9y86qa6p40zadjy6hkce": 0.07
+ },
+ "soonaverseId": "0xd3bc5084a5e3b0d61e06711c2faf21553e92891c",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeice52zzydadednc7htek3y4nxtiumx5ninb5cjrxxuag57bazfa3i",
+ "version": "v1.0"
+}

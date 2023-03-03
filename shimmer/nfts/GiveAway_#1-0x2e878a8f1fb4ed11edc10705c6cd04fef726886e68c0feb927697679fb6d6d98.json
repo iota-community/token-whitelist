@@ -1,0 +1,10 @@
+{
+ "description": "Badge for the winners of the Twitter Giveaway",
+ "issuerName": "Soonaverse",
+ "name": "GiveAway_#1",
+ "soonaverseId": "0x8f21d9e315a181c340ca9a8bbf649bdbea050755",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreihb6yk27374elk43cotp523z46wnr5drdrlteexyybwe2jmknnh7e",
+ "version": "v1.0"
+}

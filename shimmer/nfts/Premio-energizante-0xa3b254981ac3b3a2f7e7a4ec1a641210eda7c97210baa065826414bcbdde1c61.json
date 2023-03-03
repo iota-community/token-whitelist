@@ -1,0 +1,10 @@
+{
+ "description": "Solo para miembros del Espacio.\n",
+ "issuerName": "Soonaverse",
+ "name": "Premio energizante",
+ "soonaverseId": "0xbf0173f5585c82790ac949750d7c12f5c8ffb93a",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiaj3fplvxq5g44ka3m5gn3lrrqr44ddfpey3cspgtny3acfh4giby",
+ "version": "v1.0"
+}

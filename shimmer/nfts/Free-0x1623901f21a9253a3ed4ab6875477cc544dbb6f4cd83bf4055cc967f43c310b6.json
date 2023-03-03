@@ -1,0 +1,10 @@
+{
+ "description": "Free",
+ "issuerName": "Soonaverse",
+ "name": "Free",
+ "soonaverseId": "0x62ee012fdc1584f63eda9485f227c6b2d290a94d",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "",
+ "version": "v1.0"
+}

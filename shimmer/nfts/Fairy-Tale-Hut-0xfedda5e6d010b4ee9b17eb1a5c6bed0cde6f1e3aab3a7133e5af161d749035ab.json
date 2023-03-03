@@ -1,0 +1,13 @@
+{
+ "description": "100 unique designs - Limited Edition",
+ "issuerName": "Soonaverse",
+ "name": "Fairy Tale Hut",
+ "royalties": {
+  "smr1qznk5wvng3ae855sk9faszpc97lnf5rac45cecptx5u3ny7q59lxz32xz4n": 0.04
+ },
+ "soonaverseId": "0x0faa44a9189b7145906393fe717f79d300bf3c96",
+ "standard": "IRC27",
+ "type": "application/octet-stream",
+ "uri": "ipfs://bafybeig2ls753yzj5dnxh24uikbyrvgmxylnqhrq2fpaesrz3ta67vdlyy",
+ "version": "v1.0"
+}

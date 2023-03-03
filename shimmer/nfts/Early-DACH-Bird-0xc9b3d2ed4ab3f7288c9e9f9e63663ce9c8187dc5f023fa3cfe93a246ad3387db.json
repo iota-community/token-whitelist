@@ -1,0 +1,10 @@
+{
+ "description": "Der frühe Vogel und so...",
+ "issuerName": "Soonaverse",
+ "name": "Early DACH-Bird",
+ "soonaverseId": "0x911e3c655ce8b5a38da1725be7b8e2778bdb7bf8",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreidxepcpbzdtbm2cm4kpwgvemqspyxjynl5ji5kzf2zenfxhicxdhm",
+ "version": "v1.0"
+}

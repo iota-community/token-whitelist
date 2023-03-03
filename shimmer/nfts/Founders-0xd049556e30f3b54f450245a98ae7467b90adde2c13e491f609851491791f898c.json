@@ -1,0 +1,10 @@
+{
+ "description": "If you joined in \"Floating Heads founders\" you can already claim you Founder badge.",
+ "issuerName": "Soonaverse",
+ "name": "Founders",
+ "soonaverseId": "0x1234ca2242ad85433bdd13e3d3c2314aabf6a64d",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeigse42fslpwusp77v5cfdbepud7v2ckb4cfcf6ezptzuhzvm3tjhu",
+ "version": "v1.0"
+}

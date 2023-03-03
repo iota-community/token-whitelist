@@ -1,0 +1,13 @@
+{
+ "description": "Here comes the first and only limited collection of VDP ART. There are only 13 NFTs of the unique handpicked photos designed in different styles. Only available on the Tangle. Take the chance to get one of these nice NFTs.",
+ "issuerName": "Soonaverse",
+ "name": "VDP ART",
+ "royalties": {
+  "smr1qpvg39g34f0gwgjqesn0qhg2hgm0c3n4daxm7yprev05rrz0unwq7a37wp7": 0.05
+ },
+ "soonaverseId": "0xabbb6d28d20ac6d77d9a6812a774096e49044470",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeifhv4dhjfpuz6ddzsne7ltswme3n6ryrrkioxlnarfxzsw2nzoiky",
+ "version": "v1.0"
+}

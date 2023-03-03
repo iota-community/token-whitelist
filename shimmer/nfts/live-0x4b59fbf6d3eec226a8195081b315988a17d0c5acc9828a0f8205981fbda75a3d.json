@@ -1,0 +1,13 @@
+{
+ "description": "full",
+ "issuerName": "Soonaverse",
+ "name": "live",
+ "royalties": {
+  "smr1qrx6l999fjtmm9ew4d45nc73fd8h46jzje8vmtg0claqwc3pge8tygmctns": 0
+ },
+ "soonaverseId": "0xcb7e367e9ad194737d9e495961db53753c2709bd",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafkreick6jjjf72756uvvhvhjwqzqgnbw7je3eaxued7ptuhdyzrbapi7q",
+ "version": "v1.0"
+}

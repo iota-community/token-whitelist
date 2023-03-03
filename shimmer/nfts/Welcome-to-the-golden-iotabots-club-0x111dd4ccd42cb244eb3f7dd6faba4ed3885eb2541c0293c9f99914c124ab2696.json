@@ -1,0 +1,10 @@
+{
+ "description": "Join the club to recieve an award",
+ "issuerName": "Soonaverse",
+ "name": "Welcome to the golden iotabots club",
+ "soonaverseId": "0x5d185f45a95ecc623184940fb6b888a04e918747",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeif2nacpqkhn5hotcafssaqso7mmvzy3zkst5jfdmx5ckaxy2nv6ba",
+ "version": "v1.0"
+}

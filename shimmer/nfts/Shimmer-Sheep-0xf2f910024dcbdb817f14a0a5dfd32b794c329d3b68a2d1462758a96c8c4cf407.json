@@ -1,0 +1,13 @@
+{
+ "description": "Shimmer Sheep is a collection of highly individual 3D Sheep, created by a novel randomization approach. During creation, IOTA projects were asked to submit their logos to be featured on the shirts and caps some of the Sheep are wearing, making this a true community effort.\n##\nSheep come with benefits. Many projects have chosen to sponsor „their“ Sheep, so watch out what your Sheep is wearing to claim the perks:\n- Stageholder shirt or cap -\u003e Stageholder Tokens\n- Shimmer Inu shirt or cap -\u003e 1 DAO Membership\n- IOTAShops shirt or cap -\u003e 20% Discount on IOTA Merch\n- MoonMoron Sheep -\u003e MoonMoron Tokens\n- Metaverse Sheep -\u003e Metaverse Trillionaires Badge, Giveaways, VIP Tickets\n##\nSome Sheep also „own“ NFTs, a small image by their left front foot. If you see\n- Green Whale NFT -\u003e 50% discount on one IOTA Whale NFT purchase\n- Blue Whale NFT -\u003e one free IOTA Whale NFT\n- Sheep NFT -\u003e one free Sheep NFT\n- IOTAPUG NFT -\u003e one free IOTAPUG NFT\n##\nMoreover, there are 19 ultra rare \"special\" Sheep hiding within the herd. You will recognize them when you see them.\n##\nBenefits are for minted Sheep, while supplies last and subject to change.\nThere might be more in the future.\nPlease contact the individual sponsors for details.\nFor more information and examples, please read bit.ly/sheepcheatsheet",
+ "issuerName": "Soonaverse",
+ "name": "Shimmer Sheep",
+ "royalties": {
+  "smr1qq7dgz02jpkf4nd3wvcnlsudkplsz8thpmn9fnpyklatnd6mddgrwqf3zp2": 0.08
+ },
+ "soonaverseId": "0xfaf71b314f1e3c60a11cdec1b723e4404cd5cade",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeib27q4p55kbj6ka7cy753eg57jgkbf3vs264sn36nriy6e2qkd7ty",
+ "version": "v1.0"
+}

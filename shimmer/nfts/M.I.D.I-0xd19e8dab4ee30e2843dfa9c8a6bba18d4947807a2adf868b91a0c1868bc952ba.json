@@ -1,0 +1,10 @@
+{
+ "description": "Incluir archivos M.I.D.I en los NFT?\nInclude MIDI files in the NFT's",
+ "issuerName": "Soonaverse",
+ "name": "M.I.D.I",
+ "soonaverseId": "0xdecc04f53c0b99db2acf197c215c69c59d729c45",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreidue3q3yjwce3tj3kfxuyx2nqvmw2rlzc6xr47mqkrrx6gzeotcu4",
+ "version": "v1.0"
+}

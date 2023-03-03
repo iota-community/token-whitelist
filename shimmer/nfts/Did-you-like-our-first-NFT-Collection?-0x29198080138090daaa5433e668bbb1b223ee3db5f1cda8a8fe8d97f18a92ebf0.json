@@ -1,0 +1,10 @@
+{
+ "description": "Mention your favorite NFT (NFT name)",
+ "issuerName": "Soonaverse",
+ "name": "Did you like our first NFT Collection?",
+ "soonaverseId": "0x0ddf6b514e50756b632b9d197f110d11d659e7af",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreihklr76lodk4t3nd64l7wbekdga5lph2sohlalzsw7y76ayjwxd3m",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "https://twitter.com/AYAnatureNews\n\nLeave your Twitter name in the message box after you hit Participate.",
+ "issuerName": "Soonaverse",
+ "name": "Retweet 1 of our recent tweets",
+ "soonaverseId": "0x123cb89c0358b5671d9a30e5023528c579f1bb4a",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreic27knws6nqez5acxi2nplmkeeeqkbcrujlnzadtuuitu3srejb54",
+ "version": "v1.0"
+}

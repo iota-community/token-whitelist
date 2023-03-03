@@ -1,0 +1,10 @@
+{
+ "description": "Staff",
+ "issuerName": "Soonaverse",
+ "name": "Moderator",
+ "soonaverseId": "0x83f0dfc5e99d2633eeeac655695fb4cb60b16f70",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreibsnalv6fk2gz3pdbwsbnklomudrxqg5jvgx6c5ixaemjvgqim47e",
+ "version": "v1.0"
+}

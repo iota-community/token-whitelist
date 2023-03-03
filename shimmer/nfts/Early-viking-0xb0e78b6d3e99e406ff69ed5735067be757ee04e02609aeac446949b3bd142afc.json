@@ -1,0 +1,10 @@
+{
+ "description": "Limited number to early IOTA Viking members.",
+ "issuerName": "Soonaverse",
+ "name": "Early viking",
+ "soonaverseId": "0xe011921f21ab38375ebc4653262c56e9c175f542",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeifwl23emubm4qe7wa425scir2uvd65lg2qqwaw4hmfdkc5smmclqm",
+ "version": "v1.0"
+}

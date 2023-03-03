@@ -1,0 +1,13 @@
+{
+ "description": "This castle has wine in it. Buy an nft.",
+ "issuerName": "Soonaverse",
+ "name": "Castle full of wine",
+ "royalties": {
+  "smr1qrmyfvmw4h9dujvlkelpsue4e3knak64mg73lhx97a207clqq02uw2x7ax4": 0.01
+ },
+ "soonaverseId": "0x197b25e8f34b464ebe90d7c7b3df14b9cdd86e13",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeicpl4xb5qh4mphw5qurdct32wm6sw3cvnesbxzzlellfwdofx54qm",
+ "version": "v1.0"
+}

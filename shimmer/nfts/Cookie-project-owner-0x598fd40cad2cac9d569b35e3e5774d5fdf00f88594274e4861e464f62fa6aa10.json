@@ -1,0 +1,10 @@
+{
+ "description": "This is a badge for the owner of this project",
+ "issuerName": "Soonaverse",
+ "name": "Cookie project owner",
+ "soonaverseId": "0x434ff6f875f4a8a309b2d6450bf19a12ceab1d07",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiaigeeaa72nvduhjgkmjdsg6ihpjutfur4ep2flxpnrzpuy6rxhbm",
+ "version": "v1.0"
+}

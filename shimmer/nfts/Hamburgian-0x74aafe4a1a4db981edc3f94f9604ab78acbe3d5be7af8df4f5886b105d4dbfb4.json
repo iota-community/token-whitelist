@@ -1,0 +1,10 @@
+{
+ "description": "",
+ "issuerName": "Soonaverse",
+ "name": "Hamburgian",
+ "soonaverseId": "0x27d22a72249e37887ea60e823de9c08d5580e989",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeif2jsmwykn2bckbfwls2govcw6qiq7gj22tjvmvhc7nn5mqhytox4",
+ "version": "v1.0"
+}

@@ -1,0 +1,13 @@
+{
+ "description": "from far away",
+ "issuerName": "Soonaverse",
+ "name": "anteroom fiery astro",
+ "royalties": {
+  "smr1qrx6l999fjtmm9ew4d45nc73fd8h46jzje8vmtg0claqwc3pge8tygmctns": 0.05
+ },
+ "soonaverseId": "0x415b24b910c41eb307b20f5fd8c7e3ac0000fa5b",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafkreiehqgszhurnpafmi3rm5xchctuw7fps564tnkctl7qrsuormyg4x4",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "Mooner!",
+ "issuerName": "Soonaverse",
+ "name": "Is it time to visit moon?",
+ "soonaverseId": "0xf86e148b9ccc88b162d314097aa39efd3524a975",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreifkmagxmvdjxmdkiga3ouelsv3ikyaunu4c56gz4h2a7pfyzd4jhq",
+ "version": "v1.0"
+}

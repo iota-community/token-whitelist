@@ -1,0 +1,10 @@
+{
+ "description": "Daum",
+ "issuerName": "Soonaverse",
+ "name": "Daum",
+ "soonaverseId": "0xc21808c0ee8f26a2815842793575d91ef84d403c",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "",
+ "version": "v1.0"
+}

@@ -1,0 +1,13 @@
+{
+ "description": "This is a brief overview of my trip to the waterfall.",
+ "issuerName": "Soonaverse",
+ "name": "Geroldsauer Wasserfall by Fresh Reuter",
+ "royalties": {
+  "smr1qqlsnv78e8vtrjhzgljuc8xyfddhgv7e8q2rmj5q24dnpfy8wtxrv257mqq": 0.1
+ },
+ "soonaverseId": "0xb2a532e86df3d7dbdebc3a70e51a15d10b7dd0dc",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeidqjdqlj5awnu4f5gzcyxrnow7mi4aomngyteja2r3xwhnepbqdve",
+ "version": "v1.0"
+}

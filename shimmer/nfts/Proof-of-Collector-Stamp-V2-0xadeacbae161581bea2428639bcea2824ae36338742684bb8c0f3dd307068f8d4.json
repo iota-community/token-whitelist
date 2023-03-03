@@ -1,0 +1,10 @@
+{
+ "description": "Tell us which property/attribute of the \"DarkBunny's\" collection you found most fun.\n\nTo take the points you must answer with an attribute and its respective indicative number.\nExample: Marital Status: Married /Number: DarkBunny #01\n\n-If you have already participated in the previous Proof of Collector Stamp and have obtained your reward, you cannot obtain this award.\n-Answers cannot be repeated.\n",
+ "issuerName": "Soonaverse",
+ "name": "Proof of Collector Stamp V2",
+ "soonaverseId": "0x85cc32ef94307d9d088b21bb5e7e7146397fdf09",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiadhxlk2dpytueo55jn6ezfvaxo2uwyap4r23vjd4etis7oha6ur4",
+ "version": "v1.0"
+}

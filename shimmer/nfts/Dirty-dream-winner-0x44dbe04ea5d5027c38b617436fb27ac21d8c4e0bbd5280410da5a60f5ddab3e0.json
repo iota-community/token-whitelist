@@ -1,0 +1,10 @@
+{
+ "description": "Claim if you won a dirty dream",
+ "issuerName": "Soonaverse",
+ "name": "Dirty dream winner",
+ "soonaverseId": "0xbc4493f1850c187376a724e6b419dfa4574f5acb",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreignbpfzvtqaddtzplwmylbw5voksd3rj3ugy3p76f7cv6usmeny54",
+ "version": "v1.0"
+}

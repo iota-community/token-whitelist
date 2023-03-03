@@ -1,0 +1,13 @@
+{
+ "description": "100 unique designs - Limited Edition",
+ "issuerName": "Soonaverse",
+ "name": "Zombies",
+ "royalties": {
+  "smr1qznk5wvng3ae855sk9faszpc97lnf5rac45cecptx5u3ny7q59lxz32xz4n": 0.04
+ },
+ "soonaverseId": "0x7ea0bc897a7a6981fa43fc878d3a3533a5c2a9d9",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeihcjdyiejomud4jccmamiuccpsvjutllgfiu2nv5bji2ld4bgatc4",
+ "version": "v1.0"
+}

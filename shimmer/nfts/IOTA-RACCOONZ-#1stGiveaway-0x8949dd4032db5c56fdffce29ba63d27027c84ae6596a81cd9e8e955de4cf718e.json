@@ -1,0 +1,13 @@
+{
+ "description": "The first giveaway was drawn on 8/14/22. The winner was announced on the Raccoonz City discord server. discord.gg/YpY2yjuGKm ",
+ "issuerName": "Soonaverse",
+ "name": "IOTA RACCOONZ #1stGiveaway",
+ "royalties": {
+  "smr1qp962ljjxuzgk4ucg4w0xlf9t2p4sdzgzuy6qjv8numc0e7wv6wzs0vk42c": 0.1
+ },
+ "soonaverseId": "0x230f5783da5f78d47f2a47d415a4f02109e73421",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeigc4oozqxp7pndjk5bfrqedhaxmhzfzwbz65xocqidicxutn57rgq",
+ "version": "v1.0"
+}

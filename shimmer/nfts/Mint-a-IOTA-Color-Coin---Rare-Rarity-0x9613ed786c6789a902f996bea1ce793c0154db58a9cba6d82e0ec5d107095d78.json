@@ -1,0 +1,10 @@
+{
+ "description": "You have minted a IOTA Color Coin with Rare rarity - Pink, Purple, Blue or Green.\n\n\n",
+ "issuerName": "Soonaverse",
+ "name": "Mint a IOTA Color Coin - Rare Rarity",
+ "soonaverseId": "0xd84903dc6e2dbe78cb9e4e1e441264062d63f63f",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeihozg5zaxygcp6v7ykgstiz3eusgybkh4zqvxa3kx6epkx544eusm",
+ "version": "v1.0"
+}

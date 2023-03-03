@@ -1,0 +1,10 @@
+{
+ "description": "VIP DISCOUNT",
+ "issuerName": "Soonaverse",
+ "name": "VIP DISCOUNT",
+ "soonaverseId": "0x5bb69ffaca46863ba142d9f59c632436985f4284",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeihvxf3hpdb4yd26p45asu6cdlpvlyhlrqbsomel2jgc6fcrceotn4",
+ "version": "v1.0"
+}

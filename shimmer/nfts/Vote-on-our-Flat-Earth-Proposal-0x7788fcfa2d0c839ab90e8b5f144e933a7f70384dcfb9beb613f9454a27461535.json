@@ -1,0 +1,10 @@
+{
+ "description": "Please vote on our Flat Earth proposal if you're interested!",
+ "issuerName": "Soonaverse",
+ "name": "Vote on our Flat Earth Proposal",
+ "soonaverseId": "0x7552a0cbc3ab679788cd087df10cc66b8581cb8d",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreifstpbvwuf3vjel64ggggx7ao4cvsqmaq42m5g7scq2uqf7cdthdi",
+ "version": "v1.0"
+}

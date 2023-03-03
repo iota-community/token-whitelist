@@ -1,0 +1,13 @@
+{
+ "description": "The awesome #TFTAIR1 is here! Ready to rock and roll! All our NFTs represent token ownership in TheFansTogether DAO, this little beauty is limited to 2,000 holders only. It gives the wallet holder 1,000 TFT tokens at ICO.\n\nThe #TFTNFT collection brings more NFTs with utility to the #SOONAVERSE.\n\nThe Fans Together (recipient of the #IOTA DAOPIONEER grant) brings fans closer to teams through ownership and management of Pro Sports teams by our DAO.\n\nA #TFTNFT is not only cool and designed by our own amazing Hyperr.eth but it vests tokens in #TheFansTogetherDAO at ICO and comes with a #HODL bonus of up to 100%.\n\nThese NFTs are the first possiblity to get a $TFT token and a way to support a project firmly rooted in the #IOTA ecosystem.\n\nCome join our discord and read the whitepaper for more info and to chat with the team. Thanks for looking we’d love your support!\n\nJoin our discord here: discord.gg/jHFCY2aGsv",
+ "issuerName": "Soonaverse",
+ "name": "#TFTAIR1",
+ "royalties": {
+  "smr1qqplwc0zcxkjmfkxwz49cypcryy8a6yhf40ch0n750n82vsgkuqgy6s78mz": 0
+ },
+ "soonaverseId": "0x44e2a9319e528614ceceae638e743dcbb98682bb",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafkreicnrxrj7sn5e2i6zkxbtm7nryokikj6kt4kn5xi6tqpjvfti2k57u",
+ "version": "v1.0"
+}

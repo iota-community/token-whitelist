@@ -1,0 +1,10 @@
+{
+ "description": "first 100 dlt.green pool members",
+ "issuerName": "Soonaverse",
+ "name": "dlt.green early adopter",
+ "soonaverseId": "0xfadc6f3e1460aac5510493c810713bc7c931182c",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeieegrjomuxauoxzl54zmobaedbxpkqljy5wervqrsfum27qacjjku",
+ "version": "v1.0"
+}

@@ -1,0 +1,13 @@
+{
+ "description": "Shimmer called and you answered.\nThis is only the beginning.\n\nDISCLAIMER: All purchases will be refunded.",
+ "issuerName": "Soonaverse",
+ "name": "The OG Shimmer X-Team",
+ "royalties": {
+  "smr1qru0k0d5r87w3rzg62v2gxhgml8903c4e6g4wn65k8c6mzmuvz4hjy0qlvp": 1
+ },
+ "soonaverseId": "0x4dbde2595f2f7b780bc036eb8cde0e63e4f7457e",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeid3ayn5yu3vxcr4glrynynxmxu5clqjzhfguucx7gxltyy6g3fc7y",
+ "version": "v1.0"
+}

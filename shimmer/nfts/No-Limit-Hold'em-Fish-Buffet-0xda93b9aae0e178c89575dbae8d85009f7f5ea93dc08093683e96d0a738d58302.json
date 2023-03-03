@@ -1,0 +1,13 @@
+{
+ "description": "All 1326 NL Hold'em starting hand combinations split into 30 sea creatures playing poker. Sea creatures are different Fish, Whale, Shark, Squid, ... Be aware, sometimes even the smallest can beat a shark! The limited Edition NFTs come in 5 different rarities (Bronze, Silver, Gold, Platinum and Diamond) and a rating from 100 down (Best AA Rating 100, Worst 32o Rating 38). \n\nProbabilites as follows: Diamond 2.56% | Platinum 13.12% | Gold 17.95% | Silver 29.86% | Bronze 36,51%\n-------------------------------------------------------------------------------------\n\nNFT holders will be eligable for $FISH token airdrop. $FISH will be the governance token of Fish Buffet. Also NFT holders will be able to use their NFT's in the poker room for special games, premium membership and rakeback awards.\nFish Buffet aims to become the first decentralized online poker room running on Shimmer (IOTA). \n\n-----------------------------------------------------\nToken ID IRC30 : 0x08f3ba5fb75b1c28cdccdcb281e514e72657663c5a932c2628c5929cb13cef6acd0100000000\n\nTotal Supply: 100.000.000\nCirculating Supply: 66.666.667\nTokens locked: 33.333.333\n_____________________________________\n\nWe will release 777 $FISH to any first owner of the 1326 NFT's\nIn addition we will release more $FISH for completing achievements. 66.666.667 FISH to be distributed. Some of these will include owning 5,10,20 Bronze, Silver, Gold, Platinum, Diamond NFT's, other tasks will be owning a set amount of the same sea creatures. Also special prices for owning the best hands possible and the worst possible hands (32o, 72o).\n_______________________________\n\nStay tuned and follow our socials for updates\n\n_______________________________\nDISCLAIMER: Our services are in early stage of developement. Please invest responsibly!",
+ "issuerName": "Soonaverse",
+ "name": "No Limit Hold'em Fish Buffet",
+ "royalties": {
+  "smr1qray9ucd8fgdmqj6nnaqme2hfjcz9cq9mhjan62hr7xgn0fkrk54zmld3dz": 0.07769999999999999
+ },
+ "soonaverseId": "0x70ac5285443a1d54b4baa474dd69b872b57bac81",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeigpxzrhpu2fih6c3xf4iha4auzlkte3plzheabcu2qjcnhlgpygru",
+ "version": "v1.0"
+}

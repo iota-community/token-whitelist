@@ -1,0 +1,10 @@
+{
+ "description": "Receive a marketplace discount for all our collections",
+ "issuerName": "Soonaverse",
+ "name": "Be a member of The Lonely Pixel Space on Soonaverse",
+ "soonaverseId": "0x189390fa65c86dd8ef0d960d62b0d3e0c48e8263",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreieosszysbrzoejvuisa55tckgd4efinbnuzsqm45lalvje4xx64a4",
+ "version": "v1.0"
+}

@@ -1,0 +1,10 @@
+{
+ "description": "Badge holders will receive 1 / 1000000 NFT Tokenized Art ( Mainnet )",
+ "issuerName": "Soonaverse",
+ "name": "Pioneers",
+ "soonaverseId": "0x48a7430349fb48b0dae75712bcb926b790fd9dda",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreicjqxf32cqguygpmcyl6dplwqr32yam6yso4ykw7wq6kx5dyuqx6m",
+ "version": "v1.0"
+}

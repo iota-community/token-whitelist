@@ -1,0 +1,10 @@
+{
+ "description": "Nur für echte IOTA Fans!",
+ "issuerName": "Soonaverse",
+ "name": "Bist du ein IOTA Fan?",
+ "soonaverseId": "0x9e64a0f24767aecced9cb54811eda259c290f1dc",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "",
+ "version": "v1.0"
+}

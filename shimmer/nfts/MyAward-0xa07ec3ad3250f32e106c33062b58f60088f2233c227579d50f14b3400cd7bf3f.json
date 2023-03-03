@@ -1,0 +1,10 @@
+{
+ "description": "",
+ "issuerName": "Soonaverse",
+ "name": "MyAward",
+ "soonaverseId": "0x5e2ee26ccf5b7b23c41be21436ab4649b7c4242c",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "",
+ "version": "v1.0"
+}

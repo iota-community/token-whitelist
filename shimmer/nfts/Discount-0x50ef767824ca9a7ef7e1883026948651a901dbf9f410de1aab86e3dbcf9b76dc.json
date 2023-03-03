@@ -1,0 +1,10 @@
+{
+ "description": "Members with +5XP = Floating NFT 10% discount\nMembers with +10XP = Floating NFT 15% discount",
+ "issuerName": "Soonaverse",
+ "name": "Discount",
+ "soonaverseId": "0xc977d2ba3fb0d48bed57c557dc123fc330be522c",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeigse42fslpwusp77v5cfdbepud7v2ckb4cfcf6ezptzuhzvm3tjhu",
+ "version": "v1.0"
+}

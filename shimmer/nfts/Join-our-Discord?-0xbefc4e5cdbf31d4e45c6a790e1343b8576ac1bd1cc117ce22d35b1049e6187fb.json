@@ -1,0 +1,10 @@
+{
+ "description": "Send in your Discord handle, \u0026 if I see you've joined our Discord, you'll be rewarded. ",
+ "issuerName": "Soonaverse",
+ "name": "Join our Discord?",
+ "soonaverseId": "0x5488b5727ab03edbe24d6ebc3a9438c2cd94c036",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreifstpbvwuf3vjel64ggggx7ao4cvsqmaq42m5g7scq2uqf7cdthdi",
+ "version": "v1.0"
+}

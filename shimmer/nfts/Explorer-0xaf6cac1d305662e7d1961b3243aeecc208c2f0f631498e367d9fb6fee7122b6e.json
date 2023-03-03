@@ -1,0 +1,10 @@
+{
+ "description": "This badge is awarded to explorers of the system who found major issues.",
+ "issuerName": "Soonaverse",
+ "name": "Explorer",
+ "soonaverseId": "0xf00c6c648ad0ee3bf335aaddd11a012505a33aca",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeifahwv7a2exyfg6qtlno2tuptbxlcuyyxgmdh2uoutndm3ufbf67a",
+ "version": "v1.0"
+}

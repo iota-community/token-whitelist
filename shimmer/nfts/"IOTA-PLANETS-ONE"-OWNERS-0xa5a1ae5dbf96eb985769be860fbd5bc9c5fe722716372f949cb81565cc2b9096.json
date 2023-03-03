@@ -1,0 +1,10 @@
+{
+ "description": "Get benefits for owning a NFT from our first collection \"IOTA PLANETS ONE\"!",
+ "issuerName": "Soonaverse",
+ "name": "\"IOTA PLANETS ONE\" OWNERS",
+ "soonaverseId": "0x34a44d303579a702bf41967509b8ef6a9442a68a",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreiarft7hcd5icnvlvxc33xot7gkw7ovpcvvfoifhaykyvi22qi65ve",
+ "version": "v1.0"
+}

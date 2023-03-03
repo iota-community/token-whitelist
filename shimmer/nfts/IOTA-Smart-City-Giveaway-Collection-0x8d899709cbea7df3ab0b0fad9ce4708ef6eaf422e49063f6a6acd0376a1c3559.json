@@ -1,0 +1,13 @@
+{
+ "description": "196 Lands Giveaway to the IOTA and our Twitter community.\n\nOnly the owners of ISC Giveaway Award are able to acquire this NFT.\n\nThe winners will have to pay 1 Mi to complete the process\n\npre-sale OG Collection sale you can find here:\n\nhttps://soonaverse.com/collection/0x5085d7fa9518e21785ec9ec8f085add50b0a0c9c",
+ "issuerName": "Soonaverse",
+ "name": "IOTA Smart City Giveaway Collection",
+ "royalties": {
+  "smr1qzt4esne3dnc8urrd2ypzfyhnfeqhxwf8u66rly4zzmmglms7gp46ptgasl": 0.1
+ },
+ "soonaverseId": "0x93faffd4438d38a0becd82e58b558a700c5a2c3f",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafybeih23z652gika72wjfic6uhw2yuq4wqxbpic3htwoigncm4mloo7yy",
+ "version": "v1.0"
+}

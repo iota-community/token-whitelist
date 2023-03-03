@@ -1,0 +1,10 @@
+{
+ "description": "First badge from IOTA The Collection Space",
+ "issuerName": "Soonaverse",
+ "name": "IOTA The collection",
+ "soonaverseId": "0x784997293721b18994d674e225053c9fb86e3f77",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafybeihl3msxywpu7e3tykpytczzsf2nls37fphsynflt7gfjhuz76p2cq",
+ "version": "v1.0"
+}

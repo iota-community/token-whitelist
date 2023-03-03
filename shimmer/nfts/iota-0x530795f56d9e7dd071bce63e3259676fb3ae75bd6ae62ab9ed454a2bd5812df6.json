@@ -1,0 +1,10 @@
+{
+ "description": "iota",
+ "issuerName": "Soonaverse",
+ "name": "iota",
+ "soonaverseId": "0x008e82d510668dbf8e29d6febc2d82a2a49852d9",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "",
+ "version": "v1.0"
+}

@@ -1,0 +1,13 @@
+{
+ "description": "Welcome to our first just for fun collection. Who should this be dedicated to if not FEE?\nEnjoy it and always remember - it's just for fun!",
+ "issuerName": "Soonaverse",
+ "name": "Reverse Fee Part I",
+ "royalties": {
+  "smr1qrtgjqskg0v9m0wj4qp6ju5jv4jhnehgp0l57j6n0d3gc3ukn6j5j2c9j3s": 0.05
+ },
+ "soonaverseId": "0xbf16b2c2d9b343bada6e05aa06ee8855f5254193",
+ "standard": "IRC27",
+ "type": "image/jpeg",
+ "uri": "ipfs://bafkreifroztordjhxt3dcswvbwonfjquvtrjnybmo6ydhhafjgchb7aekm",
+ "version": "v1.0"
+}

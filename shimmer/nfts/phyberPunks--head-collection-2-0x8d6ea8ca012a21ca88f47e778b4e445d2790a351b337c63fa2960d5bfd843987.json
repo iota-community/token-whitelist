@@ -1,0 +1,13 @@
+{
+ "description": "93 limited and rare phyberPunks of the phyberHead-collection 2\nonly for members of the phyberPunks space\n",
+ "issuerName": "Soonaverse",
+ "name": "phyberPunks  head-collection 2",
+ "royalties": {
+  "smr1qpq5l7pva6562ysu0afj83avq3cp42v55gwhm5nvvknm5zeugzkx2u8ey50": 0.1
+ },
+ "soonaverseId": "0xd7af058126c837ec69166a35cb449d2f097ed2f5",
+ "standard": "IRC27",
+ "type": "application/octet-stream",
+ "uri": "ipfs://bafybeifoqwlpevsas6khtt6rl254w57psxh5ftgit34g3iep5nexstc4e4",
+ "version": "v1.0"
+}

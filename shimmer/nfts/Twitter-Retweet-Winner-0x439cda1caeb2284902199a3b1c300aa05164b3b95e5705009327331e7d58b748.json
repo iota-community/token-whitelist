@@ -1,0 +1,10 @@
+{
+ "description": "Winner, winner! chicken dinner :)",
+ "issuerName": "Soonaverse",
+ "name": "Twitter Retweet Winner",
+ "soonaverseId": "0x5b227363ea68ff17040cdcbbf28fd0e01c4b83cf",
+ "standard": "IRC27",
+ "type": "image/png",
+ "uri": "ipfs://bafkreicg4sf66a3mdjls3y4px2q2rs636b7pjjkgox4wgx26mozghhzcgq",
+ "version": "v1.0"
+}
