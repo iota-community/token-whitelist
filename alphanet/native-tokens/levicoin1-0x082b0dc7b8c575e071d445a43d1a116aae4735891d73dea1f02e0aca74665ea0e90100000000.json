@@ -1,0 +1,8 @@
+{
+  "standard": "IRC30",
+  "name": "LeviCoinTest",
+  "description": "LeviCoins left behind by the genesis bang",
+  "symbol": "LVL",
+  "decimals": 6,
+  "logoUrl": "https://i.imgur.com/UxwTIPz.png"
+}
