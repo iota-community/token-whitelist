@@ -1,0 +1,13 @@
+{
+  "standard": "IRC27",
+  "version": "v1.0",
+  "type": "image/png",
+  "uri": "ipfs://bafybeihjqxanu77x5vsicouqoqksb2h5bwz2pxt6qifcsoub5q2ijfgsme",
+  "name": "Pharaoh's Collection",
+  "description": "Our Pharaoh NFT collection is a labor of love, featuring 4701 randomly generated Pharaohs across 11 categories and 131 unique traits! You won't find another collection in Soonaverse that matches the time and effort we put into crafting each unique piece.\n \nAll proceeds from the collection will go directly into our DAO's Treasury and distributed according to our project’s  documentation (https://epochzero.io/docs).\n \nEach Pharaoh is unique and will have their own rarity score and boost value which can be obtained from within our Discord server with BossBob. A rarity chart will be available soon after the launch. \n\nPlease join us in our Discord Server to stay up to date https://linktr.ee/epochzero",
+  "issuerName": "Soonaverse",
+  "royalties": {
+    "smr1qrakgv6upxgfc6y2pq2yt605rzry0a3ts0spak6eu7wcpnlhswrgzgw68ut": 0.07
+  },
+  "soonaverseId": "0x81a7845b52d0725c607c80a2c83d390334565b09"
+}
