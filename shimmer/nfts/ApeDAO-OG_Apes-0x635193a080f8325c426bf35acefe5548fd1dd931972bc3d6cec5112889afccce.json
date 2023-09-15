@@ -1,0 +1,12 @@
+{
+  "standard": "IRC27",
+  "version": "v1.0",
+  "type": "image/png",
+  "uri": "ipfs://bafybeiavlpfr33ny3uvn5chkhxhpv3cu5lgtpgpop6ma25cqxiqucnvbaa",
+  "name": "OG Apes",
+  "description": "A collection of 1074 randomly-generated OG Ape NFTs that make you an ApeDAO participant.",
+  "issuerName": "ApeDAO",
+  "royalties": {
+    "smr1qzh0kkkutk38ewdddr4vg3c7sl3l63yfctwhyyvm80cdjryptm86kdksmxu": 0.1
+  }
+}
