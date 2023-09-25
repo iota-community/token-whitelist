@@ -1,0 +1,12 @@
+{
+  "standard": "IRC27",
+  "version": "v1.0",
+  "type": "image/png",
+  "uri": "ipfs://bafkreie4hedelywwtuxxa7musfsmdi7uowosnjle2darwvtxfgwn6ugtyu",
+  "name": "Banana",
+  "description": "A collection of 1111 a-peeling NFTs specially made for ape lovers and art collectors alike.",
+  "issuerName": "ApeDAO",
+  "royalties": {
+    "smr1qzh0kkkutk38ewdddr4vg3c7sl3l63yfctwhyyvm80cdjryptm86kdksmxu": 0.1
+  }
+}
